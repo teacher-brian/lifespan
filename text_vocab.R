@@ -140,3 +140,32 @@ learnObj %>% html_nodes(xpath="//div[@class='skills']") %>% html_text() %>% strs
 #
 #
 #
+
+
+# Learning Objectives
+get_ch_links <- function(x) {x %>% html_nodes("a") %>% html_attr("href")}
+
+ #use rapply to recursively apply above function to list of URL's...but after culling the list
+learnObj %>% html_nodes('p.boxtitle') %>% html_text()
+
+chapter_links <- vector(mode='list',length=length(chaps))
+for(i in 1:length(chaps)){
+
+  get_ch_links(chaps[[i]])
+
+
+  read_html(unlist(chaps[i]))
+  chapter_links[[i]]<- chaps[[i]]  %>% html_nodes('a') %>% html_attr('href')
+}
+for (i in 1:length(chapter_links)){
+  chapter_links[[i]] <- chapter_links[[i]][-(1:17)]
+}
+
+for (i in 1:length(chapter_links)){
+  print(chapter_links[[i]][1])
+}
+
+
+
+
+
