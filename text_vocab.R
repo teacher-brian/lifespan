@@ -87,3 +87,34 @@ colnames(terms) <- columnNames
 kbl(terms[,1]) %>% kable_classic(html_font = "Cambria",full_width=F,position="center",font_size=11)
 
 
+
+
+
+
+# Learning objectives
+Ch1<- read_html('https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/01%3A_Introduction_to_Lifespan_Development')
+
+
+
+  chapter_links[[i]]<- chaps[[i]]  %>% html_nodes('a') %>% html_attr('href')
+
+
+  chapter_links <- list()
+  for(i in 1:20){
+    chapter_links[[i]]<- Ch1  %>% html_nodes('a') %>% html_attr('href')
+  }
+  for (i in 1:length(chapter_links)){
+    chapter_links[[i]] <- chapter_links[[i]][-(1:17)]
+  }
+
+  chapter_links <- chapter_links[[1]][18:28]
+  for (i in 1:length(chapter_links)){
+    out <- read_html(chapter_links[[1]][1]) %>% html_nodes('*') %>% html_attr('class')
+  }
+
+
+learnObj<- read_html('https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/01%3A_Introduction_to_Lifespan_Development/1.08%3A_Research_Methods')
+
+learnObj %>% html_nodes('p.boxtitle') %>% html_text()
+
+learnObj %>% html_nodes(xpath="//p[@class='boxtitle']") %>% html_text()
