@@ -118,3 +118,25 @@ learnObj<- read_html('https://socialsci.libretexts.org/Bookshelves/Human_Develop
 learnObj %>% html_nodes('p.boxtitle') %>% html_text()
 
 learnObj %>% html_nodes(xpath="//p[@class='boxtitle']") %>% html_text()
+
+learnObj %>% html_nodes(xpath="//div[@class='skills']") %>% html_text() %>% strsplit(.,split = '\n')
+
+
+# elements <- html_nodes(pg, ".zone")
+# lapply(elements, function(x) {
+#   data.frame(
+#     postal = html_text(html_node(x, "span"), trim=TRUE),
+#     city = html_text(html_nodes(x, "ul > li"), trim=TRUE),
+#     stringsAsFactors = FALSE
+#   )
+# }) -> tmp
+#
+# Reduce(rbind.data.frame, tmp)
+#
+# # or
+#
+# do.call(rbind.data.frame, tmp)
+#
+#
+#
+#
