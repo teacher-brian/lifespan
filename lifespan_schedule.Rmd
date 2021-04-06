@@ -1,0 +1,318 @@
+---
+title: "Lifespan Schedule Spring 2021"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    config:
+      search: yes
+      toc:
+        after: |
+          <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        before: |
+          <li><a href="./">Lifespan Psychology schedule</a></li>
+        scroll_highlight: yes
+      toolbar:
+        position: fixed
+    css: "style.css"
+    number_sections: yes
+    toc: yes
+    toc_depth: 6
+    toc_float: yes
+description: This is a minimal example of using the rmarkdown package for abnormal
+  psychology
+link-citations: yes
+bibliography: Lifespan.bib
+biblio-style: apalike
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Week 1 {#Week1} 
+
+## What do you want to focus on
+Think about what you want to learn in Lifespan psychology.
+
+It is an incredibly broad discipline. The big question you could use to orient your thinking is: In what ways do psychological factors impact a given person--perhaps a client, a patient, a friend--given that they are of a particular age, gender, and ethnicity? 
+
+Developmental and lifespan psychologists study how people change, psychologically, over time. 
+
+Some topics in the past that I have taught include the following and you may find them useful starting points to think about your own process for this quarter.
+
+1. Critical thinking
+2. Technical writing new paragraph finding published research
+3. Evaluating the quality of published articles, for example contrasting popular sources from academic or scholarly.
+4. General introduction to the content of psychology
+5. Theories within psychology, broadly, or within lifespan.
+6. Criticisms of psychology
+7. Limits of psychology
+8. Philosophy of science
+9. Working within groups
+10. Psychology as it relates to other disciplines
+11. Etiology of Abnormal psychology (causes) across the lifespan
+
+Any and all of these above could qualify.
+
+The goal here is for us to collectively think of it about what you'd like to learn in our time together.
+
+This list is not exhaustive. There's some things that you may want to focus on or add. Perhaps this might include cognitive dissonance about being a white person and being told that you've got white privilege. What are some ways one can think about opening up to that feedback?
+
+Although I have some expert content knowledge in psychology, it's not exhaustive. I don't know everything, I have my own biases and that there may be things you'd like to learn about and practice and I would be open to hearing those things as well as how to incorporate it into the overall class. 
+
+## Read the following
+
+1. [The syllabus](https://docs.google.com/document/d/1hHGE7PPBB5xDwvGxhtKinwrFJeie9Ab5Ex2W1Advm1E/edit?usp=sharing){target='_blank'}
+
+2. [Miller's law of communication (in the syllabus)](https://docs.google.com/document/d/1hHGE7PPBB5xDwvGxhtKinwrFJeie9Ab5Ex2W1Advm1E/edit#heading=h.exo9wouxy9qk){target='_blank'}
+
+3. [George Orwell, Politics and the English Language, 1946 (in the syllabus)](https://docs.google.com/document/d/1hHGE7PPBB5xDwvGxhtKinwrFJeie9Ab5Ex2W1Advm1E/edit#heading=h.x9ksgtnaprc6){target='_blank'}
+
+4. [The 9 standards of Critical thinking (in the syllabus)](https://docs.google.com/document/d/1hHGE7PPBB5xDwvGxhtKinwrFJeie9Ab5Ex2W1Advm1E/edit#heading=h.k5t92q2xnj70){target='_blank'}
+
+5. [Textbook, chapter 1: Intro to Lifespan Development](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/01%3A_Introduction_to_Lifespan_Development){target="_blank"}
+
+6. Dictionary/Wikipedia definitions on: 
+
+      *Anthropomorphize
+ 
+      *Ethnocentrism
+
+
+```{block,type='blueBackground'}
+
+Okay, the following itesm ( 7, 8, 9) deserve a little bit of explanation on my side, and patience on yours.  You may be a very practical sort of person who very much does not like philosophy.  Still, without it, we would not have science. It's True!  Do you know what  Ph.D stands for?  Check it out.
+
+Anyway.  While watching these videos, and reading the sources, just down some notes, including reactions, emotions and thoughts, try to track where your mind wanders (if it wanders), also notice when you get distracted, what part of the reading or video were you just watching?  And don't be afraid to keep asking 'so what?'
+
+That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point channel](https://lifespanpsychology.slack.com/archives/C01T8MQRP26){target="_blank"}
+
+
+Also, I hope to make these videos a lot better in terms of production.  I think I made them at the beginning of the pandemic and well, bleh.
+```
+
+7. watch intro lecture on epistemology
+
+[![Epistemology 8min](../images/Epistemology_better.png){width="40%"}](https://youtu.be/L6fcTl_js5g "Epistemology"){target="_blank"}
+
+8. **Skim from page 2**, sub heading "The Theory of Knowledge"** of the article: An introduction to Stephen C. Pepper's
+philosophical system via
+_World Hypotheses: A Study in Evidence_**, @berryIntroductionStephenPepper1984 [shortcut link ](https://link.springer.com/content/pdf/10.3758%2FBF03333873.pdf){target="_blank"}
+
+9. Watch two vids on Ontology, essentially a review of the World hypotheses reading above:
+
+[![Ontology 1 7 min](../images/Ontology_Mech_Organ.png){width="40%"}](https://youtu.be/_7hkv6O-nBY "Ontology 1"){target="_blank"}
+
+[![Ontology 1 7 min](../images/Ontology_form_context.png){width="40%"}](https://www.youtube.com/watch?v=gbdqJ0ZGvLM "Ontology 2"){target="_blank"}
+
+10. Read about "stereotype threat".  Not stereotypes.  There is a difference.  You'll need to find a source or two on your own.  
+
+
+## Do the following
+
+1. Introduce yourself the Slack [#introductions](https://lifespanpsychology.slack.com/archives/C01TESHV4F6){target="_blank"} channel
+
+2. Write something about what interests you about Lifespan psychology in your one google doc. Be sure to give it a title.  You can also insert a page break between your writings.  
+
+3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the #week_1 slack channel by including a link to your document from step 2 above.
+
+    what is your process for thinking clearly?
+
+    How do you know something is true?
+    
+
+4. Read some of your classmates' posts and comment on some. 
+
+The idea is to be doing weekly writing about the things we read and the prompts that I give you and then you're going to share that information in slack.
+
+# Week 2 {#Week2}
+## orientation
+
+## Read/watch some stuff
+
+[Watch dev video from Bilkent University (Turkey) Hande Ilgaz, Ph.D.](https://www.youtube.com/watch?v=s3iDxvk7Cck){target='_blank'} @bilkentuniversitesiDevelopmentalPsychologyLecture2017 
+
+William perry developmental stages
+  
+
+
+## Do some stuff
+
+review your notes or the video on epistemology
+
+
+Post in to week 2 channel
+
+
+
+
+# Appendix
+
+## Link to getting started help documents
+
+A lot of non-syllabus and/or technical instructions can be found in the [getting_started document](https://rpubs.com/briholt/Getting_started/){target='_blank'}
+
+## Using the library {#useLibrary} 
+
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note: Don't pay for articles</span>
+
+One important word of advice is to never pay for a scholarly article. If you go online and use Google, or even Google Scholar to find online sources, you may be directed to the publication that will charge you a large amount of money to access just one article.  So don’t do that.
+
+Generally there are ways to get articles through our library, so don't pay for articles.
+```
+
+
+To get started with our readings, you'll need to use our Library (online, of course) to obtain many of the articles.  
+
+Finding journal articles is a skill that gets better with practice.  This happens to be why Librarians are so helpful.  They've actually been trained so if you can't find an article, it's okay to ask librarians for help.  
+
+In fact, here is how you can [get help from North Seattle's library staff](https://libguides.northseattle.edu/welcome/askus). 
+
+
+
+### Relationship of an article to its Journal
+
+Using hierarchies helps us organize information. Journal articles, or for that matter the file directories on your computer, work somewhat like an address for a person's home. There are several different parts that give us information to track down and locate whatever it is we're looking for, be it a computer file, or Journal article. Basically, a journal article  has the following components, some of which may be familiar to you :
+
+      Database (of periodicals)
+        Periodical (eg., magazine, newspaper, scholarly journal)
+         Year (of publication)
+           Volume Number
+            Volumne Issue number
+             Page Number (optional, often unnecessary)
+               Article Title
+                  Author
+
+So, to find an article, you'll need to know the parts above.  When you are given a list of references, or citations, nearly all of the information needed above is given to  you.  What is not given, or at least is done implicitly with web searches, is access to the top part, the database.  
+
+#### Here is a typical citation:
+
+>Author(s). (year of pub). "Article Title." <span class='underline'>Periodical title</span>. Volume Number (issue number).
+
+The information in a citation isn't presented in the same hierarchy as above, but all of the necessary parts are there.  
+
+Here is an example citation (reference) for something we may read.  Can you identify the periodical?
+
+>Jay Efran, Michael Lukens, Mitchell Greene. 2007. “Defining Psychotherapy: The Last 25 Years Have Taught Us That It’s Neither Art nor Science.” <span class='underline'>Psychotherapy Networker</span> 31 (2). 
+
+Most of the items in the list above are self-explanatory. I want to focus a bit about periodicals.
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note on formatting citations: underlining publication titles</span>
+
+In print, publication titles are *italicized*.  I have a very hard time noticing that subtle font.  
+
+When you submit a written manuscript for printing, publication titles are <span style='text-decoration: underline'>underlined</span> because traditionally manuscripts were typed with typewriters, and to be able to type italicized words required an entire additional alphabet represented in the hammers.  So, underlining was how you could emphasize a word, and the printer--a physical person--could notice the author's formatting intent and correctly publish the final product in italics. 
+
+It's a bit different now with our computers, obviously.  Still, I have a hard time seeing italicized words and will occasionally use underline. 
+
+So, sometimes I'll underline pub titles, sometimes I'll italicize. I have no rule on this.  I am chaos manifested.  Beware. 
+```
+
+#### Periodicals
+
+These are just the names of the major publication. _The New York Times_, is colloquially known as a newspaper but technically it is a periodical. <span class='underline'>The Journal of Abnormal Psychology</span> is also a periodical. 
+
+When we search for articles, we have to first know which journal, or periodical, owns that article.  So it is a little counter intuitive but once we have identified an article we would like to read, we have to first find out whether or not our College has access to that periodical.  
+
+To do that, we have to use our colleges periodical locator.
+
+### Finding a journal using Periodical locator
+
+#### Periodical locator {#PeriodicalLocator} 
+
+Notice the first link within [North's Article page](https://libguides.northseattle.edu/welcome/articles).  It should say "Periodical Locator"
+
+There are many databases, inside of these databases are pages of journals, and inside those journals are articles. 
+
+**We need to use the periodical locator to determine which database houses which periodical.  With that, we can then open up that periodical and get the article**
+
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note on 'free' articles and tuition/fees</span>
+
+Part of the fees that you pay as a student are used to pay subscriptions for these periodical databases. We have a small, but pretty good selection. Major universities have much larger collections due to their size and tuition/fee structure.
+
+So in a way, you are **not** actually getting this for free because you are paying for library access. That's the benefit of taking classes from a college. If you were not an active student, you would not be able to see many of these articles.
+
+So, download them all!
+```
+
+##### Here's the main point:  
+
+I've given you a list of Articles to read. To read them, you must first find them; some will be out in the internet, some will be in our schools' databases. So, use the information I've given you to find out which location (database, Wikipedia, Google, Google scholar) you'll need to search to obtain the full article. You will start by using the periodicals locator tool.
+
+Let's use that @efranDefiningPsychotherapyLast2007 article.  
+
+1. Go to  [North's Article page](https://libguides.northseattle.edu/welcome/articles) and click on the periodical locator.  
+
+2. Type in the periodical for Efran's piece. 
+
+You will see a link with the periodical's name.  Go ahead and click on this but beware of the next instruction:
+
+3. Once you have clicked on that link you may want to start searching within that publication. But do not do that. Instead, notice a little bit further down the search box you should see something that says "View online" and beneath that you should see something that says "proquest research library".   It’s this piece we need.
+
+That Proquest research library is the database that you've all paid fees to access. So you need to remember that database name.
+
+4. While remembering that database name, you need to go back to  [North's Article page](https://libguides.northseattle.edu/welcome/articles).
+
+5. Notice what is presented here.  You can see Periodical locator, but notice "A to Z" list of databases.  (You might also notice just below two links; one to academic search and the other to Proquest).
+
+
+
+6. Click on "A to Z"
+
+7. You might notice that there are 67 databases that North Seattle has premium access to. In our case we're going to be looking for the proquest direct database. And we can either click on the letter "P" or we can just type in proquest direct.
+
+
+```{block, type='blueBackground'}
+<span class='sidenote'>Note on Popular sources</span>
+
+You may also notice the little tag "popular" next to proquest link.  That's an indicator that the articles are not peer reviewed and so aren't exactly cutting edge science. Even though this particular journal we are looking for, _Psychotherapy Networker_, is flagged as a popular type, it is a place for therapists to share their thoughts on the profession so there is a lot of value in it.
+
+For help in distinguishing the different types of sources, the library has some guides:
+
+* [Scholar vs popular](http://libguides.northseattle.edu/c.php?g=97441&p=630690)
+
+* [Find Scholarly Journals](http://libguides.northseattle.edu/c.php?g=97441&p=630669)
+
+```
+
+8. Opening Proquest from your home, or remotely, you will need to validate your credentials. In other words, you need to prove that your are in fact students of North Seattle before you can continue, which is why you've been prompted to give your last name and student ID number. Once you do that you'll then be able to see inside of the proquest database. Then you can now search for the article.
+
+9. You should see you simple search box, where you can enter in important bits of information. I often start with the author's last name, in this case, Efran,and then some unique identifying feature of the article. A few key words of the article title, or perhaps the full article title will be useful.
+
+But notice that next to the text boxes there are drop down menus. You need to use those, otherwise the search engine will just search for your terms anywhere in the document and will provide too many 'hits'. Instead, you should indicate ‘Efran’ as author, and "defining" in the document title. (of course, you could search any way you like).
+
+When you search for those two terms in their respective fields, you will get two hits and one of them is the article we need. You should notice that it is a full text, not all databases provide full text documents. But in this case it's a full text. You can either print it or read it online.
+
+Yay.  Now you can find the other articles. 
+
+### A quick video of the process
+
+## Anatomy of a journal article
+
+#### Title
+#### Abstract
+#### Introduction
+##### Lit review
+##### hypothesis
+#### Methods
+##### Participants
+##### Materials
+##### Procedure
+#### Results
+#### Discussion
+#### References
+
+
+
+
+
+`r if (knitr:::is_html_output()) '
+# References {-}
+'`

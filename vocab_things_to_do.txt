@@ -1,1 +1,3 @@
 ch1 done
+ch2 done
+ch3 done
