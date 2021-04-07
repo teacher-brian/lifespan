@@ -83,7 +83,7 @@ Although I have some expert content knowledge in psychology, it's not exhaustive
 
 ```{block,type='blueBackground'}
 
-Okay, the following itesm ( 7, 8, 9) deserve a little bit of explanation on my side, and patience on yours.  You may be a very practical sort of person who very much does not like philosophy.  Still, without it, we would not have science. It's True!  Do you know what  Ph.D stands for?  Check it out.
+Okay, the following items ( 7, 8, 9) deserve a little bit of explanation on my side, and patience on yours.  You may be a very practical sort of person who very much does not like philosophy.  Still, without it, we would not have science. It's True!  Do you know what  Ph.D stands for?  Check it out.
 
 Anyway.  While watching these videos, and reading the sources, just down some notes, including reactions, emotions and thoughts, try to track where your mind wanders (if it wanders), also notice when you get distracted, what part of the reading or video were you just watching?  And don't be afraid to keep asking 'so what?'
 
@@ -130,11 +130,31 @@ The idea is to be doing weekly writing about the things we read and the prompts 
 # Week 2 {#Week2}
 ## orientation
 
+There are several things to think about this week. And I'm probably giving you too much to do so I want you to be thoughtful about your limits + 2 focus on the things that interest you.
+
+ my intention is to expose you to a few things here they are:
+
+An introductory lecture two lifespan or developmental psychology in particular
+
+And opportunity to peruse vocabulary from the first three chapters
+
+The chance to think a little bit about metacognition across the lifespan 
+
+My own personal questions about content Has a bit to do with the intersection of the history of what I was taught about the scientific method and the different theories about people about science about psychology, about children and how that knowledge intersects with a particular historical blindness to non-western views.
+
+For instance we're often taught about how the Greeks were the beginning of human rationality, but in a lot of ways they with the Romans we're actually taking advantage of intelligent people in Mesopotamia and Alexandria oh, the video is interesting when the professor goes into detail about the history of the views of children, all of those views seemed to be centered on a relatively Europeans interview. I'm curious about how countries outside of Europe and United States view children 400 years ago a thousand years ago
+
+I don't know if I have the time to find research on that 
+
 ## Read/watch some stuff
 
-[Watch dev video from Bilkent University (Turkey) Hande Ilgaz, Ph.D.](https://www.youtube.com/watch?v=s3iDxvk7Cck){target='_blank'} @bilkentuniversitesiDevelopmentalPsychologyLecture2017 
+[ 48 minutes Watch dev video from Bilkent University (Turkey) Hande Ilgaz, Ph.D.](https://www.youtube.com/watch?v=s3iDxvk7Cck){target='_blank'} @bilkentuniversitesiDevelopmentalPsychologyLecture2017 
+      * as an aside, there are several things in the video that are incorrect.  For instance, I don't believe Darwin said that genes are passed down from one to their offspring.  He hypothesized something must be, but he did not know the mechanism.  That knowledge came later.  He also didn't advocate for 'survival of the fittest.'
+      
+    * When the video gets to the section on theories, you may want to pause, revisit the ontology videos from week 1, and then listen for content that overlaps.  
+    * there is a short segment in the video discussing the history of Thalidomide.  It's brutal.  
 
-William perry developmental stages
+[Review William perry developmental stages as summarized by William Rappaport](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'} @rappaportWILLIAMPERRYSCHEME2018
   
 
 
