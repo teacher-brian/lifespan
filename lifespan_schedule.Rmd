@@ -116,7 +116,7 @@ _World Hypotheses: A Study in Evidence_**, @berryIntroductionStephenPepper1984 [
 
 2. Write something about what interests you about Lifespan psychology in your one google doc. Be sure to give it a title.  You can also insert a page break between your writings.  
 
-3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the #week_1 slack channel by including a link to your document from step 2 above.
+3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the [#week_1](https://lifespanpsychology.slack.com/archives/C01TPTVKE49){target='_blank'} slack channel by including a link to your document from step 2 above.
 
     what is your process for thinking clearly?
 
