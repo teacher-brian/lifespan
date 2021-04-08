@@ -73,7 +73,6 @@ x,
 4,The timing of the exposure
 5,The amount of exposure
 6,The number of teratogens
-7,
 8,Being male or female
 9,Alcohol: 
 10,"in Fetal Alcohol Spectrum Disorders (FASD), "
@@ -85,7 +84,6 @@ x,
 16,Illicit Drugs: 
 17,Neonatal Abstinence Syndrome 
 18,Pollutants
-19,
 20,Toxoplasmosis
 21,Sexually Transmitted Diseases: 
 22,Human Immunodeficiency Virus (HIV)
@@ -94,11 +92,8 @@ x,
 1,Mothers over 35: 
 2,Teenage Pregnancy: 
 3,Gestational Diabetes: 
-4,
 5,High Blood Pressure (Hypertension): 
-6,
 7,Rh Disease: 
-8,
 9,Weight Gain during Pregnancy: 
 10,Stress: 
 11,Depression: 
@@ -107,15 +102,12 @@ x,
 1,Ultrasound 
 2,Amniocentesis 
 3,Chorionic Villus Sampling 
-4,
 5,Pelvic Inflammatory Disease 
 6,PID
-7,
 8,In vitro fertilization (IVF) 
 9,gamete intra-fallopian tube transfer 
 10,Zygote intra-fallopian tube transfer (ZIFT) 
 x,
-1,
 2,Major Complications: 
 3,Ectopic Pregnancy 
 4,"Preeclampsia, also known as Toxemia"
@@ -124,9 +116,7 @@ x,
 7,Spontaneous abortion 
 x,
 1,The Lamaze Method
-2,0
 3,Choosing Where to Have the Baby and Who Will Deliver: 
-4,0
 5,Stages of Birth for Vaginal Delivery 
 6,The First Stage 
 7,Braxton-Hicks Contractions
@@ -139,11 +129,7 @@ x,
 14,Induced 
 x,
 1,Anoxia
-2,
 3,Low Birth weight
-4,
 5,Preterm
-6,
 7,respiratory distress syndrome
 8,Small-for-Date Infants: 
-9,

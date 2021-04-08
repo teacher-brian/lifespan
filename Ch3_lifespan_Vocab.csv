@@ -1,154 +1,149 @@
-x,
-1,Overall Physical Growth
-2,Body Proportions
-3,Dendrites
-4,Synaptogenesis
-5,Synaptic Blooming
-6,Synaptic Pruning
-7,Myelin
-8,Cortex 
-9,frontal lobe 
-10,parietal lobe
-11,occipital lobe
-12,temporal lobe
-13,Lateralization 
-14,Neuroplasticity 
-x,
-1,Sudden Unexpected Infant Deaths (SUID): 
-2,Sudden Infant Death Syndrome 
-3,(SIDS): SIDS 
-4,Unknown Cause
-5,Accidental Suffocation and Strangulation in Bed
-6,ring the bed with parents? 
-x,
-1,reflexes 
-2,Reflex
-3,Description
-4,Image
-5,Cephalocaudal 
-6,Proximodistal 
-7,Motor Skills 
-8,Fine motor skills 
-9,Palmer Grasp
-10,Pincer Grasp
-11,Gross motor skills 
-x,
-1,"Circumcised, "
-2,Habituation Procedures
-x,
-1,marasmus 
-2,kwashiorkor 
-x,
-1,Schema. 
-2,Assimilation
-3,
-4,Accommodation
-5,Sensorimotor Period 
-6,Substage 1
-7,Reflexes (0-1 month)
-8,Substage 1: Reflexes
-9,Substage 2: Primary Circular Reactions
-10,Substage 3: Secondary Circular Reactions
-11,Substage 4: Coordination of Secondary Circular Reactions
-12,Substage 5: Tertiary Circular Reactions
-13,Substage 6: Beginning of Representational Thought
-14,Object permanence 
-15,
-16,Stranger Anxiety
-17,Critique of Piaget
-x,
-1,infantile amnesia
-2,Deferred Imitation
-x,
-1,Language
-2,Phoneme: 
-3,
-4,Morpheme: 
-5,
-6,Semantics: 
-7,
-8,Syntax: 
-9,
-10,Pragmatics: 
-11,
-12,contextual information
-13,Do newborns communicate? 
-14,Intentional Vocalizations: 
-15,Cooing 
-16,0
-17,Babbling
-18,Gesturing: 
-19,Understanding: 
-20,receptive language
-21,Holophrasic Speech: 
-22,
-23,Language Errors: 
-24,Underextension
-25,0
-26,Overextension. 
-27,First words and cultural influences: 
-28,Two word sentences and telegraphic (text message) speech: 
-29,Telegraphic Speech/Text Message Speech 
-30,Infant-directed Speech: 
-31,
-32,Learning Theory: 
-33,0
-34,Chomsky and Nativism
-35,Language Acquisition Device 
-36,deep structure 
-37,surface structure 
-38,Critical Periods: 
-39,Social pragmatics: 
-40,Brain Areas for Language
-41,Broca’s 
-42,
-43,Wernicke’s 
-44,
-x,
-1,Temperamen
-2,Easy Child 
-3,Difficult Child 
-4,Slow-to-Warm-Up Child 
-5,"Goodness- of-Fit, "
-6,Parenting is bidirectional
-7,personality
-8,0
-9,"stranger wariness, "
-10,separation anxiety. 
-11,Basic emotions
-12,self-conscious emotions
-13,social referencing
-14,
-15,Emotional self-regulation 
-16,Development of sense of self: 
-17,Self-awareness 
-x,
-1,Attachment 
-2,Freud’s Psychoanalytic Theory: 
-3,Harlow’s Research: 
-4,contact comfort
-5,Bowlby’s Theory: 
-6,secure base 
-7,Problems establishing trust
-8,The Strange Situation Technique 
-9,secure attachment style 
-10,ambivalent 
-11,attachment style 
-12,avoidant attachment style 
-13,disorganized/disoriented attachment style 
-14,Q-sort technique 
-15,Caregiver Interactions and the Formation of Attachment: 
-16,securely attached 
-17,insecure ambivalent style 
-18,insecure avoidant style 
-19,insecure disorganized/disoriented style 
-20,Caregiver Consistency: 
-21,Social Deprivation: 
-22,Non-organic failure to thrive 
-23,Reactive Attachment Disorder: 
-24,
-25,Resiliency: 
-26,
-x,
-x,
-x,
+1,,
+,1,Overall Physical Growth
+,2,Body Proportions
+,3,Dendrites
+,4,Synaptogenesis
+,5,Synaptic Blooming
+,6,Synaptic Pruning
+,7,Myelin
+,8,Cortex 
+,9,frontal lobe 
+,10,parietal lobe
+,11,occipital lobe
+,12,temporal lobe
+,13,Lateralization 
+,14,Neuroplasticity 
+2,,
+,1,Sudden Unexpected Infant Deaths (SUID): 
+,2,Sudden Infant Death Syndrome 
+,3,(SIDS): SIDS 
+,4,Unknown Cause
+,5,Accidental Suffocation and Strangulation in Bed
+,6,ring the bed with parents? 
+3,,
+,1,reflexes 
+,2,Reflex
+,3,Description
+,4,Image
+,5,Cephalocaudal 
+,6,Proximodistal 
+,7,Motor Skills 
+,8,Fine motor skills 
+,9,Palmer Grasp
+,10,Pincer Grasp
+,11,Gross motor skills 
+4,,
+,1,"Circumcised, "
+,2,Habituation Procedures
+5,,
+,1,marasmus 
+,2,kwashiorkor 
+6,,
+,1,Schema. 
+,2,Assimilation
+,3,Accommodation
+,4,Sensorimotor Period 
+,5,Substage 1
+,6,Reflexes (0-1 month)
+,7,Substage 1: Reflexes
+,8,Substage 2: Primary Circular Reactions
+,9,Substage 3: Secondary Circular Reactions
+,10,Substage 4: Coordination of Secondary Circular Reactions
+,11,Substage 5: Tertiary Circular Reactions
+,12,Substage 6: Beginning of Representational Thought
+,13,Object permanence 
+,14,Stranger Anxiety
+,15,Critique of Piaget
+,,
+,,
+7,,
+,1,infantile amnesia
+,2,Deferred Imitation
+8,,
+,1,Language
+,2,Phoneme: 
+,3,Morpheme: 
+,4,Semantics: 
+,5,Syntax: 
+,6,Pragmatics: 
+,7,contextual information
+,8,Do newborns communicate? 
+,9,Intentional Vocalizations: 
+,10,Cooing 
+,11,Babbling
+,12,Gesturing: 
+,13,Understanding: 
+,14,receptive language
+,15,Holophrasic Speech: 
+,16,Language Errors: 
+,17,Underextension
+,18,Overextension. 
+,19,First words and cultural influences: 
+,20,Two word sentences and telegraphic (text message) speech: 
+,21,Telegraphic Speech/Text Message Speech 
+,22,Infant-directed Speech: 
+,23,Learning Theory: 
+,24,Chomsky and Nativism
+,25,Language Acquisition Device 
+,26,deep structure 
+,27,surface structure 
+,28,Critical Periods: 
+,29,Social pragmatics: 
+,30,Brain Areas for Language
+,31,Broca’s 
+,32,Wernicke’s 
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+9,,
+,1,Temperamen
+,2,Easy Child 
+,3,Difficult Child 
+,4,Slow-to-Warm-Up Child 
+,5,"Goodness- of-Fit, "
+,6,Parenting is bidirectional
+,7,personality
+,8,"stranger wariness, "
+,9,separation anxiety. 
+,10,Basic emotions
+,11,self-conscious emotions
+,12,social referencing
+,13,Emotional self-regulation 
+,14,Development of sense of self: 
+,15,Self-awareness 
+,,
+,,
+10,,
+,1,Attachment 
+,2,Freud’s Psychoanalytic Theory: 
+,3,Harlow’s Research: 
+,4,contact comfort
+,5,Bowlby’s Theory: 
+,6,secure base 
+,7,Problems establishing trust
+,8,The Strange Situation Technique 
+,9,secure attachment style 
+,10,ambivalent 
+,11,attachment style 
+,12,avoidant attachment style 
+,13,disorganized/disoriented attachment style 
+,14,Q-sort technique 
+,15,Caregiver Interactions and the Formation of Attachment: 
+,16,securely attached 
+,17,insecure ambivalent style 
+,18,insecure avoidant style 
+,19,insecure disorganized/disoriented style 
+,20,Caregiver Consistency: 
+,21,Social Deprivation: 
+,22,Non-organic failure to thrive 
+,23,Reactive Attachment Disorder: 
+,24,Resiliency: 

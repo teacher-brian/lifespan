@@ -15,7 +15,7 @@ output:
       toolbar:
         position: fixed
     css: "style.css"
-    number_sections: yes
+    number_sections: no
     toc: yes
     toc_depth: 6
     toc_float: yes
@@ -93,6 +93,7 @@ That's the kind of question you can put in your one-document-to-rule, or even as
 Also, I hope to make these videos a lot better in terms of production.  I think I made them at the beginning of the pandemic and well, bleh.
 ```
 
+
 7. watch intro lecture on epistemology
 
 [![Epistemology 8min](../images/Epistemology_better.png){width="40%"}](https://youtu.be/L6fcTl_js5g "Epistemology"){target="_blank"}
@@ -130,37 +131,156 @@ The idea is to be doing weekly writing about the things we read and the prompts 
 # Week 2 {#Week2}
 ## orientation
 
-There are several things to think about this week. And I'm probably giving you too much to do so I want you to be thoughtful about your limits + 2 focus on the things that interest you.
+There are several things to think about this week. And I'm probably giving you too much to do so I want you to be thoughtful about your limits and to focus on the things that interest you.
 
- my intention is to expose you to a few things here they are:
+ My intention is to expose you to a few things here they are:
 
-An introductory lecture two lifespan or developmental psychology in particular
+An introductory lecture to lifespan or developmental psychology in particular
 
-And opportunity to peruse vocabulary from the first three chapters
+An opportunity to peruse vocabulary from the first three chapters
 
 The chance to think a little bit about metacognition across the lifespan 
 
-My own personal questions about content Has a bit to do with the intersection of the history of what I was taught about the scientific method and the different theories about people about science about psychology, about children and how that knowledge intersects with a particular historical blindness to non-western views.
+```{block,type='instructorNote',include=F}
+My own personal questions about content has a bit to do with the intersection of the history of what I was taught about the scientific method and the different theories about people about science about psychology, about children and how that knowledge intersects with a particular historical blindness to non-western views.
 
 For instance we're often taught about how the Greeks were the beginning of human rationality, but in a lot of ways they with the Romans we're actually taking advantage of intelligent people in Mesopotamia and Alexandria oh, the video is interesting when the professor goes into detail about the history of the views of children, all of those views seemed to be centered on a relatively Europeans interview. I'm curious about how countries outside of Europe and United States view children 400 years ago a thousand years ago
 
-I don't know if I have the time to find research on that 
+I don't know if I have the time to find research on that .
+```
+
+One broad way to look at lifespan psychology is to see how textbooks break the units up:
+Developmental psychology textbooks typically break every unit into three sections and sometimes that shows up in each chapter. Basically biological section cognitive section and a social / emotional section.
+
+I like to call this the Humpty Dumpty approach to studying people. We break complex individuals into sections.
+
+
+Biological |  Cognitive | Social
+---|---|---|
+What biological changes are there?| What cognitive changes?| what social/emotional?|
+E.g.,: number of neurons| short term memory capacity|ability to code shift
+
+This pattern is repeated throughout the text. And it's not a bad framework.
+
+Because this is a psychology class I prefer to spend time thinking about psychology and not biology. There are cases where we've got pretty clear evidence that biological insults can lead to psychological impact. And in those situations I reluctantly like to learn a little bit about them. But I actually think that a lot of the biological influences on human behavior, though important a really secondary to how complex humans are when it comes to their language and cognitive abilities. But that's my bias.
+
+A comment on models/theories. All models are wrong, but some are useful. This is a famous quote. @AllModelsAre2021
 
 ## Read/watch some stuff
 
-[ 48 minutes Watch dev video from Bilkent University (Turkey) Hande Ilgaz, Ph.D.](https://www.youtube.com/watch?v=s3iDxvk7Cck){target='_blank'} @bilkentuniversitesiDevelopmentalPsychologyLecture2017 
-      * as an aside, there are several things in the video that are incorrect.  For instance, I don't believe Darwin said that genes are passed down from one to their offspring.  He hypothesized something must be, but he did not know the mechanism.  That knowledge came later.  He also didn't advocate for 'survival of the fittest.'
+### Chapter 2 and 3 Learning Objectives
+
+#### 2.6: Prenatal Development
+
+ - Learning Objectives: Prenatal Development
+
+ - Describe the changes that occur in the three periods of prenatal development
+
+ - Describe what occurs during prenatal brain development
+
+ - Define teratogens and describe the factors that influence their effects
+
+ - List and describe the effects of several common teratogens
+
+ - Explain maternal and paternal factors that affect the developing fetus
+
+ - Explain the types of prenatal assessment
+
+ - Describe both the minor and major complications of pregnancy
+
+#### 2.11: Birth
+
+Learning Objectives: Birth
+
+ - Describe how expectant parents prepare for childbirth
+
+ - Describe the stages of vaginal delivery
+
+ - Explain why a Caesarean or induced birth is necessary
+
+ - Describe the two common procedures to assess the condition of the newborn
+
+ - Describe problems newborns experience before, during, and after birth
+
+#### 3.6: Piaget and the Sensorimotor Stage
+
+Learning Objectives: Cognitive Development in Infancy and Toddlerhood
+
+ - Compare the Piagetian concepts of schema, assimilation, and accommodation
+
+ - List and describe the six substages of sensorimotor intelligence
+
+ - Describe the characteristics of infant memory
+
+ - Describe components and developmental progression of language
+
+ - Identify and compare the theories of language
+
+#### 3.9: Psychosociological Development in 
+Infancy and Toddlerhood
+
+ - Learning Objectives: Psychosocial Development in Infancy and Toddlerhood
+
+ - Identify styles of teperament and explore goodness-of-fit
+
+ - Describe the early theories of attachment
+
+ - Contrast styles of attachment according to the Strange Situation Technique
+
+ - Explain the factors that influence attachment
+
+ - Describe self-awareness, stranger wariness, and separation anxiety
+
+ - Use Erikson’s theory to characterize psychosocial development during infancy
+
+#### 4.8: Cognitive Development in Early Childhood
+
+Learning Objectives: Cognitive Development in Early Childhood
+
+ - Describe Piaget’s preoperational stage and the characteristics of preoperational thought
+
+ - Summarize the challenges to Piaget’s theory
+
+ - Describe Vygotsky’s theory of cognitive development
+
+ - Describe Information processing research on attention and memory
+
+ - Describe the views of the neo-Piagetians
+
+ - Describe theory-theory and the development of theory of mind
+
+ - Describe the developmental changes in language
+
+ - Describe the various types of early childhood education
+
+ - Describe the characteristics of autism
+
+
+## Read/Watch
+1. [ 48 minutes Watch dev video from Bilkent University (Turkey) Dr. Hande Ilgaz, Ph.D.](https://www.youtube.com/watch?v=s3iDxvk7Cck){target='_blank'} @bilkentuniversitesiDevelopmentalPsychologyLecture2017 
+
+    * as an aside, there are several things in the video that are incorrect.  For instance, I don't believe Darwin said that genes are passed down from one to their offspring.  He hypothesized something must be, but he did not know the mechanism.  That knowledge came later.  He also didn't advocate for 'survival of the fittest,' a concept that is actually contradictory to his theory. At best it could be described as 'survival of the fittest group' because there are some genetic traits that are quite harmful to individuals but helpful to the group (sickle cell anemia being the obvious one).
       
     * When the video gets to the section on theories, you may want to pause, revisit the ontology videos from week 1, and then listen for content that overlaps.  
-    * there is a short segment in the video discussing the history of Thalidomide.  It's brutal.  
+    
+    * there is a short segment in the video discussing the history of Thalidomide.  It's brutal.  Speaking of theories, the professor does a good job introducing them in the next video:
+    
+2. [ Developmental Psych Lecture 2 from Bilkent University (Turkey) Dr. Hande Ilgaz, Ph.D.](https://www.youtube.com/watch?v=dsxFq9TATPo){target='_blank'}@bilkentuniversitesiDevelopmentalPsychologyLecture2017a
 
-[Review William perry developmental stages as summarized by William Rappaport](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'} @rappaportWILLIAMPERRYSCHEME2018
+3. [Review William perry developmental stages as summarized by William Rappaport](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'} @rappaportWILLIAMPERRYSCHEME2018
   
-
 
 ## Do some stuff
 
-review your notes or the video on epistemology
+
+
+ * review your notes or the video on epistemology and try to identify 
+
+ * Define 5 words from each chapter...here are the list of vocabulary:
+
+    * [Chapter Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'}
+
+ * somethign with william perry
 
 
 Post in to week 2 channel
