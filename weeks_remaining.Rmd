@@ -1,0 +1,47 @@
+---
+title: "Lifespan Schedule Spring 2021"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    config:
+      search: yes
+      toc:
+        after: |
+          <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+        before: |
+          <li><a href="./">Lifespan Psychology schedule</a></li>
+        scroll_highlight: yes
+      toolbar:
+        position: fixed
+    css: "style.css"
+    number_sections: no
+    toc: yes
+    toc_depth: 6
+    toc_float: yes
+description: This is a minimal example of using the rmarkdown package for abnormal
+  psychology
+link-citations: yes
+bibliography: Lifespan.bib
+biblio-style: apalike
+---
+
+My intention is to expose you to a few things here they are:
+
+An introductory lecture to lifespan or developmental psychology in particular
+
+An opportunity to peruse vocabulary from the first three chapters
+
+The chance to think a little bit about metacognition across the lifespan 
+
+```{block,type='instructorNote',include=F}
+My own personal questions about content has a bit to do with the intersection of the history of what I was taught about the scientific method and the different theories about people about science about psychology, about children and how that knowledge intersects with a particular historical blindness to non-western views.
+
+For instance we're often taught about how the Greeks were the beginning of human rationality, but in a lot of ways they with the Romans we're actually taking advantage of intelligent people in Mesopotamia and Alexandria oh, the video is interesting when the professor goes into detail about the history of the views of children, all of those views seemed to be centered on a relatively Europeans interview. I'm curious about how countries outside of Europe and United States view children 400 years ago a thousand years ago
+
+I don't know if I have the time to find research on that .
+```
+
+
+
+A comment on models/theories. All models are wrong, but some are useful. This is a famous quote. @AllModelsAre2021
