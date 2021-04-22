@@ -28,6 +28,8 @@ biblio-style: apalike
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyr)
+library(kableExtra)
 ```
 
 
@@ -145,7 +147,7 @@ E.g.,: number of neurons| short term memory capacity|ability to code shift
 
 This pattern is repeated throughout the text. And it's not a bad framework.
 
-Because this is a psychology class I prefer to spend time thinking about psychology and not biology. There are cases where we've got pretty clear evidence that biological insults can lead to psychological impact. And in those situations I reluctantly like to learn a little bit about them. Reluctantly because I find that biologoical insults are pretty rare and knowing about how the brain works doesn't often lead to knowing how to handle a particular situation.  Just because my kid has an immature brain and can't tolerate frustration does nothing for me when I am trying to actually help him.  
+Because this is a psychology class I prefer to spend time thinking about psychology and not biology. There are cases where we've got pretty clear evidence that biological insults can lead to psychological impact. And in those situations I reluctantly like to learn a little bit about them. Reluctantly because I find that biological insults are pretty rare and knowing about how the brain works doesn't often lead to knowing how to handle a particular situation.  Just because my kid has an immature brain and can't tolerate frustration does nothing for me when I am trying to actually help him.  
 
 I actually think that a lot of the biological influences on human behavior, though important, are really secondary to how complex humans are when it comes to their language and cognitive abilities. But that's my bias.
 
@@ -209,7 +211,188 @@ A. [Do this case study about a 9 month old](https://docs.google.com/document/d/1
 
  * when done, post to the slack channel [#case-1](https://lifespanpsychology.slack.com/archives/C01TW87ME8K){target='_blank'}
 
-B. Ponder a bit and write some thoughts (in your one doc) about the 3 yr old finding out that his candy was eaten. Maybe consider whether this kiddo reacted that wasy due to nature or nuture (that, by the way, is a flase choice).  Muse a bit. post your thoughts to the [#nature-nurture](https://lifespanpsychology.slack.com/archives/C01U8PM9TK3){target='_blank'} channel
+B. Ponder a bit and write some thoughts (in your one doc) about the 3 yr old finding out that his candy was eaten. Maybe consider whether this kiddo reacted that ways due to nature or nurture (that, by the way, is a false choice).  Muse a bit. post your thoughts to the [#nature-nurture](https://lifespanpsychology.slack.com/archives/C01U8PM9TK3){target='_blank'} channel
+
+
+# Week 4 April 26 {#week4}
+## orientation
+Getting into week 4 and the rest of the quarter you're going to find that the chapters we're going to be a little bit more intense broad because once you get out of infancy you begin to the rapid development in all aspects of psychology and that means we need more words to describe what's going on.
+
+Some big topics in this chapter, somewhat in the chapter's organization:
+
+themes| |  
+---|---|---
+toilet training | parenting styles |siblings
+memory | cognitive development | motor skills (fine and gross)
+gender | autism |theory of mind
+ sexuality|play | child care
+
+Wow that seems like a big spread of content. 
+
+Because this is about the time where memory skills began to bloom, this chapter goes into more depth about the cognitive model of memory (which overlaps with some of the things I said in replies of the #muddy-point channel)
+
+### Some Broad learning objectives
+
+- Summarize the overall physical growth
+- Describe the changes in brain maturation
+- Describe the changes in sleep
+- Summarize the changes in gross and motor skills
+- Describe when a child is ready for toilet training
+- Describe sexual development
+- Identify nutritional concerns
+
+### Some specific Learning Objectives
+
+#### Cognitive Development in Early Childhood Learning Objectives
+
+ - Describe Piaget’s preoperational stage and the characteristics of preoperational thought
+
+ - Summarize the challenges to Piaget’s theory
+
+ - Describe Vygotsky’s theory of cognitive development
+
+ - Describe Information processing research on attention and memory
+
+ - Describe the views of the neo-Piagetians
+
+ - Describe theory-theory and the development of theory of mind
+
+ - Describe the developmental changes in language
+
+ - Describe the various types of early childhood education
+
+ - Describe the characteristics of autism
+
+#### 4.18 Learning Objectives: Psychosocial Development in Early Childhood
+
+- Describe Erikson’s third stage of initiative vs. guilt
+- Describe the changes in self-concept and self-esteem
+- Describe children’s understanding of others
+- Describe emotional regulation and delayed gratification
+- Describe young children’s understanding of morality
+- Summarize the main theories of gender development
+- Describe the major parenting styles and their consequences for children
+- Describe the role of siblings in children’s development
+- Summarize the types of play in which children engage
+- Describe the influence of the media on young children’s social development
+
+## read some stuff
+
+[Read Chapter 4, Early Childhood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood)
+
+[Watch this broad over view of Erikson's theory 22 minutes](https://youtu.be/TQwUNb3Sec0){target='_blank'}
+  
+spanking
+
+infancy and sensori motor. 
+
+1-6 sub stages of sensoritmotor
+
+object perm
+
+motherese language
+
+multicultural issues
+
+
+## do some stuff
+
+1. find data on the development of object permanence world wide
+2. symbol use
+3. what about those with hearing difficulties? or blindness?
+4. 
+
+
+
+A comment on models/theories. All models are wrong, but some are useful. This is a famous quote. @AllModelsAre2021
+
+
+
+
+
+# Week 5 May 3 {#week5}
+## Orientation
+
+### General Learning objectives
+
+- Summarize the overall physical growth
+- Describe the changes in brain maturation
+- Describe the positive effects of sports
+- Describe reasons for a lack of participation in youth sports
+- Explain current trends regarding being overweight in childhood, the negative consequences of excess weight, the lack of recognition of being overweight, and interventions to normalize weight
+
+### Specific Learning Objectives
+
+#### Learning Objectives: Cognitive Development in Middle and Late Childhood
+
+- Describe Piaget’s concrete operational stage and the characteristics of concrete thought
+- Describe information processing research on memory, attention, knowledge base, metacognition, and critical thinking
+- Describe language development and explain the three types of communication disorders
+- Describe the theories of intelligence, including general “g”, triarchic theory, and Gardner’s multiple intelligences
+- Explain how intelligence is measured, the tests used to assess intelligence, the extremes in intelligence, and the concern of bias
+- Describe how language and culture influence the typical classroom
+- Identify common disabilities in childhood and the legislation that protects them educationally
+
+#### Learning Objectives: Socioemotional Development in Middle and Late Childhood
+
+- Describe Erikson’s fourth stage of industry vs. inferiority
+- Describe the changes in self-concept, self-esteem, and self-efficacy
+- Explain Kohlberg’s stages of moral development
+- Describe the importance of peers, the stages of friendships, peer acceptance, and the consequences of peer acceptance
+- Describe bullying, cyberbullying and the consequences of bullying
+- Identify the types of families where children reside
+- Identify the five family tasks
+- Explain the consequences of divorce on children
+- Describe the effects of cohabitation and remarriage on children
+- Describe the characteristics and developmental stages of blended families
+
+## read some stuff
+[Read Chapter 5, Middle and Late Childhood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+
+## Do stuff
+
+
+# Week 6 May 10 {#week6}
+
+## Orientation
+### General Learning Objectives
+
+- Summarize the overall physical growth
+- Describe the changes that occur during puberty
+- Describe the changes in brain maturation
+- Describe the changes in sleep
+- Describe gender intensification
+- Identify nutritional concerns
+- Describe eating disorders
+- Explain the prevalence, risk factors, and consequences of adolescent pregnancy
+
+### specific Learning Objectives:
+
+#### Learning Objectives: Cognitive Development in Adolescence
+
+ - Describe Piaget’s formal operational stage and the characteristics of formal operational thought
+ - Describe adolescent egocentrism
+ - Describe Information Processing research on attention and memory
+ - Describe the developmental changes in language
+ - Describe the various types of adolescent education
+ - Identify changes in high school drop-out rates based on gender and ethnicity
+
+
+#### Learning Objectives: Psychosocial Development in Adolescence
+
+ - Describe the changes in self-concept and self-esteem in adolescence
+ - Summarize Erikson’s fifth psychosocial task of identity versus role confusion
+ - Describe Marcia’s four identity statuses
+ - Summarize the three stages of ethnic identity development
+ - Describe the parent-teen relationship
+ - Describe the role of peers
+ - Describe dating relationships
+ 
+## Read some stuff
+
+[Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+
+## Do some stuff
 
 
 # Appendix
