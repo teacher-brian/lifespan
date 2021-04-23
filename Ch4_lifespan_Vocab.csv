@@ -1,124 +1,117 @@
-"x"
-"1","Overall Physical Growth: "
-"x"
-"1","Brain weight: "
-"2","Growth in the Hemispheres and Corpus Callosum: "
-"3","Corpus Callosum, "
-"4","Neuroplasticity: "
-"5","Neuroplasticity "
-"x"
-"1","Gross Motor Skills"
-"2","Fine Motor Skills"
-"3","Children’s Art: "
-"x"
-"1","Enuresis"
-"2","Encopresis, "
-"x"
-"x"
-"1","Infancy: "
-"2","Early Childhood: "
-"x"
-"1","Recognize that appetite varies. "
-"2","Keep it pleasant. "
-"3","No short order chefs. "
-"4","Limit choices. "
-"5","Serve balanced meals. "
-"6","Don’t bribe. "
-"x"
-"1","Preoperational Stage"
-"2","Operational "
-"3","Symbolic Function Substage "
-"4","Intuitive Thought Substage, "
-"5","Pretend Play: "
-"6","Egocentrism: "
-"7","Egocentrism "
-"8","Conservation Errors: "
-"9","Conservation "
-"10","Centration, "
-"11","Classification Errors: "
-"12","Transductive"
-"13","Animism: "
-"14","Animism "
-"15","Critique of Piaget: "
-"x"
-"1","Zone of Proximal Development and Scaffolding: "
-"2","Zone of Proximal Development (ZPD). "
-"3","Scaffolding "
-"4","Private Speech: "
-"5","Egocentric Speech "
-"6","Private Speech "
-"7","Contrast with Piaget: "
-"x"
-"x"
-"1","divided attention "
-"2","multitasking. "
-"3","selective attention"
-"4","sustained attention"
-"5","Divided Attention: "
-"6","Selective Attention: "
-"7","Sustained Attention: "
-"x"
-"1","Sensory memory "
-"2","working memory"
-"3","Executive function (EF) "
-"4","clustering rehearsal, "
-"5","long-term memory"
-"6","Declarative memories"
-"7","explicit memories"
-"8","Non-declarative memories"
-"9","implicit memories"
-"10","Semantic memories "
-"11","episodic memories "
-"12","autobiographical memory, "
-"x"
-"1","Neo-Piagetians"
-"x"
-"1","Theory-Theory "
-"2","Theory of mind "
-"3","Table 4.2: Components of Theory of Mind"
-"4","Component"
-"5","Description"
-"x"
-"1","Vocabulary growth: "
-"2","fast-mapping"
-"3","Literal meanings: "
-"4","Overregularization: "
-"5","The Impact of Training: "
-"x"
-"1","Head Start: "
-"x"
-"x"
-"1","Learning Objectives: Psychosocial Development in Early Childhood "
-"2","Self-concept "
-"3","self- esteem "
-"4","categorical self"
-"5","response initiation, "
-"6","response inhibition, "
-"7","delayed gratification"
-"x"
-"1","Gender Identity"
-"2","Gender Roles, "
-"3","Gender Schemas"
-"4","Gender Dysphoria"
-"5","Gender Dysphoria"
-"6","How much does gender matter? "
-"x"
-"1","Baumrind "
-"2","Authoritative "
-"3","Authoritarian"
-"4","Permissive "
-"5","Uninvolved "
-"6","Table 4.3: Comparison of Four Parenting Styles"
-"7","Culture: "
-"x"
-"x"
-"1","Category"
-"2","Description"
-"x"
-"x"
-"1","Child Abuse and Neglect "
-"2","Victims of Child Abuse: "
-"3","Sexual Abuse"
-"4","sexual abuse "
-"5","Incest "
-"6","Stress on Young Children: "
+,
+,
+,
+,
+1,Growth in the Hemispheres and Corpus Callosum: 
+2,"Corpus Callosum, "
+3,Neuroplasticity: 
+,
+x,
+1,Gross Motor Skills
+2,Fine Motor Skills
+3,Children’s Art: 
+x,
+1,Enuresis
+2,"Encopresis, "
+x,
+x,
+1,Infancy: 
+2,Early Childhood: 
+,
+x,
+1,Preoperational Stage
+2,Operational 
+3,Symbolic Function Substage 
+4,"Intuitive Thought Substage, "
+5,Pretend Play: 
+6,Egocentrism: 
+7,Conservation Errors: 
+8,Conservation 
+9,"Centration, "
+10,Classification Errors: 
+11,Transductive
+12,Animism: 
+,
+,
+,
+x,
+1,Zone of Proximal Development (ZPD). 
+2,Scaffolding 
+3,Private Speech: 
+4,Egocentric Speech 
+5,Private Speech 
+6,Contrast with Piaget: 
+,
+x,
+x,
+1,divided attention 
+2,multitasking. 
+3,selective attention
+4,sustained attention
+5,Divided Attention: 
+,
+,
+x,
+1,Sensory memory 
+2,working memory
+3,Executive function (EF) 
+4,"clustering rehearsal, "
+5,long-term memory
+6,Declarative memories
+7,explicit memories
+8,Non-declarative memories
+9,implicit memories
+10,Semantic memories 
+11,episodic memories 
+12,"autobiographical memory, "
+x,
+1,Neo-Piagetians
+x,
+1,Theory-Theory 
+2,Theory of mind 
+3,Table 4.2: Components of Theory of Mind
+4,Component
+5,Description
+x,
+1,Vocabulary growth: 
+2,fast-mapping
+3,Literal meanings: 
+4,Overregularization: 
+5,The Impact of Training: 
+x,
+1,Head Start: 
+x,
+x,
+1,Learning Objectives: Psychosocial Development in Early Childhood 
+2,Self-concept 
+3,self- esteem 
+4,categorical self
+5,"response initiation, "
+6,"response inhibition, "
+7,delayed gratification
+x,
+1,Gender Identity
+2,"Gender Roles, "
+3,Gender Schemas
+4,Gender Dysphoria
+5,Victims of Child Abuse: 
+,
+x,
+1,Baumrind 
+2,Authoritative 
+3,Authoritarian
+4,Permissive 
+5,Uninvolved 
+6,Victims of Child Abuse: 
+,
+x,
+x,
+1,Category
+2,Description
+,
+,
+1,Child Abuse and Neglect 
+2,Victims of Child Abuse: 
+3,Sexual Abuse
+4,Incest 
+5,Stress on Young Children: 
