@@ -26,6 +26,16 @@ bibliography: Lifespan.bib
 biblio-style: apalike
 ---
 
+
+```{block,type='instructorNote'}
+some thoughts for future classes
+* SIDS
+* fevers
+* Spanking
+* language
+* impulse control
+```
+
 My intention is to expose you to a few things here they are:
 
 An introductory lecture to lifespan or developmental psychology in particular
@@ -42,7 +52,6 @@ For instance we're often taught about how the Greeks were the beginning of human
 I don't know if I have the time to find research on that .
 ```
 
-
 # Week 6 May 10 {#week6}
 
 ## Orientation
@@ -56,9 +65,16 @@ I don't know if I have the time to find research on that .
  
 ## Read some stuff
 
-[Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+1. [Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+
+2. Read chosen article from handbook volumne.  Okay..skim it, but find some sections that you find interesting. 
+
+
 
 ## Do some stuff
+
+A. Write a summary..yes, a summary of what you read from your chosen chapter/section.  The goal is to write for your understanding, which means you may want to write a bit about questions you have, connections to your work/childhood/relevant stuff to you. 
+
 
 # Week 7 {#week7}
 
