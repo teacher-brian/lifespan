@@ -306,7 +306,7 @@ The next two items are links into canvas/panapto folders (not videos directly) b
 4a. [Panopto video, Reversibility](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11cced3d-878c-48ae-850d-ad1301556be1){target='_blank'}
 
 
-5. Pick a chapter from one of the 4 volumes of the [Handbook of Developmental Psychology](https://www.wiley.com/en-us/Handbook+of+Child+Psychology+and+Developmental+Science%2C+4+Volumes%2C+Set%2C+7th+Edition-p-9781118136850#content-section){target='_blank'}
+5. Pick a chapter from one of the 4 volumes of the [Handbook of Developmental Psychology](https://www.wiley.com/en-us/Handbook+of+Child+Psychology+and+Developmental+Science%2C+Volume+2%2C+Cognitive+Processes%2C+7th+Edition-p-9781118136782){target='_blank'}
 
 6. Send your choice to your instructor in a slack DM @[brian.holt](https://lifespanpsychology.slack.com/archives/D01TMAC1E73){target='_blank'} (I'm not sure this hyperlink will work as intended...if not..just send me a direct message in slack without using this link)
 
@@ -343,11 +343,11 @@ Here are some examples:
 
   >In addition to dopamine, the adolescent brain is affected by oxytocin which facilitates bonding and makes social connections more rewarding.
 
-No reference though.  Possibly connects to Dobbs listed just above.  My quick check on that resource goes to a national geographic article.  That's weird.  And my knowledge of these sorts of claims comes from experience that most of those research claims are hypothetical, or based on other mamals.  
+No reference though.  Possibly connects to Dobbs listed just above.  My quick check on that resource goes to a national geographic article.  That's weird.  And my knowledge of these sorts of claims comes from experience that most of those research claims are hypothetical, or based on other mammals.  
 
 I worry that this bit about oxytocin is overgeneralized (cf [replication crisis](https://www.vox.com/science-and-health/2019/2/13/18221876/oxytocin-morality-valentines){target='_blank'})
 
-As you read the textbook, keep track of its claims that either don't have references, or give you the vibes that there is an oversimplication.
+As you read the textbook, keep track of its claims that either don't have references, or give you the vibes that there is an oversimplification.
 
 
 #### Chapter 6 Learning Objectives
@@ -359,11 +359,11 @@ As you read the textbook, keep track of its claims that either don't have refere
  
 ## Read some stuff
 
-1. [Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+1. [Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/06%3A_Adolescence){target='_blank'}
 
    * While reading, take some notes regarding textbook claims that might sounds to simple.  Keep track of their locations
 
-2. Read chosen article from handbook volumne.  Okay..skim it, but find some sections that you find interesting. 
+2. Read chosen article from handbook volume.  Okay..skim it, but find some sections that you find interesting. 
 
 
 ## Do some stuff
