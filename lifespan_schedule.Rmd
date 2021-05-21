@@ -429,57 +429,70 @@ The rest of the quarter is really about the process of getting older and becomin
 
 1. [Read Chapter 7, Emerging adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/07%3A_Emerging_and_Early_Adulthood){target='_blank'}
 
-2. Watch a 5 min youtube [video by Barton Paulson on Emergent adulthool](https://youtu.be/ox6JN24oIbI){target='_blank'}  
+2. Watch a 5 min youtube [video by Barton Paulson on Emergent adulthood](https://youtu.be/ox6JN24oIbI){target='_blank'}  
 
 3. Watch a longer [video by Paulson on Early adulthood](https://youtu.be/p7StHobYid4){target='_blank'}  
-  * I found his comments on extrinsic versus intrinsic motivation a little wrong and light.  Like, I wonder about the boredom he mentions later on and the relationship between extrinsic motivation and boredom.
+   * I found his comments on extrinsic versus intrinsic motivation a bit light. I wonder about the boredom he mentions later on and the relationship between extrinsic motivation and boredom.
 
 
 ## Do stuff
 
   
-Pick a past assignment (already completed and rewrite it)  Maybe use gen psych week 7?8? as an example for rewrite?
+1. [Complete a metacognitive assignment.](https://docs.google.com/document/d/1vKwiB31xhBR9Al1guiTw2odyVcCiIWcrqslSz1cKkqk/edit?usp=sharing){target='_blank'} 
+    * This may take some time. 
+    * Post your work in the #metacognitive-review channel. (in slack, use the search function at the top to find the channel)
 
-* What are some cliche's of young adulthood? How accurate are they?  For instance, is  "birds of a feather flock together" or "opposites attract?" more accurate? 
+2. What are some cliche's of young adulthood? How accurate are they?  For instance, is  "birds of a feather flock together" or "opposites attract?" more accurate?   I've got old cliche's...but what is the new wisdom?
 
-* To what degree does this apparent contradiciton  "career focus vs changing the world" represent some aspect of William Perry's development of thought? 
+3. To what degree does this apparent contradiction  "career focus vs changing the world" represent some aspect of William Perry's development of thought? 
+
+4. With an assumption that many of my students are in this domain of emerging adulthood, what aspects do you think are missing from the text?
+
+5. Post your musings to #emerging 
 
 # Week 9 Middle adulthood May 31 {#week9}
+
+Now we see that people are faced with life challenges that comes with middle age.  Physical declines, life satisfaction, family and work responsibilities, all with existential issues in the backdrop
 
 ## Read some stuff
 
 1. [Chapter 8, Middle Adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/08%3A_Middle_Adulthood){target='_blank'}
 
-2. about a 12 min [video by Paulson on middle adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
+2. watch about a 12 min [video by Paulson on middle adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
 
-3. IQ 
-Keep an eye on what a t-score is.  The intellecutal abilities were presented as a time series as a t-score.  What is that?
+
 
 
 ## Do some stuff
 
-[take the big 5 test here](http://www.personalitytest.net/ipip/index.html){target='_blank'}
-    * If you have taken my intro class recently, you've probably taken this test and now would be an interesting time to retake it and see whether your scores have changed.  This would be a simple reliabilty test of the big 5, for you.
+1. [take the big 5 test here](http://www.personalitytest.net/ipip/index.html){target='_blank'}
+    * If you have taken my intro class recently, you've probably taken this test and now would be an interesting time to retake it and see whether your scores have changed.  This would be a simple reliability test of the big 5, for you.
     * There are 2 versions to choose from, a short and long.
     * You may want to save your output for posterity.  The output should include your score on the 5 dimensions (OCEAN) plus 6 sub-tests for a total of 30 results.
     ```{block,type='instructorNote'}
     Don't publish this in your one-doc to rule...You can if you want but it is somewhat private information. 
     ```
 
+2. Case Study 4.  This will be sent out in slack via direct message. If you haven't gotten it yet, send me a direct message.   Share this work in the #case-4 channel
 
-Case 4
+3.  Using the critical thinking standards try to find and evaluate some sources on the Intelligence quotient (IQ) and other measures of intellectual abilities.  Share your ideas in the #IQ channel. Debate is welcome on this one.
 
 # Week 10 Late Adulthood June 7 {#week10}
+
+Late adulthood has physical and mental decline, potential for depression and suicide, but also the depth of what is meaningful.
 
 ## Read some stuff
 
 1. [Chapter 9, Late Adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/09%3A_Late_Adulthood){target='_blank'}
 
-2. [Grief walker](https://docs.google.com/document/d/1WIcstsbsxrYcQS5wRttmVm8RK66mNISvp4brwkr-gy0/edit?usp=sharing){target='_blank'} This is a kind of case study, but more suggestive.  It's not a perfect film, certainly. And the protagonist is not a perfect person.
+2. Watch [Grief walker](https://docs.google.com/document/d/1WIcstsbsxrYcQS5wRttmVm8RK66mNISvp4brwkr-gy0/edit?usp=sharing){target='_blank'} This is a kind of case study, but more suggestive.  It's not a perfect film, certainly. And the protagonist is not a perfect person.
 
-3. about a 16 min [video by Paulson on late adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
+3. Watch about a 16 min [video by Paulson on late adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
 
 ## Do some stuff
+
+1. Share your Grief walker assignment in the #grief channel
+
 # Week 11 Death and Dying June 14 {#week11}
 
 ## Read some stuff
@@ -491,6 +504,10 @@ Case 4
 ## Do some stuff
 
 1. [Case study 5](https://docs.google.com/document/d/1kGDMKwPnFoUko5oJM8xNzpgFMmDoMeXA8aWN29cCjgQ/edit?usp=sharing){target='_blank'}
+
+2. Do some reserach on 4 different cultures and their practices around death.  Try to write up about 1 or 2 paragraphs on each.  Share them to #cultural-practice-around-death. 
+
+3. [Final Self-reflection] to be published later. 
 
 # Appendix
 
