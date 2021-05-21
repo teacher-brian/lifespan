@@ -415,6 +415,83 @@ C. Write a bit about risks now that you've done some reading about it.  Some que
 
 
 
+# Week 8 Emerging adulthood May 24 {#week8}
+
+The rest of the quarter is really about the process of getting older and becoming more mature as an adult. But these are terms that are massively influenced by culture and zeitgeist. Nonetheless, all cultures recognize that there is some process where a child turns into an adult and arguably adolescence was that time. But now that you're out of adolescence, what now?
+
+### Chapter 7 Learning Objectives
+
+ * All learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'}
+
+ * [Textbook Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'}
+
+## Read/watch some stuff
+
+1. [Read Chapter 7, Emerging adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/07%3A_Emerging_and_Early_Adulthood){target='_blank'}
+
+2. Watch a 5 min youtube [video by Barton Paulson on Emergent adulthool](https://youtu.be/ox6JN24oIbI){target='_blank'}  
+
+3. Watch a longer [video by Paulson on Early adulthood](https://youtu.be/p7StHobYid4){target='_blank'}  
+  * I found his comments on extrinsic versus intrinsic motivation a little wrong and light.  Like, I wonder about the boredom he mentions later on and the relationship between extrinsic motivation and boredom.
+
+
+## Do stuff
+
+  
+Pick a past assignment (already completed and rewrite it)  Maybe use gen psych week 7?8? as an example for rewrite?
+
+* What are some cliche's of young adulthood? How accurate are they?  For instance, is  "birds of a feather flock together" or "opposites attract?" more accurate? 
+
+* To what degree does this apparent contradiciton  "career focus vs changing the world" represent some aspect of William Perry's development of thought? 
+
+# Week 9 Middle adulthood May 31 {#week9}
+
+## Read some stuff
+
+1. [Chapter 8, Middle Adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/08%3A_Middle_Adulthood){target='_blank'}
+
+2. about a 12 min [video by Paulson on middle adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
+
+3. IQ 
+Keep an eye on what a t-score is.  The intellecutal abilities were presented as a time series as a t-score.  What is that?
+
+
+## Do some stuff
+
+[take the big 5 test here](http://www.personalitytest.net/ipip/index.html){target='_blank'}
+    * If you have taken my intro class recently, you've probably taken this test and now would be an interesting time to retake it and see whether your scores have changed.  This would be a simple reliabilty test of the big 5, for you.
+    * There are 2 versions to choose from, a short and long.
+    * You may want to save your output for posterity.  The output should include your score on the 5 dimensions (OCEAN) plus 6 sub-tests for a total of 30 results.
+    ```{block,type='instructorNote'}
+    Don't publish this in your one-doc to rule...You can if you want but it is somewhat private information. 
+    ```
+
+
+Case 4
+
+# Week 10 Late Adulthood June 7 {#week10}
+
+## Read some stuff
+
+1. [Chapter 9, Late Adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/09%3A_Late_Adulthood){target='_blank'}
+
+2. [Grief walker](https://docs.google.com/document/d/1WIcstsbsxrYcQS5wRttmVm8RK66mNISvp4brwkr-gy0/edit?usp=sharing){target='_blank'} This is a kind of case study, but more suggestive.  It's not a perfect film, certainly. And the protagonist is not a perfect person.
+
+3. about a 16 min [video by Paulson on late adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
+
+## Do some stuff
+# Week 11 Death and Dying June 14 {#week11}
+
+## Read some stuff
+
+1. [Chapter 10, Death Dying](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/10%3A_Death_and_Dying){target='_blank'}
+
+2. [10 min vid on death/dying by Paulson](https://youtu.be/Ou4eAh16kck){target='_blank'}
+
+## Do some stuff
+
+1. [Case study 5](https://docs.google.com/document/d/1kGDMKwPnFoUko5oJM8xNzpgFMmDoMeXA8aWN29cCjgQ/edit?usp=sharing){target='_blank'}
+
 # Appendix
 
 [Object Permanence videos](https://northseattle.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a034df9f-cd47-4b21-a819-ad1301209f2c){target='_blank'}
