@@ -25,12 +25,230 @@ link-citations: yes
 bibliography: Lifespan.bib
 biblio-style: apalike
 ---
+# Week 3 Jan 16 {#Week3}
+
+## Read some stuff
+
+A. Read Chapter 4 from your [Textbook](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+
+B. Watch this playlist of youtube videos from your instructor on [Piaget's theory of equilibrium](https://youtube.com/playlist?list=PLDEwZwMNQswtr-oKhhK78fBfQlBLZHTN9){target='_blank'}
+
+C. Watch this [toddler react to his candy being eaten](https://www.youtube.com/watch?v=PN2F1zxOC8w){target='_blank'}
+
+## Do some stuff
+
+A. [Do this case study about a 9 month old](https://docs.google.com/document/d/1Rv6Ll4eyxhb58BbklUuBKXgUo_3lsPtWKWBoiiusxdg/edit?usp=sharing){target='_blank'}
+
+ * when done, post to the slack channel [#case-1](https://lifespanpsych-fvq5228.slack.com/archives/C03AEPSR3L6){target='_blank'}
+
+B. Ponder a bit and write some thoughts (in your one doc) about the 3 yr old finding out that his candy was eaten. Maybe consider whether this kiddo reacted that ways due to nature or nurture (that, by the way, is a false choice).  Muse a bit. post your thoughts to the #nature-nurture channel
+
+
+# Week 4 Jan 23 {#week4}
+## orientation
+Getting into week 4 and the rest of the quarter you're going to find that the chapters we're going to be a little bit more intense broad because once you get out of infancy you begin to the rapid development in all aspects of psychology and that means we need more words to describe what's going on.
+
+Some big topics in this chapter, somewhat in the chapter's organization:
+
+themes| |  
+---|---|---
+toilet training | parenting styles |siblings
+memory | cognitive development | motor skills (fine and gross)
+gender | autism |theory of mind
+ sexuality|play | child care
+
+Wow that seems like a big spread of content. 
+
+Because this is about the time where memory skills began to bloom, this chapter goes into more depth about the cognitive model of memory (which overlaps with some of the things I said in replies of the #muddy-point channel)
+
+### Chapter 4 Learning Objectives
+
+ * All learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'}
+
+ * [Textbook Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'}
 
 
 
-# Week 8 Emerging adulthood May 24 {#week8}
+## Read some stuff
 
-The rest of the quarter is really about the process of getting older and becoming more mature as an adult. But these are terms that are massively influenced by culture and zeitgeist. Nonetheless, all cultures recognize that there is some process where a child turns into an adult and arguably adolescence was that time. But now that you're out of adolescence, what now?
+1. First do this: write down your ideas about the effectiveness of spanking children.  Just a few sentences will do.  Maybe answer whether you think it works, and why or why not. 
+
+2. [Read Chapter 4, Early Childhood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+
+3. [Watch this broad over view of Erikson's theory 22 minutes](https://youtu.be/TQwUNb3Sec0){target='_blank'}
+  
+4. Read the following on spanking
+   * [Scientific American](https://www.scientificamerican.com/article/what-science-really-says-about-spanking/){target='_blank'}
+   * Skim this for differences [APA on spanking](https://www.apa.org/monitor/2012/04/spanking){target='_blank'}
+
+5. Search for and find some data on the development of Object Permanence, world wide.  This might be really hard to do. You might begin with google scholar. 
+
+6. Consider the breadth of this chapter.  Pick 1 or 2 topics from the chapter and do some digging on some content that you think would be helpful to you either personally or professionally.  
+
+```{block,type='blueBackground'}
+The next two items are links into canvas/panapto folders (not videos directly) because I'm using copyrighted videos (from previous textbooks) that I don't want to put up on youtube.  
+```
+.
+
+7. Watch videos and Brian Commentary on Attachment and the strange situation
+    * Read (re-read) text on attachment theory as a reminder
+    * Watch the commentary videos last
+    * [link to Canvas/panopto folder containing videos](https://northseattle.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a1013365-c0ed-4597-9853-ad130120ab30){target='_blank'}
+
+8. Watch videos and Brian Commentary on Theory of Mind
+    * Read (re-read) text on Theory of mind as a reminder
+    * Watch the commentary videos last
+    * [link to Canvas/panopto folder containing videos](https://northseattle.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ca3d24ba-08e9-4213-bb57-ad13012095be){target='_blank'}
+
+
+## Do some stuff
+
+ A. in your one Google doc, make a heading/title and write a bit about what you found in terms of object permanence. 
+ 
+ B. Revisit your thoughts from #1 above. Has your mind changed about spanking? What would you tell friends who spank their kids?  For this last question, how would you deliver that information? For that matter, what would prevent you from talking to your friends about spanking? 
+ 
+ C. From #6 above, write a few paragraphs of what you found, what you think. 
+ 
+ D. Post your work to #week4 channel.
+
+
+# Week 5 Jan 30 {#week5}
+
+### Chapter 5 Learning Objectives
+
+ * All learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'}
+
+ * [Textbook Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'}
+
+## Read/watch some stuff
+
+1. [Read Chapter 5, Middle and Late Childhood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+
+2. [Panopto video on Kohlberg...development of ethical decision making](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a282b744-711b-4579-ad02-ad1301556b93){target='_blank'}
+
+3. [Panopto video, commentary on conservation abilities](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=180f3b6f-3663-4d0c-862d-ad130153d8a6){target='_blank'}
+
+
+4. [Panopto video, Conservation](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07311bb4-91e8-4916-a5aa-ad1301556bc4){target='_blank'}
+
+
+4a. [Panopto video, Reversibility](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11cced3d-878c-48ae-850d-ad1301556be1){target='_blank'}
+
+
+5. Pick a chapter from one of the 4 volumes of the [Handbook of Developmental Psychology](https://www.wiley.com/en-us/Handbook+of+Child+Psychology+and+Developmental+Science%2C+Volume+2%2C+Cognitive+Processes%2C+7th+Edition-p-9781118136782){target='_blank'}
+
+6. Send your choice to your instructor a DM @brian.holt via Slack
+
+7. Read Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+
+8. Read  Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+
+## Do stuff
+
+  A. [Case Study 2](https://docs.google.com/document/d/1tIxkbn0Tm2X37rY6fqRF5yCjFk-rkwQRu7yqMk-pkLM/edit?usp=sharing){target='_blank'}
+  
+  B. Post your case to the Case study 2 channel
+
+ C. Make a simple table to compare the first 3 phases of Piaget and Erickson.
+ 
+   * For instance you might have a column of for each theorist, a row for each stage of the first 3 stages, and then a column that you share some bullet like notes that do some comparison
+   * a comparison could be on how they are different, or where they support one another, or even some questions you may have about the theories and or phases/stages. 
+ 
+ D. Find some online sources that describe the kind of chores a 6 year old child could perform. List 4 or 5  (Be sure to include references).  Using one of the cognitive theories of development (e.g., Vygotsky, Piaget, Information Processing) justify why the 6 year old would be able to do one (just 1) of those chores.  Post your work to the [channel week 5](https://lifespanpsychology.slack.com/archives/C020PA85QKW){target="_blank"}
+ 
+ E. [Do A self-reflection Survey](https://forms.gle/xb8EiFuLuynJTMG19){target="_blank"}
+
+  * the text boxes you see in this 'quiz' will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words
+
+
+# Week 6 May 9 {#week6}
+
+## Orientation
+
+I've been re-reading the lifespan textbook and I am wondering if there some ways to think about how text books organized information the net as possible that they are credibly oversimplifications.  
+
+Here are some examples:
+
+<p style = 'text-decoration: underline'>Claim:</p>
+
+  >In addition to dopamine, the adolescent brain is affected by oxytocin which facilitates bonding and makes social connections more rewarding.
+
+No reference though.  Possibly connects to Dobbs listed just above.  My quick check on that resource goes to a national geographic article.  That's weird.  And my knowledge of these sorts of claims comes from my experience that most of those research claims are hypothetical, or based on other mammals.  
+
+I worry that this bit about oxytocin is overgeneralized (cf [replication crisis](https://www.vox.com/science-and-health/2019/2/13/18221876/oxytocin-morality-valentines){target='_blank'})
+
+As you read the textbook, keep track of its claims that either don't have references, or give you the vibes that there is an oversimplification.
+
+
+#### Chapter 6 Learning Objectives
+
+ * All learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'}
+
+ * [Textbook Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'}
+
+ 
+## Read some stuff
+
+1. [Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/06%3A_Adolescence){target='_blank'}
+
+   * While reading, take some notes regarding textbook claims that might sounds too simple.  Keep track of their locations.
+
+2. Read your chosen article from handbook volume.  Okay..skim it, but find some sections that you find interesting. 
+
+
+## Do some stuff
+
+A. Write a summary..yes, a summary of what you read from your chosen chapter/section from the Developmental Handbook [@lernerHandbookChildPsychology2015].  The goal is to write for your understanding, which means you may want to write a bit about questions you have, connections to your work/childhood/relevant stuff to you. 
+
+B. Share your notes/questions in from #1 above regarding textbook claims that are either missing references, or that you feel skeptical in its presentation.  If you have done some extra research on these topics, include that as well; I think future weeks we may come back to this. 
+
+C. Share your work in the #week 6 channel
+
+
+
+# Week 7 Adolescence redux May 16 {#week7}
+
+Last week was a mix of self-reflection assignments and article summary.  But we didn't get into much of the adolescent part of development, and really, it's an important period of time for humans.
+
+Consider some of these concepts:  
+
+- Risks
+
+- Fables
+
+- Formal Reasoning
+
+- Identity Formation
+
+These are some big ideas and issues. 
+
+## Read some stuff
+
+1. Without putting too much research into it, what are some examples of risky behavior that come to mind? What makes them risky? Write down your ideas in your one google doc.
+
+2. [Revisit Chapter 6, Adolescence, as needed](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/06%3A_Adolescence){target='_blank'}
+
+3. Read/skim [Chapter 21 from Volume 3, The development of sexuality](https://lifespanpsych-fvq5228.slack.com/archives/C039PETU7LN/p1652462208925219){target='_blank'} @lernerHandbookChildPsychology2015
+
+
+## Do some stuff
+
+A. [Case 3](https://docs.google.com/document/d/1x8KwE-_ZGMRZcqE1U5L0r8KeXZdBrlHvogAM_mT1Aq4/edit){target='_blank'}
+
+B. Post your work to [Case Study 3 channel](https://lifespanpsych-fvq5228.slack.com/archives/C03FSFA6JL9){target='_blank'}
+
+C. Write a bit about risks now that you've done some reading about it.  Some questions to consider:
+
+  * what makes something risky?  Who owns the term? 
+  * what are areas of disagreement between parents and adolescents about risky behavior, and what can be done to bring them together..to see eye to eye so to speak? 
+  * post your thoughts to the [#risk channel](https://lifespanpsych-fvq5228.slack.com/archives/C03F77FMS9L){target='_blank'}
+
+
+# Week 8 Emerging adulthood May 23 {#week8}
+
+The rest of the quarter is really about the process of getting older and becoming more mature as an adult. But these are terms that are massively influenced by culture and zeitgeist. Nonetheless, all cultures recognize that there is some process where a child turns into an adult and historically (like before 100 years ago) adolescence was that time. But, things have changed and [some even argue that adolescence has been drawn out to the mid 20's](https://www.bbc.com/news/health-42732442){target="_blank"}.  
+
+But now that you're out of adolescence, what now?
 
 ### Chapter 7 Learning Objectives
 
@@ -53,7 +271,7 @@ The rest of the quarter is really about the process of getting older and becomin
   
 1. [Complete a metacognitive assignment.](https://docs.google.com/document/d/1vKwiB31xhBR9Al1guiTw2odyVcCiIWcrqslSz1cKkqk/edit?usp=sharing){target='_blank'} 
     * This may take some time. 
-    * Post your work in the #metacognitive-review channel. (in slack, use the search function at the top to find the channel)
+    * Post your work in the [#metacognitive-review](https://lifespanpsych-fvq5228.slack.com/archives/C03GA5K6Q7P){target='_blank'}  channel. 
 
 2. What are some cliche's of young adulthood? How accurate are they?  For instance, is  "birds of a feather flock together" or "opposites attract?" more accurate?   I've got old cliche's...but what is the new wisdom?
 
@@ -61,9 +279,9 @@ The rest of the quarter is really about the process of getting older and becomin
 
 4. With an assumption that many of my students are in this domain of emerging adulthood, what aspects do you think are missing from the text?
 
-5. Post your musings to #emerging 
+5. Post your musings to #[emerging](https://lifespanpsych-fvq5228.slack.com/archives/C03GFHE3V3N){target='_blank'}
 
-# Week 9 Middle adulthood May 31 {#week9}
+# Week 9 Middle adulthood May 30 {#week9}
 
 Now we see that people are faced with life challenges that comes with middle age.  Physical declines, life satisfaction, family and work responsibilities, all with existential issues in the backdrop
 
@@ -86,9 +304,46 @@ Now we see that people are faced with life challenges that comes with middle age
     Don't publish this in your one-doc to rule...You can if you want but it is somewhat private information. 
     ```
 
-2. Case Study 4.  This will be sent out in slack via direct message. When you are ready, send me a direct message.   When you have finished the case, share this work in the #case-4 channel
+2. Case Study 4.  This will be sent out in slack via direct message. When you are ready, send me a direct message.   When you have finished the case, share this work in the #[case-4 channel](https://lifespanpsych-fvq5228.slack.com/archives/C03FYJT2R7Z){target='_blank'}
 
-3.  Using the critical thinking standards try to find and evaluate some sources on the Intelligence quotient (IQ) and other measures of intellectual abilities.  Share your ideas in the #IQ channel. Debate is welcome on this one.
+3.  Using the critical thinking standards try to find and evaluate some sources on the Intelligence quotient (IQ) and other measures of intellectual abilities.  Share your ideas in the [#IQ channel](https://lifespanpsych-fvq5228.slack.com/archives/C03FYK24895){target='_blank'}. Debate is welcome on this one.
+
+
+
+# Week 10 Late Adulthood June 7 {#week10}
+
+Late adulthood has physical and mental decline, potential for depression and suicide, but also the depth of what is meaningful.
+
+## Read some stuff
+
+1. [Chapter 9, Late Adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/09%3A_Late_Adulthood){target='_blank'}
+
+2. Watch [Grief walker](https://docs.google.com/document/d/1WIcstsbsxrYcQS5wRttmVm8RK66mNISvp4brwkr-gy0/edit?usp=sharing){target='_blank'} This is a kind of case study, but more suggestive.  It's not a perfect film, certainly. And the protagonist is not a perfect person.
+
+3. Watch about a 16 min [video by Paulson on late adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
+
+## Do some stuff
+
+1. Share your Grief walker assignment in the #grief channel
+
+# Week 11 Death and Dying June 14 {#week11}
+
+## Read some stuff
+
+1. [Chapter 10, Death Dying](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/10%3A_Death_and_Dying){target='_blank'}
+
+2. [10 min vid on death/dying by Paulson](https://youtu.be/Ou4eAh16kck){target='_blank'}
+
+## Do some stuff
+
+1. [Case study 5](https://docs.google.com/document/d/1kGDMKwPnFoUko5oJM8xNzpgFMmDoMeXA8aWN29cCjgQ/edit?usp=sharing){target='_blank'} and post to #case-5
+
+2. Do some research on 4 different cultures and their practices around death.  Try to write up about 1 or 2 paragraphs on each.  Share them to #cultural-practice-around-death. 
+
+3. [Final Self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdaK9D2O4yXPc5Mk0MhJ6naQ9qw3g53x8GsruZsIl5CM-4Gjg/viewform){target="_blank"}
+
+
+
 
 # Week 10 Late Adulthood June 7 {#week10}
 

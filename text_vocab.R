@@ -55,9 +55,9 @@ chapter_links[[10]] <- chapter_links[[10]][1:10]
 
 
 terms <- vector(mode='list',length=length(chapter_links))
-  for(i in 1:length(chapter_links[[3]])){
+  for(i in 1:length(chapter_links[[1]])){
 
-    read_html(chapter_links[[3]][i]) %>%
+    read_html(chapter_links[[1]][i]) %>%
     html_nodes("strong") %>%
     html_text()-> terms[[i]]
 
@@ -65,10 +65,23 @@ terms <- vector(mode='list',length=length(chapter_links))
 
 
 terms
-
 save(terms,file='Ch3_lifespan_Vocab.RData')
 
-lapply(terms, function(x) write.table( data.frame(x), 'Ch3_lifespan_Vocab.csv', append= T, sep=',' ))
+
+term_def <- vector(mode='list',length=length(chapter_links))
+for(i in 1:length(chapter_links[[10]])){
+
+  read_html(chapter_links[[10]][i]) %>%
+    html_nodes("em") %>%
+    html_text()-> term_def[[i]]
+
+}
+
+save(term_def,file='Ch10_term_definitions.RData')
+
+
+
+  lapply(terms, function(x) write.table( data.frame(x), 'Ch3_lifespan_Vocab.csv', append= T, sep=',' ))
 
 
 
