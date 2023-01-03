@@ -37,7 +37,6 @@ library(kableExtra)
 
   A. First of all, welcome. My intention is to keep instructions brief and simple. 
 
-  B. You are always welcome to ask for clarification. It is helpful to your instructor if you try to ask the class first because often the class can be helpful. So, please first ask a question in slack. If it's personal, please use my email account brian.holt@seattlecolleges.edu
 
   C. It is absolutely crucial that students, teachers, all of us, respect that everybody comes to this class with different experiences, abilities, and intentions..
 
