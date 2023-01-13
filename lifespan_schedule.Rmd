@@ -201,15 +201,15 @@ If I were to be doing this in a traditional class I'd be quizzing you on this st
 
 ## Read/watch some stuff
 
-1. Skim, consume the [Textbook, chapter 2: Heredity and prenatal development](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/02%3A_Heredity_Prenatal_Development_and_Birth){target="_blank"}  
-2. Skim, consume the [Textbook, chapter 3: Infancy and toddlers](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/03%3A_Infancy_and_Toddlerhood){target="_blank"}
+1. Skim the [Textbook, chapter 2: Heredity and prenatal development](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/02%3A_Heredity_Prenatal_Development_and_Birth){target="_blank"}  
+2. Skim the [Textbook, chapter 3: Infancy and toddlers](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/03%3A_Infancy_and_Toddlerhood){target="_blank"}
 
-3. Read/skim @schwartzImportanceStupidityScientific2008.  Take notes on more then just the content.  Note your emotional reactions and where your mind goes. 
+3. Read/skim @schwartzImportanceStupidityScientific2008.  Take notes on more then just the content.  Note your emotional reactions and where your mind goes. Added 1/9/23:  Here is the direct link to the article (so you don't have to jump to the bottom of this document to get it): [Importance of Stupidity, Schwartz 2008](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research){target="_blank"}
 
 ```{block,type='blueBackground'}
 A few things:
 
-1) note that the link for the Scwhartz article doesn't take you to the article; it takes you to the references in the schedule.  There, you will sometimes find the link to the actual article; other times you may have to use our library's database.
+1) note that the first link for the Schwartz article doesn't take you to the article; it takes you to the references in the schedule.  There, you will sometimes find the link to the actual article; other times you may have to use our library's database. I've added a direct link above.
 
 2) If you've taken one of my classes in the recent few years you have read The Schwartz article and so I'm sorry that you get to read it again. However, there's a good reason to review it, and another reason for me assigning it is that not everybody who is in this life span class has had my other classes. 
 ```
