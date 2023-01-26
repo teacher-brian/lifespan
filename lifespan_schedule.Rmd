@@ -401,6 +401,22 @@ You'll need to skim all of those table of contents to find something interesting
 
   * the text boxes you see in this 'quiz' will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words
 
+F. Do a Survey on [how important sex is to you](https://docs.google.com/forms/d/e/1FAIpQLSfpnmmTRSjBNa50tTLHsUX3venfF8aTe85CCXVha6cFeO_Sew/viewform){target='_blank'}.  This might seem out of the blue, which it is, but there are several things I hope to accomplish here.  <span style="color: red;">Don't put your score in the google doc.</span>
+
+  
+  * it's optional and anonymous. I do require that you put your age and sex-assigned-at-birth because that is how the original study was conducted.  <span style="color: red;">Don't put your score in the google doc.</span>
+  
+  * It gives us a chance to talk about
+  
+    * hypothetical constructs
+    
+    * difficulty in social science research
+  
+    * statistics
+
+<span style="color: red;"> Have I said to not put your score in the google doc.</span>
+
+Once I get enough data in the survey, we can make use of it to think about various things. 
 
 
 # Appendix
