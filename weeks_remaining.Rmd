@@ -26,36 +26,8 @@ bibliography: Lifespan.bib
 biblio-style: apalike
 ---
 
-# Week 9 Middle adulthood May 30 {#week9}
 
-Now we see that people are faced with life challenges that comes with middle age.  Physical declines, life satisfaction, family and work responsibilities, all with existential issues in the backdrop
-
-## Read some stuff
-
-1. [Chapter 8, Middle Adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/08%3A_Middle_Adulthood){target='_blank'}
-
-2. watch about a 12 min [video by Paulson on middle adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
-
-
-
-
-## Do some stuff
-
-1. [take the big 5 test here](http://www.personalitytest.net/ipip/index.html){target='_blank'}
-    * If you have taken my intro class recently, you've probably taken this test and now would be an interesting time to retake it and see whether your scores have changed.  This would be a simple reliability test of the big 5, for you.
-    * There are 2 versions to choose from, a short and long.
-    * You may want to save your output for posterity.  The output should include your score on the 5 dimensions (OCEAN) plus 6 sub-tests for a total of 30 results.
-    ```{block,type='instructorNote'}
-    Don't publish this in your one-doc to rule...You can if you want but it is somewhat private information. 
-    ```
-
-2. Case Study 4.  This will be sent out in slack via direct message. When you are ready, send me a direct message.   When you have finished the case, share this work in the #[case-4 channel](https://lifespanpsych-fvq5228.slack.com/archives/C03FYJT2R7Z){target='_blank'}
-
-3.  Using the critical thinking standards try to find and evaluate some sources on the Intelligence quotient (IQ) and other measures of intellectual abilities.  Share your ideas in the [#IQ channel](https://lifespanpsych-fvq5228.slack.com/archives/C03FYK24895){target='_blank'}. Debate is welcome on this one.
-
-
-
-# Week 10 Late Adulthood June 7 {#week10}
+# Week 10 Late Adulthood March 6 {#week10}
 
 Late adulthood has physical and mental decline, potential for depression and suicide, but also the depth of what is meaningful.
 
@@ -71,7 +43,7 @@ Late adulthood has physical and mental decline, potential for depression and sui
 
 1. Share your Grief walker assignment in the #grief channel
 
-# Week 11 Death and Dying June 14 {#week11}
+# Week 11 Death and Dying Mar 13 {#week11}
 
 ## Read some stuff
 
@@ -90,7 +62,7 @@ Late adulthood has physical and mental decline, potential for depression and sui
 
 
 
-# Week 10 Late Adulthood June 7 {#week10}
+# Week 10 Late Adulthood Mar 20 {#week10}
 
 Late adulthood has physical and mental decline, potential for depression and suicide, but also the depth of what is meaningful.
 
@@ -106,7 +78,7 @@ Late adulthood has physical and mental decline, potential for depression and sui
 
 1. Share your Grief walker assignment in the #grief channel
 
-# Week 11 Death and Dying June 14 {#week11}
+# Week 11 Death and Dying Mar 27 {#week11}
 
 ## Read some stuff
 
@@ -149,4 +121,5 @@ For instance we're often taught about how the Greeks were the beginning of human
 
 I don't know if I have the time to find research on that .
 ```
+
 
