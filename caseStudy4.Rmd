@@ -1,0 +1,26 @@
+---
+title: "Should they sign a prenup?"
+author: "Brian Holt"
+date: "08/20/2015"
+output: html_document
+toc: true
+---
+
+The original case study was set up with the man asking for a prenuptial agreement.
+
+Several years ago I began giving different versions of the 4th case study.  I wondered whether students would treat the case differently if it was the woman requesting the prenuptial.
+
+So, I started tracking the results.  
+
+
+
+First here is how your class responded:
+
+```{r,error=FALSE}
+df<-read.csv("./teachstats/Final.txt",sep=",",row.names = NULL,na.strings="")
+df<-data.frame(na.omit(df,row.names=NULL))
+df$name<-factor(df$name)
+#df$quarter<-factor(df$quarter)
+df$prenup<-factor(df$prenup)
+```
+
