@@ -76,21 +76,37 @@ df %>%
 
 # by date
 
+So, it's hard to show counts over time.  Creates messy graphs.  Maybe a cumulative line chart? 
+
+Here is a line chart
+
 ```{r}
 df %>% 
-  group_by(Version,Sex,prenp,Date) %>% 
+  group_by(Version,Sex,prenp,Date,quarter) %>%
+  arrange(Date) %>% 
   summarise(n=n()) %>% 
-  ggplot(aes(x=Date,y=n,fill=prenp))+
-  geom_col(position = 'dodge2')
+  ggplot(aes(x=Date,y=n,color=prenp))+
+  geom_line()+
+  facet_wrap(~prenp)
 
 ```
 
+# ratio of yes to other choices
+
+
+We can, howeve, create a ratio which makes it a bit easier to see:
+
+
+
+
 ```{r}
-df %>% 
-  filter(prenp=='Yes') %>% 
-  group_by(Version,Sex,Date) %>% 
-  summarise(n=n()) %>% 
-  ggplot(aes(x=Date,y=n,group=Version))+
-  geom_col()
+ df %>%
+    group_by(Date,Version,quarter,prenp) %>%
+    summarise(n=n()) %>%
+    pivot_wider(names_from =  prenp, values_from = n,values_fill = 0) %>% 
+  mutate(prop_yes = Yes/(No+neither)) %>%
+
+    ggplot(aes(x =Date, y=prop_yes,color=Version))+
+    geom_point()+geom_line()
 
 ```
