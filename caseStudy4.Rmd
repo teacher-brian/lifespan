@@ -80,8 +80,8 @@ df %>%
 df %>% 
   group_by(Version,Sex,prenp,Date) %>% 
   summarise(n=n()) %>% 
-  ggplot(aes(x=Date,y=n))+
-  geom_point()
+  ggplot(aes(x=Date,y=n,fill=prenp))+
+  geom_col(position = 'dodge2')
 
 ```
 
