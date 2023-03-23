@@ -34,22 +34,46 @@ separate(col = legacy_code_yr,
   )) %>%
   mutate (Date = ymd(paste0(year,'-',month,'-','01'))) %>%
   mutate(quarter = factor(quarter),
+         gender = factor(tolower(gender)),
          Sex = factor(tolower(gender)),
          Version =  as.factor(Version))
-
+# by sex by version
 df %>%
-  group_by(Sex, Version,prenp) %>%
+  group_by(Date,quarter,Sex,Version,prenp) %>%
   summarise(n=n()) %>%
   pivot_wider(names_from =  prenp, values_from = n) %>%
 
   mutate(prop_yes = Yes/No) %>%
 
-  ggplot(aes(x =Version, y=prop_yes))+
+  ggplot(aes(x =Date, y=prop_yes,color=Version))+
   geom_point()+geom_line()+
   facet_grid(~Sex)+
   ggtitle("Proportion of students saying yes to prenup/n a '1.0' proportion means equal between No and Yes.\n Bigger than 1 means many more Yes while Less than 1 means more no's")
 
-  filter (quarter == 202014) %>% count(gender,prenp)
+# Date quarter prenup...combine the rest
+df %>%
+  group_by(Date,quarter,prenp) %>%
+  summarise(n=n()) %>%
+  pivot_wider(names_from =  prenp, values_from = n) %>%
+
+  mutate(prop_yes = Yes/No) %>%
+
+  ggplot(aes(x =Date, y=prop_yes))+
+  geom_point()+geom_line()
+  ggtitle("Proportion of students saying yes to prenup/n a '1.0' proportion means equal between No and Yes.\n Bigger than 1 means many more Yes while Less than 1 means more no's")
+
+
+# by version
+  df %>%
+    group_by(Date,Version,quarter,prenp) %>%
+    summarise(n=n()) %>%
+    pivot_wider(names_from =  prenp, values_from = n) %>%
+
+    mutate(prop_yes = Yes/No) %>%
+
+    ggplot(aes(x =Date, y=prop_yes,color=Version))+
+    geom_point()+geom_line()
+
 
 
 
@@ -59,7 +83,7 @@ colnames(df)<-colnames(df)[2:6]
 #df<-data.frame(na.omit(df,row.names=NULL))
 df$name<-factor(df$name)
 #df$quarter<-factor(df$quarter)
-df$prenup<-factor(as.character(df$prenup))
+df$prenp<-factor(as.character(df$prenp))
 
 str(df)
 summary(df)
@@ -69,7 +93,7 @@ df<-df[complete.cases(df),]  #this remmoves students who didn't clearly indicate
 
 genderdf<-table(df$gender)
 
-prenupdf<-table(df$prenup)
+prenupdf<-table(df$prenp)
 chisq.test(prenupdf)
 as.data.frame(prenupdf) %>%
   rename(prenup=Var1) %>%
@@ -77,35 +101,32 @@ as.data.frame(prenupdf) %>%
   geom_point()+
   geom_line()+
   labs(title="Should a Prenup be signed?")+
-  scale_y_continuous(limits = c(110, 135))+
-  geom_text(aes(y = Freq + 2))
+    geom_text(aes(y = Freq + 2))
 
 
-prenupVersiondf<-table(df$version,df$prenup)
+prenupVersiondf<-table(df$Version,df$prenp)
 chisq.test(prenupVersiondf)
 
 as.data.frame(prenupVersiondf) %>%
-  rename(version=Var1,prenup=Var2) %>%
-  ggplot(aes(x=version,y=Freq,group=prenup,color=prenup,label=Freq)) +
+  rename(version=Var1,prenp=Var2) %>%
+  ggplot(aes(x=version,y=Freq,group=prenp,color=prenp,label=Freq)) +
   geom_point()+
   geom_line()+
   labs(title="Should a Prenup be signed, by version") +
-  scale_y_continuous(limits = c(45, 80))+
-  geom_text(aes(y = Freq + 2))
+    geom_text(aes(y = Freq + 2))
 
 as.data.frame(prenupVersiondf) %>%
-  rename(version=Var1,prenup=Var2) %>%
-  ggplot(aes(x=prenup,y=Freq,label=Freq,group=version))+geom_line() +
-  geom_point()+facet_wrap(~version)+
-  scale_y_continuous(limits = c(45, 80))+
-  geom_text(aes(y = Freq + 2))
+  rename(Version=Var1,prenp=Var2) %>%
+  ggplot(aes(x=prenp,y=Freq,label=Freq,group=Version))+geom_line() +
+  geom_point()+facet_wrap(~Version)+
+    geom_text(aes(y = Freq + 2))
 
 
-genPrenupVerdf<-table(df$version,df$prenup,df$gender)
+genPrenupVerdf<-table(df$Version,df$prenp,df$gender)
 genderData<-as.data.frame(genPrenupVerdf) %>%
-  rename(version=Var1,prenup=Var2,gender=Var3)
+  rename(Version=Var1,prenp=Var2,gender=Var3)
 
-genderData.lm<-lm(Freq ~ version + prenup + gender,data=genderData)
+genderData.lm<-lm(Freq ~ Version + prenp + gender,data=genderData)
 summary(genderData.lm)
 anova(genderData.lm)
 confint(genderData.lm)
@@ -131,11 +152,11 @@ as.data.frame(genPrenupVerdf) %>%
 
 
 #recent class#
-RecentClassdf<-df %>% filter(quarter == '1673')
-RecentGenPrenupVerdf<-table(RecentClassdf$version,RecentClassdf$prenup,RecentClassdf$gender)
+RecentClassdf<-df %>% filter(quarter == 'C233')
+RecentGenPrenupVerdf<-table(RecentClassdf$Version,RecentClassdf$prenp,RecentClassdf$gender)
 as.data.frame(RecentGenPrenupVerdf) %>%
-  rename(version=Var1,prenup=Var2,gender=Var3) %>%
-  ggplot(aes(x=version,y=Freq,group=prenup,color=prenup,label=Freq)) +
+  rename(Version=Var1,prenp=Var2,gender=Var3) %>%
+  ggplot(aes(x=Version,y=Freq,group=prenp,color=prenp,label=Freq)) +
   geom_point()+
   geom_line()+
   labs(title="Should a Prenup be signed, by version and gender") +
@@ -147,15 +168,17 @@ as.data.frame(RecentGenPrenupVerdf) %>%
 
 
 plot1<-ggplot(data=df, aes(x=gender,fill=..x..>1))
-plot1+coord_cartesian()+geom_bar()+facet_wrap(~version,ncol=2)+labs(title='count of male and female\n\nA=Male asks for Prenup\nB=Female asks for Prenup',x="Gender",y = "Count")+guides(fill=FALSE)
+plot1+coord_cartesian()+geom_bar()+facet_wrap(~Version,ncol=2)+
+  labs(title='count of male and female\n\nA=Male asks for Prenup\nB=Female asks for Prenup',x="Gender",y = "Count")+guides(fill=FALSE)
 
-plot2<-ggplot(data=df, aes(x=prenup,fill=gender))
-plot2+ geom_bar(stat="bin")+facet_wrap(~gender+version,ncol=4)+labs(title='count of male and female',x="Sign Prenup?",y = "Count")+guides(fill=FALSE)
+plot2<-ggplot(data=df, aes(x=prenp,fill=gender))
+plot2 + geom_bar(stat="count")+facet_wrap(~gender+Version,ncol=4)+
+  labs(title='count of male and female',x="Sign Prenup?",y = "Count")+guides(fill=FALSE)
 
 
 
 
-
+####old base wrangling
 
 #the following pulls the 3rd number from code in quarter to create month of start
 for (i in 1:nrow(df)) {
@@ -180,15 +203,26 @@ df$year<-dmy(df$year)
 df$year<-year(df$year)
 df$Start_date<-mdy(paste0(df$term,"/1/",df$year))
 
-qt<-df%>%select( Start_date,gender,version,prenup)%>%group_by(Start_date,version,gender,prenup)%>%summarise(count =n())
 
-ts<-ggplot(data=qt,aes(x=Start_date,y=count,color=gender))
-#ts+ geom_line()+facet_grid(~version+prenup)+geom_smooth()
+qt<-df%>%select(Date,gender,Version,prenp)%>%
+  group_by(Date,Version,gender,prenp) %>%
+  mutate(count=case_when(prenp=='No'~1,
+                         prenp=='Yes'~2))%>%
+  summarise(count=sum(count))
+ts<-ggplot(data=qt,aes(x=Date,y=count,color=gender))
+ts+ facet_grid(~Version+prenp)+geom_smooth(se = F)
 
 
-qtDiff<-df%>%select(Start_date,gender,version,prenup)%>%group_by(Start_date,version,gender,prenup)%>%summarise(count=sum(prenup))
+qtDiff<-df%>%select(Date,gender,Version,prenp)%>%
+  group_by(Date,Version,gender,prenp)%>%
+  mutate(count=case_when(prenp=='No'~1,
+                         prenp=='Yes'~2))%>%
+  summarise(count=sum(count))
 
 qtrCount<-df%>%select(Start_date)%>%group_by(Start_date)%>%summarise(count = n())
+
+df %>% select(name,quarter,gender,Version,prenp,Date) %>%
+  pivot_wider(id_cols = Date,names_from = prenp,values_from = prenp)
 
 finaldf<-dcast(df,Start_date+version+gender~prenup)
 finaldf<-mutate(finaldf,Diff=Yes-No)
