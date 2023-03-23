@@ -14,8 +14,7 @@ df <- range_read("https://docs.google.com/spreadsheets/d/1A5c3qo2oRGWPE3ZIZxJ78d
 
 
 df <- df %>%
-  filter(prenp != 'neither',
-         prenp != is.na(prenp)) %>%
+  filter(prenp != is.na(prenp)) %>%
   mutate(legacy_code_yr = gsub("(.)(.)(.)(.)",'\\1\\.\\2\\.\\3\\.\\4',legacy_code_yr)) %>%
 separate(col = legacy_code_yr,
          into =c('decade','year_start','year_end','quart'),
@@ -37,6 +36,10 @@ separate(col = legacy_code_yr,
          gender = factor(tolower(gender)),
          Sex = factor(tolower(gender)),
          Version =  as.factor(Version))
+saveRDS(df,"caseStudy4.RDS")
+
+df<- readRDS("caseStudy4.RDS")
+
 # by sex by version
 df %>%
   group_by(Date,quarter,Sex,Version,prenp) %>%
@@ -77,31 +80,14 @@ df %>%
 
 
 
-
-colnames(df)<-colnames(df)[2:6]
-#df<-df[,1:5]
-#df<-data.frame(na.omit(df,row.names=NULL))
-df$name<-factor(df$name)
-#df$quarter<-factor(df$quarter)
-df$prenp<-factor(as.character(df$prenp))
-
-str(df)
-summary(df)
-
-
-df<-df[complete.cases(df),]  #this remmoves students who didn't clearly indicate what to do
-
-genderdf<-table(df$gender)
-
-prenupdf<-table(df$prenp)
-chisq.test(prenupdf)
-as.data.frame(prenupdf) %>%
-  rename(prenup=Var1) %>%
-  ggplot(aes(x=prenup,y=Freq,group=1,label=Freq))+
+df %>%
+  group_by(prenp) %>%
+  summarise(n=n()) %>%
+  ggplot(aes(x=prenp,y=n,label=n,group=1))+
   geom_point()+
   geom_line()+
   labs(title="Should a Prenup be signed?")+
-    geom_text(aes(y = Freq + 2))
+    geom_text(aes(y = n + 2))
 
 
 prenupVersiondf<-table(df$Version,df$prenp)

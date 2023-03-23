@@ -14,13 +14,83 @@ So, I started tracking the results.
 
 
 
-First here is how your class responded:
+# First, here is how your class responded:
 
-```{r,error=FALSE}
-df<-read.csv("./teachstats/Final.txt",sep=",",row.names = NULL,na.strings="")
-df<-data.frame(na.omit(df,row.names=NULL))
-df$name<-factor(df$name)
-#df$quarter<-factor(df$quarter)
-df$prenup<-factor(df$prenup)
+```{r,echo=F,message=F}
+library(lubridate)
+library(tidyverse)
+```
+```{r,echo=F}
+df<- readRDS("caseStudy4.RDS")
 ```
 
+
+```{r,echo=F}
+df %>% filter(quarter == 'C233') %>% 
+  group_by(Version,prenp,gender) %>% 
+  summarise(n=n()) %>% 
+    ggplot(aes(x=Version,y=n,group=prenp,color=prenp,label=n)) +
+  geom_point()+
+  geom_line()+
+  labs(title="Should a Prenup be signed, by version and gender",y='count') +
+  scale_y_continuous(limits = c(0, 8))+
+  geom_text(aes(y = n + .5))+
+  facet_wrap(~gender)
+```
+
+
+# all data
+
+
+
+
+#  Version and prenup
+
+```{r,echo=FALSE}
+df %>% 
+  group_by(Version,prenp) %>% 
+  summarise(n=n()) %>% 
+    ggplot(aes(x=Version,y=n,label=n,group=prenp,color=prenp))+
+  geom_line() +
+  geom_point()+
+  #facet_wrap(~Version)+
+    geom_text(aes(y = n + 2))+
+  labs(y="count")
+```
+
+
+#  Version and Sex
+
+```{r,echo=FALSE}
+df %>% 
+  group_by(Version,Sex,prenp) %>% 
+  summarise(n=n()) %>% 
+    ggplot(aes(x=Version,y=n,label=n,group=prenp,color=prenp))+
+  geom_point()+
+  geom_line() +
+  facet_wrap(~Sex)+
+    geom_text(aes(y = n + 2))+
+  labs(y="count")
+```
+
+
+# by date
+
+```{r}
+df %>% 
+  group_by(Version,Sex,prenp,Date) %>% 
+  summarise(n=n()) %>% 
+  ggplot(aes(x=Date,y=n))+
+  geom_point()
+
+```
+
+```{r}
+df %>% 
+  filter(prenp=='Yes') %>% 
+  group_by(Version,Sex,Date) %>% 
+  summarise(n=n()) %>% 
+  ggplot(aes(x=Date,y=n,group=Version))+
+  geom_col()
+
+```
