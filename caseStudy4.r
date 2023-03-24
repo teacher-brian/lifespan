@@ -35,7 +35,8 @@ separate(col = legacy_code_yr,
   mutate(quarter = factor(quarter),
          gender = factor(tolower(gender)),
          Sex = factor(tolower(gender)),
-         Version =  as.factor(Version))
+         Version =  factor(Version),
+         prenp = factor(prenp,levels = c("Yes","No","neither")))
 saveRDS(df,"caseStudy4.RDS")
 
 df<- readRDS("caseStudy4.RDS")

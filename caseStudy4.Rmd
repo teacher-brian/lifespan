@@ -1,8 +1,8 @@
 ---
 title: "Should they sign a prenup?"
 author: "Brian Holt"
-date: "08/20/2015"
-output: html_document
+date: "`r Sys.Date()`"
+output: slidy_presentation
 toc: true
 ---
 
@@ -17,6 +17,7 @@ So, I started tracking the results.
 # First, here is how your class responded:
 
 ```{r,echo=F,message=F}
+knitr::opts_chunk$set(echo = FALSE,message = F,warning = F)
 library(lubridate)
 library(tidyverse)
 ```
@@ -32,9 +33,9 @@ df %>% filter(quarter == 'C233') %>%
     ggplot(aes(x=Version,y=n,group=prenp,color=prenp,label=n)) +
   geom_point()+
   geom_line()+
-  labs(title="Should a Prenup be signed, by version and gender",y='count') +
+  labs(title="Should a Prenup be signed, by version and Sex",y='count') +
   scale_y_continuous(limits = c(0, 8))+
-  geom_text(aes(y = n + .5))+
+      geom_text(aes(y = n + .5,label=n),show.legend = F)+
   facet_wrap(~gender)
 ```
 
@@ -44,17 +45,19 @@ df %>% filter(quarter == 'C233') %>%
 
 
 
-#  Version and prenup
+# Version and prenup
 
 ```{r,echo=FALSE}
 df %>% 
+  mutate(prenp=factor(prenp,levels = c("Yes","No","neither"))) %>% 
   group_by(Version,prenp) %>% 
   summarise(n=n()) %>% 
-    ggplot(aes(x=Version,y=n,label=n,group=prenp,color=prenp))+
+    ggplot(aes(x=Version,y=n,color=prenp,group=prenp))+
   geom_line() +
+  scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))+
   geom_point()+
   #facet_wrap(~Version)+
-    geom_text(aes(y = n + 4))+
+    geom_text(aes(y = n + 4,label=n),show.legend = F)+
   labs(y="count")
 ```
 
@@ -69,8 +72,9 @@ df %>%
   geom_point()+
   geom_line() +
   facet_wrap(~Sex)+
-    geom_text(aes(y = n + 2))+
-  labs(y="count")
+        geom_text(aes(y = n + 4,label=n),show.legend = F)+
+  labs(y="count")+
+  scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
 ```
 
 
@@ -87,6 +91,7 @@ df %>%
   summarise(n=n()) %>% 
   ggplot(aes(x=Date,y=n,color=prenp))+
   geom_line()+
+  scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))+
   facet_wrap(~prenp)
 
 ```
@@ -107,6 +112,7 @@ We can, howeve, create a ratio which makes it a bit easier to see:
   mutate(prop_yes = Yes/(No+neither)) %>%
 
     ggplot(aes(x =Date, y=prop_yes,color=Version))+
-    geom_point()+geom_line()
+    geom_point()+geom_line()+
+  scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
 
 ```
