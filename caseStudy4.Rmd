@@ -58,7 +58,9 @@ df %>%
   geom_point()+
   #facet_wrap(~Version)+
     geom_text(aes(y = n + 4,label=n),show.legend = F)+
-  labs(y="count")
+  labs(y="count",
+       x= "Version; \nA=Man owns house\nB = Woman owns house")+
+  ggtitle("Count of students answering yes/no \nto the question 'should they sign a prenup' ")
 ```
 
 
@@ -73,7 +75,9 @@ df %>%
   geom_line() +
   facet_wrap(~Sex)+
         geom_text(aes(y = n + 4,label=n),show.legend = F)+
-  labs(y="count")+
+  labs(y="count",
+       x= "Version; \nA=Man owns house\nB = Woman owns house")+
+  ggtitle("Count of male and female students \nanswering yes/no to the question \n'should they sign a prenup' ")
   scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
 ```
 
