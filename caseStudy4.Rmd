@@ -54,7 +54,7 @@ df %>%
   geom_line() +
   geom_point()+
   #facet_wrap(~Version)+
-    geom_text(aes(y = n + 2))+
+    geom_text(aes(y = n + 4))+
   labs(y="count")
 ```
 
