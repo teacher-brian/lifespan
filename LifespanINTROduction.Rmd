@@ -1,0 +1,82 @@
+---
+title: "Lifespan introduction"
+author: "Brian Holt"
+date: '`r Sys.Date()`'
+output: slidy_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Hello
+I intend to cover the following points
+
+1. The organization of the class
+2. May be a struggle for people who are used to highly structured teaching
+3. Big View of lifespan psychology, which includes embracing hypothetical constructs and competing theories for why people do what they do 
+4. Diathesis stress
+
+# Class organization
+
+This course is organized with the hope of emphasizing internal  motivations for learning while de-emphasizing external motivations. What is the difference?
+
+## External motivations
+
+chasing points, broadly, out of fear of not earning enough points to get a desired grade. 
+
+notice that the goal is not necessarily learning but the collection of points. 
+
+## Internal motivations
+
+Doing something because you find meaning in that activity.
+
+
+# Instructor's goal:
+
+To get you to learn psychology without the fear of losing points by letting students find interesting things in that topic.
+
+How?  
+
+Don't do work for points but for curiosity.  If you make mistakes, we can talk about them without fear of losing out on grades.
+
+Alter the instructor's assignments and prompts to serve your needs.  If you are going to be a nurse and want to work in the ER, then let's learn about how different aged patients behave in a crisis/emergency.  
+
+
+# Difficulties
+
+Some students have found a rhythm to playing the point chasing game. They're excellent at taking tests, they're excellent at following directions  at a high degree of specificity.
+
+I have found that a lot of times students who are used to a very structured learning environment struggle at first with a class without points.
+
+# How to deal?
+
+* talk to your instructor and classmates
+* develop a workflow to help produce quality work
+* use the critical thinking standards as a rubric
+
+# Theories in psychology
+
+Psychology has difficulties that are not found in other Sciences
+
+In biology, we have the theory of evolution. 
+
+In psychology, we don't have that. It's more recent and that means we have competing theories
+
+## philosophy of science
+
+Constructivism vs simple realism, pragmatism
+
+* Hypothetical constructs
+-- made up term used to explain a relationship
+* reificaiton
+--treating a hypothetical construct as real
+
+# Diathesis stress
+
+History of science in studying heart disease
+identified biological risk factors (diathesis) as well as environmental risk factors (stress) that predispose one to have heart disease.
+
+In psychology, we try to do the same thing; we call it *vulnerability stress*. You might have a psychological vulnerability to depression if you tell yourself that you are a good person only when you get high grades. 
+
+What risk factors exist for eating disorders? what factors decrease chaos in an emergency room?

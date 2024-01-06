@@ -1,0 +1,98 @@
+---
+title: "Basic_writing_guide"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output: 
+  slidy_presentation:
+    css: "style.css"
+    
+---
+# How to write papers
+
+
+
+Students often ask for help about how to write in the absence of me getting a concrete rubric.
+
+
+They often have questions like:
+
+- how long should it be, 
+- should I use APA style,
+- should I cite sources
+- which sources should I use
+- what style should I write?
+- how do I know when I'm done?
+- if the course is about producing good quality, what does that mean? 
+
+
+# Those are reasonable questions
+
+
+Because we often have been trained to jump through rubric hoops, these questions are very reasonable.
+
+
+My answer is basically : 
+Write in such a way  to reduce the cognitive load on your audience
+
+In other words, what makes good quality output? Empathizing with your readers. 
+
+
+In this class is that your classmates are your audience and that they should have read the material, which means you don't have to re-hash what was in the material.
+
+# Let's review those questions again
+
+
+- how long should it be, 
+- should I use APA style,
+- should I cite sources
+- which sources should I use
+- what style should I write?
+- how do I know when I'm done?
+- if the course is about producing good quality, what does that mean?
+
+# why do we write, and for whom?
+
+We write for many reasons. but even if you're journaling for yourself, an argument could be made that you want to write in such a way to help your current cognitive load and maybe the cognitive load of your future self should they want to reread your work.
+
+# write with a technical style
+
+In this class you're going to be write by using a technical Style.  
+this writing how journalists for newspapers write
+
+as a rule of thumb: **all claims need in-text citations that tie claims to the list of references from which the claims originate**
+
+In practice, it looks like this:
+
+
+```{block,type='blueBackground'}
+
+In my personal experience, many people seem to equate the 2nd amendment of the US constitution as having always been interpreted to mean that individuals have the right to **own** and **carry** a gun. It turns out that isn't absolutely true: in 1840, the Tennessee supreme court basically said that "bearing arms" is an act of military service:
+
+>A man in the pursuit of deer, elk, and buffaloes might carry his rifle every day for forty years, and yet it would never be said of him that he had borne arms; much less could it be said that a private citizen bears arms because he has a dirk or pistol concealed under his clothes, or a spear in a cane (as cited in Cramer et al., 2008).
+
+This is consistent what the earlier drafts of the 2nd amendment was about. Notice the following version that doesn't reference state's rights, but a "national militia", and that it says you can't compel a person to bear arms if they have religious objects to violence. 
+
+"The right of the people to keep and bear arms shall not be infringed; a well armed and well regulated militia being the best security of a free **country**: but no person religiously scrupulous of bearing arms shall be compelled to render military service in person (emphasis added, Wikipedia, 2023)."
+
+These sources should give us pause in quickly thinking that the 2nd amendment is only about owning weapons; no, the original intent had to do with militia service. 
+
+<u>References</u>
+
+Cramer, Clayton, and Joseph Olsen. 2008. “What Did ‘Bear Arms’ Mean in the 2nd Amendment?” Georgetown Journal of Law & Public Policy 6(2).
+
+
+Wikipedia, (nd), 2nd Amendment, Conflict and compromise in Congress produce the Bill of Rights, Wikimedia foundation, accessed Jan 2024
+```
+
+
+# how to manage need for creative writing and technical
+
+Generally you go to college in order to learn to write more technically.  
+
+Unless you're majoring in a fine art discipline, your ability to work with others will be improved by writing more technically.
+
+This isn't to say that you can't be creative and clever, but the focus should be on technical. 
+
+
+# some examples
+
