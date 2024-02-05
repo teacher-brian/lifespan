@@ -313,8 +313,8 @@ Because this is about the time where memory skills began to bloom, this chapter 
 3. [Watch this broad over view of Erikson's theory 22 minutes](https://youtu.be/TQwUNb3Sec0){target='_blank'}
   
 4. Read the following on spanking
-   * [Scientific American](https://www.scientificamerican.com/article/what-science-really-says-about-spanking/){target='_blank'}
-   * Skim this for differences [APA on spanking](https://www.apa.org/monitor/2012/04/spanking){target='_blank'}
+   * [Scientific American https://www.scientificamerican.com/article/what-science-really-says-about-spanking/](https://www.scientificamerican.com/article/what-science-really-says-about-spanking/){target='_blank'}
+   * Skim this for differences [APA on spanking https://www.apa.org/monitor/2012/04/spanking](https://www.apa.org/monitor/2012/04/spanking){target='_blank'}
 
 5. Search for and find some data on the development of Object Permanence, world wide.  This might be really hard to do. You might begin with google scholar. 
 
@@ -335,7 +335,7 @@ If you can't access them, please let me know
 8. Watch videos and Brian Commentary on Theory of Mind
     * Read (re-read) text on Theory of mind as a reminder
     * Watch the commentary videos last
-    * [link to Canvas/panopto folder containing videos](https://northseattle.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ca3d24ba-08e9-4213-bb57-ad13012095be){target='_blank'}
+    * [link to Canvas/panopto folder containing videos https://northseattle.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ca3d24ba-08e9-4213-bb57-ad13012095be](https://northseattle.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ca3d24ba-08e9-4213-bb57-ad13012095be){target='_blank'}
 
 
 ## Do some stuff
@@ -358,20 +358,20 @@ If you can't access them, please let me know
 
 ## Read/watch some stuff
 
-1. [Read Chapter 5, Middle and Late Childhood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+1. [Read Chapter 5, Middle and Late Childhood https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
 
-2. [Panopto video on Kohlberg...development of ethical decision making](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a282b744-711b-4579-ad02-ad1301556b93){target='_blank'}
+2. [Panopto video on Kohlberg...development of ethical decision making https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a282b744-711b-4579-ad02-ad1301556b93](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a282b744-711b-4579-ad02-ad1301556b93){target='_blank'}
 
-3. [Panopto video, commentary on conservation abilities](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=180f3b6f-3663-4d0c-862d-ad130153d8a6){target='_blank'}
-
-
-4. [Panopto video, Conservation](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07311bb4-91e8-4916-a5aa-ad1301556bc4){target='_blank'}
+3. [Panopto video, commentary on conservation abilities https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=180f3b6f-3663-4d0c-862d-ad130153d8a6](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=180f3b6f-3663-4d0c-862d-ad130153d8a6){target='_blank'}
 
 
-5. [Panopto video, Reversibility](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11cced3d-878c-48ae-850d-ad1301556be1){target='_blank'}
+4. [Panopto video, Conservation https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07311bb4-91e8-4916-a5aa-ad1301556bc4](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=07311bb4-91e8-4916-a5aa-ad1301556bc4){target='_blank'}
 
 
-6. Pick a chapter from one of the 4 volumes of the [Handbook of Developmental Psychology](https://www.wiley.com/en-us/Handbook+of+Child+Psychology+and+Developmental+Science%2C+Volume+2%2C+Cognitive+Processes%2C+7th+Edition-p-9781118136782){target='_blank'}
+5. [Panopto video, Reversibility https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11cced3d-878c-48ae-850d-ad1301556be1](https://northseattle.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=11cced3d-878c-48ae-850d-ad1301556be1){target='_blank'}
+
+
+6. Pick a chapter from one of the 4 volumes of the [Handbook of Developmental Psychology https://www.wiley.com/en-us/Handbook+of+Child+Psychology+and+Developmental+Science%2C+Volume+2%2C+Cognitive+Processes%2C+7th+Edition-p-9781118136782](https://www.wiley.com/en-us/Handbook+of+Child+Psychology+and+Developmental+Science%2C+Volume+2%2C+Cognitive+Processes%2C+7th+Edition-p-9781118136782){target='_blank'}
 
 ```{block, type='blueBackground'}
 <span class='sidenote'>This resource has 4 volumes </span>
@@ -386,13 +386,13 @@ You'll need to skim all of those table of contents to find something interesting
 
 7. Send your choice to your instructor via a DM in Slack
 
-8. Read Nancy Chick, [Metacognition](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
+8. Read Nancy Chick, [Metacognition https://cft.vanderbilt.edu/guides-sub-pages/metacognition/](https://cft.vanderbilt.edu/guides-sub-pages/metacognition/){target="_blank"}
 
-9. Read  Alfie Kohn, [The Case Against Grades](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
+9. Read  Alfie Kohn, [The Case Against Grades https://www.alfiekohn.org/article/case-grades/](https://www.alfiekohn.org/article/case-grades/){target="_blank"}
 
 ## Do stuff
 
-  A. [Case Study 2](https://docs.google.com/document/d/1tIxkbn0Tm2X37rY6fqRF5yCjFk-rkwQRu7yqMk-pkLM/edit?usp=sharing){target='_blank'}
+  A. [Case Study 2 https://docs.google.com/document/d/1tIxkbn0Tm2X37rY6fqRF5yCjFk-rkwQRu7yqMk-pkLM/edit?usp=sharing](https://docs.google.com/document/d/1tIxkbn0Tm2X37rY6fqRF5yCjFk-rkwQRu7yqMk-pkLM/edit?usp=sharing){target='_blank'}
   
   B. Post your case to the [Week 5 channel](https://lifespanpsych-ogi1245.slack.com/archives/C06F9BJERFA){target='_blank'}
 
@@ -403,7 +403,8 @@ You'll need to skim all of those table of contents to find something interesting
  
  D. Find some online sources that describe the kind of chores a 6 year old child could perform. List 4 or 5  (Be sure to include references).  Using one of the cognitive theories of development (e.g., Vygotsky, Piaget, Information Processing) justify why the 6 year old would be able to do one (just 1) of those chores.  Post your work to the [channel week 5](https://lifespanpsych-ogi1245.slack.com/archives/C06F9BJERFA){target="_blank"}
  
- E. [Do A self-reflection Survey](https://forms.gle/xb8EiFuLuynJTMG19){target="_blank"}
+ E. [Do A self-reflection Survey https://forms.gle/xb8EiFuLuynJTMG19](https://forms.gle/xb8EiFuLuynJTMG19){target="_blank"}
+  * BUT DO NOT DO THIS UNTIL YOU HAVE POSTED YOUR WORK TO ALL OF THE WEEKLY CHANNELS. 
 
   * the text boxes you see in this 'quiz' will expand to accommodate what you need to write.  In other words, don't feel like you must only say like 3 words
 
@@ -424,6 +425,64 @@ F. Do a Survey on [how important sex is to you](https://docs.google.com/forms/d/
 
 Once I get enough data in the survey, we can make use of it to think about various things. 
 
+
+
+# Week 6 Feb 5 {#week6}
+
+## Orientation
+
+I've been re-reading the lifespan textbook and I am wondering if there some ways to think about how text books organized information the net as possible that they are oversimplifications.  
+
+Here are some examples:
+
+<p style = 'text-decoration: underline'>Claim:</p>
+
+  >In addition to dopamine, the adolescent brain is affected by oxytocin which facilitates bonding and makes social connections more rewarding.
+
+No reference though.  Possibly connects to Dobbs listed just above.  My quick check on that resource goes to a national geographic article.  That's weird.  And my knowledge of these sorts of claims comes from my experience that most of those research claims are hypothetical, or based on other mammals.  
+
+I worry that this bit about oxytocin is overgeneralized (cf [replication crisis](https://www.vox.com/science-and-health/2019/2/13/18221876/oxytocin-morality-valentines){target='_blank'})
+
+As you read the textbook, keep track of its claims that either don't have references, or give you the vibes that there is an oversimplification.
+
+
+#### Chapter 6 Learning Objectives
+
+ * Some learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'}
+
+ * [Textbook Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'}
+
+ 
+## Read some stuff
+
+1. [Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/06%3A_Adolescence){target='_blank'}
+
+   * While reading, take some notes regarding textbook claims that might sounds too simple.  Keep track of their locations.
+
+2. Read your chosen article from handbook volume.  Okay..skim it, but find some sections that you find interesting. 
+
+
+## Do some stuff
+
+A. Write a summary..yes, a summary of what you read from your chosen chapter/section from the Developmental Handbook [@lernerHandbookChildPsychology2015] that you asked for in week 5.  The goal is to write for your understanding, which means you may want to write a bit about questions you have, connections to your work/childhood/relevant stuff to you. 
+
+B. I want you to have questions about this article you read.  So, please list at least 3.
+
+C. How, go to chat gpt: https://chat.openai.com/
+
+  * You will need to register an account with them.
+  * Think of gpt as a person to converse with.  Be skeptical of it, so if it says something as if it were all knowing, don't believe it.  I am still working on the right metaphor here.  Like, what if you had access to a professor in a discipline and could ask them anything?  And that you could treat them as someone who actually doesn't know more than you, is biased, narrow minded, that you are essentially above them in status and so if they say something, you don't reflexively think they are right and are also not afraid of calling out their B.S. 
+
+  * Give chat gpt an introduction to your question.  You are framing the conversation here. 
+  * ask your question
+  * when it answers, use the critical thinking standards to think about its answer.  Is there an area that is weak?  Ask GPT to explain, to reconcile itself, to consider things it left out.  
+  * Highlight and copy the chat gpt thread and paste it into your google doc.  You might need to edit the formatting a bit.  
+
+D. Share your notes/questions in from #1 above regarding textbook claims that are either missing references, or that you feel skeptical in its presentation.  If you have done some extra research on these topics, include that as well; I think future weeks we may come back to this. 
+
+E. You might want to use chat gpt to justify/critically analyze the textbook. 
+
+F. Share your work in the [#week 6 channel](https://lifespanpsych-ogi1245.slack.com/archives/C06HUEDLX7S){target='_blank'}
 
 
 
