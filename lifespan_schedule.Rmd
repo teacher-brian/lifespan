@@ -455,6 +455,8 @@ As you read the textbook, keep track of its claims that either don't have refere
  
 ## Read some stuff
 
+0. [Watch 20 minute feedback (also posted in slack)](https://youtu.be/hLU4PhKEa7g){target='_blank'}
+
 1. [Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/06%3A_Adolescence){target='_blank'}
 
    * While reading, take some notes regarding textbook claims that might sounds too simple.  Keep track of their locations.
