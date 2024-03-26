@@ -139,7 +139,7 @@ as.data.frame(genPrenupVerdf) %>%
 
 
 #recent class#
-RecentClassdf<-df %>% filter(quarter == 'C233')
+RecentClassdf<-df %>% filter(quarter == 'C343')
 RecentGenPrenupVerdf<-table(RecentClassdf$Version,RecentClassdf$prenp,RecentClassdf$gender)
 as.data.frame(RecentGenPrenupVerdf) %>%
   rename(Version=Var1,prenp=Var2,gender=Var3) %>%
