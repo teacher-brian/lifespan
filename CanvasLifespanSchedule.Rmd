@@ -69,22 +69,33 @@ library(ggraph)
   
   3. You'll need to have quality access to the internet.  IF you don't have consistent access to the internet from home, we have loaner hotspots that you can borrow for free.  They should give you internet at home.
   
+  4. Obviously, since this is a fully online class, you have already met these expectations above. 
+  
+  5. The default browser for Macs doesn't always play nicely with canvas. If you encounter problems with viewing pages, you might try a different browser like firefox or google. I have learned from a student that a setting in the brower may be the problem.  Here is what the student reported:
+      
+```{block,type='blueBackground'}
+"Anyways, by default Safari has a setting enabled called: "Prevent cross-site tracking" turned on. The solution is to turn it off. I have a Mac, I just tried it and it works.
+      If others encounter such problem on Mac, when someone is on Safari, they should click the "Safari" at the top of the window task bar, then follow to "Preferences" (or "Settings") for newer macs, then go over to "Privacy" and Prevent cross site tracking will be there, they just need to disable it and refresh canvas. 
+    
+  I think it's because the schedule is a third-party integration that requires trackers in order to be viewed"
+```
+
 G. Software (apps)
 
   1. A web browser, like firefox, chrome. 
 
   2. A free Google doc account. If you have Gmail you already have a Google account for documents and spreadsheets. **This is a requirement; no other word processing software will be allowed.** I have reasons and we can talk about them but unless it is related to a disability accommodation you must be using Google docs.
 
-  3. You will need Slack, which is a communication platform; you can use the web browser version or you can use the desktop version. I use the desktop version and I also have it installed on my smartphone.  The main purpose of slack is for communication between students and the teacher.
+
 
 H. Here is the pattern of the course: 
 
   1. Each week you will be given a list of things to read and it's list of things to do. 
   2. Most of what you'll do is some type of writing assignment in google docs. I will give you instructions and support for how to do this. 
-  3. When you have finished the weeks assignment, you will post a link to your work in slack.
+  3. When you have finished the weeks assignment, you will post a link to your work in a canvas discussion
 
 
-# Week 1 Jan 1 {#Week1} 
+# Week 1 Sept 23 {#Week1} 
 
 ## What do you want to focus on
 Think about what you want to learn in Lifespan psychology.
@@ -141,7 +152,7 @@ Okay, the following items ( 7, 8, 9) deserve a little bit of explanation on my s
 
 Anyway.  While watching these videos, and reading the sources, just down some notes, including reactions, emotions and thoughts, try to track where your mind wanders (if it wanders), also notice when you get distracted, what part of the reading or video were you just watching?  And don't be afraid to keep asking 'so what?'
 
-That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point channel](https://lifespanpsych-ogi1245.slack.com/archives/C06C3AMH403){target="_blank"}
+That's the kind of question you can put in your one-document-to-rule, or even ask questions on the [muddy point Discussion](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/287335?module_item_id=1380556){target="_blank"}
 
 
 Also, I hope to make these videos a lot better in terms of production.  I think I made them at the beginning of the pandemic and well, bleh.
@@ -167,11 +178,11 @@ _World Hypotheses: A Study in Evidence_**, @berryIntroductionStephenPepper1984 [
 
 ## Do the following
 
-1. Introduce yourself the Slack [#introductions](https://lifespanpsych-ogi1245.slack.com/archives/C06C0FYT7HB){target="_blank"} channel
+1. Introduce yourself in the canvas discussion [#introductions](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/287333?module_item_id=1380555){target="_blank"} 
 
 2. Write something about what interests you about Lifespan psychology in your one google doc. Be sure to give it a title.  You can also insert a page break between your writings.  
 
-3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the [#week_1](https://lifespanpsych-ogi1245.slack.com/archives/C06C0G9QK1B){target='_blank'} slack channel by including a link to your document from step 2 above.
+3. On the same google document, make a new page, title it, and write some thoughts down to the following prompts.  When you are done, post to the [#week_1 Discussion](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/284037?module_item_id=1364158){target='_blank'} by including a link to your document from step 2 above.
 
     a) What is your process for thinking clearly?
 
@@ -180,7 +191,7 @@ _World Hypotheses: A Study in Evidence_**, @berryIntroductionStephenPepper1984 [
 
 4. Read some of your classmates' posts and comment on some. 
 
-The idea is to be doing weekly writing about the things we read and the prompts that I give you and then you're going to share that information in slack.
+The idea is to be doing weekly writing about the things we read and the prompts that I give you and then you're going to share that information in canvas.
 
 
 
@@ -250,7 +261,7 @@ A few things:
 
 So, that's a lot of reading/watching.
 
-A. Synthesize the following readings: @rappaportWILLIAMPERRYSCHEME2018, @schwartzImportanceStupidityScientific2008, then post your work to [#week-2](https://lifespanpsych-ogi1245.slack.com/archives/C06CHFRNL3Y){target='_blank'}
+A. Synthesize the following readings: @rappaportWILLIAMPERRYSCHEME2018, @schwartzImportanceStupidityScientific2008, then post your work to [#week-2 Discussion](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/287331?module_item_id=1380552){target='_blank'}
 
 
 ```{block, type='blueBackground'}
@@ -264,7 +275,7 @@ Please do not summarise these articles.  Synthesize.  Use the lecture just below
   * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
 
 
-B. In your one document to rule them all, write 3 questions you have about each of the first 3 chapters in your textbook. You don't need to share the google doc again, but pick 1 question from the list you generated, and post it in the [#muddy-points channel](https://lifespanpsych-ogi1245.slack.com/archives/C06C3AMH403){target='_blank'}.
+B. In your one document to rule them all, write 3 questions you have about each of the first 3 chapters in your textbook. You don't need to share the google doc again, but pick 1 question from the list you generated, and post it in the [#muddy-points discussion](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/287335?module_item_id=1380556){target='_blank'}.
 
 # Appendix
 
