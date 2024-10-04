@@ -195,7 +195,7 @@ The idea is to be doing weekly writing about the things we read and the prompts 
 
 
 
-# Week 2 Jan 8 {#Week2}
+# Week 2 Sept 30 {#Week2}
 ## Orientation
 
 There are several things to think about this week. And I'm probably giving you too much to do so I want you to be thoughtful about your limits and to focus on the things that interest you.
@@ -222,11 +222,11 @@ This week we sprint through a few chapters and think about prenatal, infants, an
 
 If I were to be doing this in a traditional class I'd be quizzing you on this stuff, but for our purposes, it may be sufficient for you to read these or at least skim them and to reflect on whether or not any of them grab your attention. If they do grab your attention, that's an indicator that you may want to explore that content more which means you should let me know that so I can help guide your exploration.
 
-### Chapter 2 and 3 Learning Objectives
+<!-- ### Chapter 2 and 3 Learning Objectives -->
 
- * Some learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'}
+<!--  * Some learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'} -->
 
- * [Textbook Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'}
+<!--  * [Textbook Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'} -->
 
 ## Read/watch some stuff
 
@@ -261,7 +261,7 @@ A few things:
 
 So, that's a lot of reading/watching.
 
-A. Synthesize the following readings: @rappaportWILLIAMPERRYSCHEME2018, @schwartzImportanceStupidityScientific2008, then post your work to [#week-2 Discussion](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/287331?module_item_id=1380552){target='_blank'}
+A. Synthesize the following readings: @rappaportWILLIAMPERRYSCHEME2018, @schwartzImportanceStupidityScientific2008, in your google document.
 
 
 ```{block, type='blueBackground'}
@@ -275,7 +275,9 @@ Please do not summarise these articles.  Synthesize.  Use the lecture just below
   * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
 
 
-B. In your one document to rule them all, write 3 questions you have about each of the first 3 chapters in your textbook. You don't need to share the google doc again, but pick 1 question from the list you generated, and post it in the [#muddy-points discussion](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/287335?module_item_id=1380556){target='_blank'}.
+B.  In your one document to rule them all, write 3 questions you have about each of the first 3 chapters in your textbook. You don't need to share the google doc again, but pick 1 question from the list you generated, and post it in the [#muddy-points discussion](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/287335?module_item_id=1380556){target='_blank'}.
+
+C. When you have finished week 1 and 2's work and have put your writings into your google doc, copy your google doc's link and share it to [#week-2 Discussion](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/287331?module_item_id=1380552){target='_blank'}
 
 # Appendix
 
