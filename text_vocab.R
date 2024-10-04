@@ -1,3 +1,4 @@
+# obtain vocab from lifespan text
 library(rvest)
 library(tidyr)
 library(kableExtra)
