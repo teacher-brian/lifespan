@@ -67,11 +67,11 @@ library(ggraph)
 
    2. A tablet or smartphone will be insufficient. It's fine to do some communication (texting etc) using those tools, but for real writing you're going to need a real computer or a laptop. 
   
-  3. You'll need to have quality access to the internet.  IF you don't have consistent access to the internet from home, we have loaner hotspots that you can borrow for free.  They should give you internet at home.
+  3. You'll need to have quality access to the internet.  IF you don't have consistent access to the internet from home, we have loaner hot-spots that you can borrow for free.  They should give you internet at home.
   
   4. Obviously, since this is a fully online class, you have already met these expectations above. 
   
-  5. The default browser for Macs doesn't always play nicely with canvas. If you encounter problems with viewing pages, you might try a different browser like firefox or google. I have learned from a student that a setting in the brower may be the problem.  Here is what the student reported:
+  5. The default browser for Macs doesn't always play nicely with canvas. If you encounter problems with viewing pages, you might try a different browser like firefox or google. I have learned from a student that a setting in the browser may be the problem.  Here is what the student reported:
       
 ```{block,type='blueBackground'}
 "Anyways, by default Safari has a setting enabled called: "Prevent cross-site tracking" turned on. The solution is to turn it off. I have a Mac, I just tried it and it works.
@@ -266,7 +266,7 @@ A. Synthesize the following readings: @rappaportWILLIAMPERRYSCHEME2018, @schwart
 
 ```{block, type='blueBackground'}
 
-Please do not summarise these articles.  Synthesize.  Use the lecture just below to help
+Please do not summarize these articles.  Synthesize.  Use the lecture just below to help
 
 ```
 
@@ -295,7 +295,7 @@ C. Watch this [toddler react to his candy being eaten](https://www.youtube.com/w
 A. [Do this case study about a 9 month old](https://docs.google.com/document/d/1Rv6Ll4eyxhb58BbklUuBKXgUo_3lsPtWKWBoiiusxdg/edit?usp=sharing){target='_blank'}
 
 
-B. Ponder a bit and write some thoughts (in your one doc) about the 3 yr old finding out that his candy was eaten. Maybe consider whether this kiddo reacted that ways due to nature or nurture (that, by the way, is a false choice).  Muse a bit. post your thoughts to the #nature-nurture channel
+B. Ponder a bit and write some thoughts (in your one doc) about the 3 yr old finding out that his candy was eaten. Maybe consider whether this kiddo reacted that ways due to nature or nurture (that, by the way, is a false choice).  Muse a bit. (Mention of a nature nurture channel has been deleted.  Just put your work into your google doc).
 
 C. What are the differences between the following (there can also be overlap):
 
@@ -308,6 +308,76 @@ C. What are the differences between the following (there can also be overlap):
 D. How can you tell whether a 1 year old is doing one or the other of these?  This is a very challenging question, likely too challenging for our level.  But how would you approach organizing some ideas, questions, readings?  Don't try to come to a concrete answer...you don't have time. 
 
 E. When done, post to the Canvas discussion: [#week-3](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/289717){target='_blank'}
+
+
+# Week 4 Oct 14 {#week4}
+## orientation
+Getting into week 4 and the rest of the quarter you're going to find that the chapters we're going to be a little bit more intense and broad because once you get out of infancy you begin to the rapid development in all aspects of psychology and that means we need more words to describe what's going on.
+
+Some big topics in this chapter, somewhat in the chapter's organization:
+
+themes| |  
+---|---|---
+toilet training | parenting styles |siblings
+memory | cognitive development | motor skills (fine and gross)
+gender | autism |theory of mind
+ sexuality|play | child care
+
+Wow that seems like a big spread of content. 
+
+Because this is about the time where memory skills began to bloom, this chapter goes into more depth about the cognitive model of memory (which overlaps with some of the things I said in replies of the #muddy-point channel)
+
+### Chapter 4 Learning Objectives
+
+ * Some learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'}
+
+ * [Textbook Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'}
+
+
+
+## Read some stuff
+
+1. First do this: write down your ideas about the effectiveness of spanking children.  Just a few sentences will do.  Maybe answer whether you think it works, and why or why not. 
+
+2. [Read Chapter 4, Early Childhood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/04%3A_Early_Childhood){target='_blank'}
+
+3. [Watch this broad over view of Erikson's theory 22 minutes](https://youtu.be/TQwUNb3Sec0){target='_blank'}
+  
+4. Read the following on spanking
+   * [Scientific American https://www.scientificamerican.com/article/what-science-really-says-about-spanking/](https://www.scientificamerican.com/article/what-science-really-says-about-spanking/){target='_blank'}
+   * Skim this for differences [APA on spanking https://www.apa.org/monitor/2012/04/spanking](https://www.apa.org/monitor/2012/04/spanking){target='_blank'}
+
+5. Search for and find some data on the development of Object Permanence, world wide.  This might be really hard to do. You might begin with google scholar. 
+
+6. Consider the breadth of this chapter.  Pick 1 or 2 topics from the chapter and do some digging on some content that you think would be helpful to you either personally or professionally.  
+
+```{block,type='blueBackground'}
+The next two items are links into canvas/panapto folders (not videos directly) because I'm using copyrighted videos (from previous textbooks) that I don't want to put up on youtube.
+
+If you can't access them, please let me know
+```
+.
+
+7. Watch videos and Brian Commentary on Attachment and the strange situation
+    * Read (re-read) text on attachment theory as a reminder
+    * Watch the commentary videos last
+    * [link to Canvas/panopto folder containing videos](https://northseattle.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=a1013365-c0ed-4597-9853-ad130120ab30){target='_blank'}
+
+8. Watch videos and Brian Commentary on Theory of Mind
+    * Read (re-read) text on Theory of mind as a reminder
+    * Watch the commentary videos last
+    * [link to Canvas/panopto folder containing videos https://northseattle.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ca3d24ba-08e9-4213-bb57-ad13012095be](https://northseattle.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=ca3d24ba-08e9-4213-bb57-ad13012095be){target='_blank'}
+
+
+## Do some stuff
+
+ A. in your one Google doc, make a heading/title and write a bit about what you found in terms of object permanence. 
+ 
+ B. Revisit your thoughts from #1 above. Has your mind changed about spanking? What would you tell friends who spank their kids?  For this last question, how would you deliver that information? For that matter, what would prevent you from talking to your friends about spanking? 
+ 
+ C. From #6 above, write a few paragraphs of what you found, what you think. 
+ 
+ D. Post your work to [#week4](https://canvas.seattlecolleges.edu/courses/27182/discussion_topics/291480?module_item_id=1392459){target='_blank'} .
 
 
 # Appendix
