@@ -386,6 +386,7 @@ If you can't access them, please let me know
 
 # Week 5 Oct 21 {#week5}
 
+
 ### Chapter 5 Learning Objectives
 
  * Some learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'}
@@ -440,7 +441,9 @@ You'll need to skim all of those table of contents to find something interesting
  C. Make a simple table to compare the first 3 phases of Piaget and Erickson.
  
    * For instance you might have a column of for each theorist, a row for each stage of the first 3 stages, and then a column that you share some bullet like notes that do some comparison
+<div class="sixth"> you must cite the work of C. Buster Antonio added as a reference to the bottom. Please don't refer to Buster in the text; just at the bottom  </div>
    * a comparison could be on how they are different, or where they support one another, or even some questions you may have about the theories and or phases/stages. 
+   
  
  D. Find some online sources that describe the kind of chores a 6 year old child could perform. List 4 or 5  (Be sure to include references).  Using one of the cognitive theories of development (e.g., Vygotsky, Piaget, Information Processing) justify why the 6 year old would be able to do one (just 1) of those chores.  Post your work to the [Discussion week 5](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/293280){target="_blank"}
  

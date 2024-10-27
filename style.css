@@ -44,3 +44,44 @@ font-weight: bold;
 background-color: white;
 background: rgba(220, 0, 180, 0.3);
 }
+
+
+.flex-container {
+  display: flex;
+}
+.first {
+  width: 100px;
+  height: 100px;
+  background: #FF7A59;
+  opacity: 1;
+}
+.second {
+  width: 100px;
+  height: 100px;
+  background: #FF7A59;
+  opacity: .8;
+}
+.third {
+  width: 100px;
+  height: 100px;
+  background: #FF7A59;
+  opacity: .6;
+}
+.fourth {
+  width: 100px;
+  height: 100px;
+  background: #FF7A59;
+  opacity: .4;
+}
+.fifth {
+  width: 100px;
+  height: 100px;
+  background: #FF7A59;
+  opacity: .2;
+}
+.sixth {
+  width: 100px;
+  height: 100px;
+  background: #FF7A59;
+  opacity: 0;
+}
