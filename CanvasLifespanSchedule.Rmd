@@ -441,9 +441,11 @@ You'll need to skim all of those table of contents to find something interesting
  C. Make a simple table to compare the first 3 phases of Piaget and Erickson.
  
    * For instance you might have a column of for each theorist, a row for each stage of the first 3 stages, and then a column that you share some bullet like notes that do some comparison
-<div class="sixth"> you must cite the work of C. Buster Antonio added as a reference to the bottom. Please don't refer to Buster in the text; just at the bottom  </div>
+<div class="sixth"> you must cite the work of C. Buster Antonio added as a reference to the bottom. Please don't refer to Buster in the text; just at the bottom.</div></p>
    * a comparison could be on how they are different, or where they support one another, or even some questions you may have about the theories and or phases/stages. 
    
+
+
  
  D. Find some online sources that describe the kind of chores a 6 year old child could perform. List 4 or 5  (Be sure to include references).  Using one of the cognitive theories of development (e.g., Vygotsky, Piaget, Information Processing) justify why the 6 year old would be able to do one (just 1) of those chores.  Post your work to the [Discussion week 5](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/293280){target="_blank"}
  
@@ -601,6 +603,116 @@ D. Ask Chat gpt what it thinks are cliche's about adolescence.  Ask it about cul
 
 E. Post your work to the [week 7 discussion](https://canvas.seattlecolleges.edu/courses/27177/discussion_topics/297426){target='_blank'}
 
+
+
+# Week 8 Emerging adulthood Feb 19 {#week8}
+
+The rest of the quarter is really about the process of getting older and becoming more mature as an adult. But these are terms that are massively influenced by culture and zeitgeist. Nonetheless, all cultures recognize that there is some process where a child turns into an adult and historically (like before 100 years ago) adolescence was that time. But, things have changed and [some even argue that adolescence has been drawn out to the mid 20's](https://www.bbc.com/news/health-42732442){target="_blank"}.  
+
+But now that you're out of adolescence, what now?
+
+### Chapter 7 Learning Objectives
+
+ * Some learning objectives for the textbook (not necessarily the course) can be found here [Lally and Valentine-French Lifespan textbook learning objectives](https://docs.google.com/document/d/1Gd39NAUlu-xPQp_JzwjIHGXgthGX5cUIbJ2gjkIOG-4/edit?usp=sharing){target='_blank'}
+
+ * [Textbook Vocabulary](https://docs.google.com/document/d/19Uv56eqUwrmIkzcJWUVr1cJEKWFWxEQrSCMgfJ8NYAA/edit?usp=sharing){target='_blank'}
+
+## Read/watch some stuff
+
+0. [Watch video on feedback for case 2](https://youtu.be/OEUyM7CzP7o){target='_blank'}
+
+1. [Read Chapter 7, Emerging adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/07%3A_Emerging_and_Early_Adulthood){target='_blank'}
+
+2. Watch a 5 min youtube [video by Barton Paulson on Emergent adulthood](https://youtu.be/ox6JN24oIbI){target='_blank'}  
+
+3. Watch a longer [video by Paulson on Early adulthood](https://youtu.be/p7StHobYid4){target='_blank'}  
+   * I found his comments on extrinsic versus intrinsic motivation a bit light. I wonder about the boredom he mentions later on and the relationship between extrinsic motivation and boredom.
+
+
+## Do stuff
+
+  
+1. [Complete a metacognitive assignment.](https://docs.google.com/document/d/1vKwiB31xhBR9Al1guiTw2odyVcCiIWcrqslSz1cKkqk/edit?usp=sharing){target='_blank'} 
+    * This may take some time. 
+    * Post your work in the [#week 8](https://lifespanpsych-ogi1245.slack.com/archives/C06KE1ZBTQB){target='_blank'} channel. 
+
+2. What are some cliche's of young adulthood? How accurate are they?  For instance, is  "birds of a feather flock together" or "opposites attract?" more accurate?   I've got old cliche's...but what is the new wisdom?
+
+3. To what degree does this apparent contradiction  "career focus vs changing the world" represent some aspect of William Perry's development of thought? 
+
+4. With an assumption that many of my students are in this domain of emerging adulthood, what aspects do you think are missing from the text?
+
+5. Post your musings to [#week 8](https://lifespanpsych-ogi1245.slack.com/archives/C06KE1ZBTQB){target='_blank'} 
+
+
+
+# Week 9 Middle adulthood Feb 26 {#week9}
+
+Now we see that people are faced with life challenges that comes with middle age.  Physical declines, life satisfaction, family and work responsibilities, all with existential issues in the backdrop
+
+## Read some stuff
+
+1. [Chapter 8, Middle Adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/08%3A_Middle_Adulthood){target='_blank'}
+
+2. watch about a 12 min [video by Paulson on middle adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
+
+
+
+
+## Do some stuff
+
+1. [take the big 5 test here](http://www.personalitytest.net/ipip/index.html){target='_blank'}
+    * If you have taken my intro class recently, you've probably taken this test and now would be an interesting time to retake it and see whether your scores have changed.  This would be a simple reliability test of the big 5, for you.
+    * There are 2 versions to choose from, a short and long.
+    * You may want to save your output for posterity.  The output should include your score on the 5 dimensions (OCEAN) plus 6 sub-tests for a total of 30 results.
+    ```{block,type='instructorNote'}
+    Don't publish this in your one-doc to rule...You can if you want but it is somewhat private information. 
+    ```
+
+2. Case Study 4.  This will be sent out in slack via direct message. When you are ready, send me a direct message.   When you have finished the case, share this work in the #[Week-9](https://lifespanpsych-ogi1245.slack.com/archives/C06LHNP7N83){target='_blank'}
+
+3.  Using the critical thinking standards try to find and evaluate some sources on the Intelligence quotient (IQ) and other measures of intellectual abilities. Write your ideas into your one google doc, and then share them in your google document. Debate is welcome on this one. 
+
+
+# Week 10 Late Adulthood March 4 {#week10}
+
+Late adulthood has physical and mental decline, potential for depression and suicide, but also the depth of what is meaningful.
+
+## Read some stuff
+
+1. [Chapter 9, Late Adulthood](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/09%3A_Late_Adulthood){target='_blank'}
+
+2. Watch [Grief walker](https://docs.google.com/document/d/1WIcstsbsxrYcQS5wRttmVm8RK66mNISvp4brwkr-gy0/edit?usp=sharing){target='_blank'}. The link takes you to a google doc of instructions, along with links to the video.  This is a kind of case study, but more suggestive.  It's not a perfect film, certainly. And the protagonist is not a perfect person. I say more in the prompt.
+
+3. Watch about a 16 min [video by Paulson on late adulthood](https://youtu.be/8sIStz0WwJU){target='_blank'}   
+
+## Do some stuff
+
+1. Share your Grief walker assignment in the [#week 10 channel](https://lifespanpsych-ogi1245.slack.com/archives/C06LHRVQC8J){target='_blank'}
+
+
+# Week 11 Death and Dying Mar 11 {#week11}
+
+## Read some stuff
+
+1. [Chapter 10, Death Dying](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/10%3A_Death_and_Dying){target='_blank'}
+
+2. [10 min vid on death/dying by Paulson](https://youtu.be/Ou4eAh16kck){target='_blank'}
+
+## Do some stuff
+
+1. [Case study 5](https://docs.google.com/document/d/1kGDMKwPnFoUko5oJM8xNzpgFMmDoMeXA8aWN29cCjgQ/edit?usp=sharing){target='_blank'}
+
+2. Do some research on 4 different cultures and their practices around death.  Try to write up about 1 or 2 paragraphs on each.
+
+3. Post your work on the case study and the cultural practices into [#week 11](https://lifespanpsych-ogi1245.slack.com/archives/C06LB73991U){target="_blank"}
+
+4. [Final Self-reflection](https://docs.google.com/forms/d/e/1FAIpQLSdaK9D2O4yXPc5Mk0MhJ6naQ9qw3g53x8GsruZsIl5CM-4Gjg/viewform){target="_blank"}
+
+
+```{block, type='instructorNote'}
+Deadline for the quarter is Sunday March 17th, late evening.  
+```
 
 
 # Appendix
