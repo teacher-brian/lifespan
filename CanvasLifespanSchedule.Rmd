@@ -193,7 +193,61 @@ You'll need to skim all of those table of contents to find something interesting
 5. Post your work to [#week4](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/368960?module_item_id=1787800){target='_blank'} .
 
 
-# week 5
+# Week 5 May 5 {#week5}
+
+
+## Orientation
+
+I've been re-reading the lifespan textbook and I am wondering if there some ways to think about how text books organized information the net as possible that they are oversimplifications.  
+
+Here are some examples:
+
+<p style = 'text-decoration: underline'>Claim:</p>
+
+  >In addition to dopamine, the adolescent brain is affected by oxytocin which facilitates bonding and makes social connections more rewarding.
+
+No reference though.  Possibly connects to Dobbs listed just above.  My quick check on that resource goes to a national geographic article.  That's weird.  And my knowledge of these sorts of claims comes from my experience that most of those research claims are hypothetical, or based on other mammals.  
+
+I worry that this bit about oxytocin is overgeneralized (cf [replication crisis](https://www.vox.com/science-and-health/2019/2/13/18221876/oxytocin-morality-valentines){target='_blank'})
+
+As you read the textbook, keep track of its claims that either don't have references, or give you the vibes that there is an oversimplification.
+
+
+#### Chapter 6 Learning Objectives
+
+ 
+## Read some stuff
+
+
+1. [Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/06%3A_Adolescence){target='_blank'}
+
+   * While reading, take some notes regarding textbook claims that might sounds too simple.  Keep track of their locations.
+
+2. Read your chosen article from handbook volume.  
+
+
+## Do some stuff
+
+A. Write a summary..yes, a summary of what you read from your chosen chapter/section from the Developmental Handbook [@lernerHandbookChildPsychology2015] that you asked for in week 5.  The goal is to write for your understanding, which means you may want to write a bit about questions you have, connections to your work/childhood/relevant stuff to you. 
+
+B. I want you to have questions about this article you read.  So, please list at least 3. Post 1 in the [student generated Q discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/372033){target='_blank'}
+
+C. How, go to chat gpt: https://chat.openai.com/
+
+  * You will need to register an account with them.
+  * Think of gpt as a person to converse with.  Be skeptical of it, so if it says something as if it were all knowing, don't believe it.  I am still working on the right metaphor here.  Like, what if you had access to a professor in a discipline and could ask them anything?  And that you could treat them as someone who actually doesn't know more than you, is biased, narrow minded, that you are essentially above them in status and so if they say something, you don't reflexively think they are right and are also not afraid of calling out their B.S. 
+
+  * Give chat gpt an introduction to your question.  You are framing the conversation here. 
+  * ask your question
+  * when it answers, use the critical thinking standards found in the syllabus to think about its answer.  Is there an area that is weak?  Ask GPT to explain, to reconcile itself, to consider things it left out.  
+  * Highlight and copy the chat gpt thread and paste it into your google doc.  You might need to edit the formatting a bit.  
+
+D. Share your notes/questions in from #1 above regarding textbook claims that are either missing references, or that you feel skeptical in its presentation.  If you have done some extra research on these topics, include that as well; I think future weeks we may come back to this. 
+
+E. You might want to use chat gpt to justify/critically analyze the textbook. 
+
+F. Share your work in the [#week 6 discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/372013?module_item_id=1797542){target='_blank'}
+
 
 # Appendix
 
