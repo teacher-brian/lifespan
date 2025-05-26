@@ -335,9 +335,11 @@ But now that you're out of adolescence, what now?
 5.  Post your work in the [#week 7](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/374582?module_item_id=1805619){target='_blank'} discussion 
 
 
-# Week 8 Middle adulthood Nov 18 {#week8}
+# Week 8 and 9 Middle adulthood May 26 {#week8}
 
-Now we see that people are faced with life challenges that comes with middle age.  Physical declines, life satisfaction, family and work responsibilities, all with existential issues in the backdrop
+Now we see that people are faced with life challenges that comes with middle age.  Physical declines, life satisfaction, family and work responsibilities, all with existential issues in the backdrop.
+
+Chapter 8 is a large chapter so I've broken the quizzes into 2 parts; the 2nd will be due next week
 
 ## Read some stuff
 
@@ -349,6 +351,7 @@ Now we see that people are faced with life challenges that comes with middle age
 ## Do some stuff
 
 1. [take the big 5 test here](http://www.personalitytest.net/ipip/index.html){target='_blank'}
+    * Don't get distracted or pulled into any of the advertisements on this webpage.  It's a free test to take. <u>Do not pay for anything.</u>  If you get pulled into an ad, just close the webpage and try accessing it again. 
     * If you have taken my intro class recently, you've probably taken this test and now would be an interesting time to retake it and see whether your scores have changed.  This would be a simple reliability test of the big 5, for you.
     * There are 2 versions to choose from, a short and long.
     * You may want to save your output for posterity.  The output should include your score on the 5 dimensions (OCEAN) plus 6 sub-tests for a total of 30 results.
@@ -359,7 +362,19 @@ Now we see that people are faced with life challenges that comes with middle age
 2. Using the critical thinking standards try to find and evaluate some sources on the Intelligence quotient (IQ) and other measures of intellectual abilities. Write your ideas into your one google doc, and then share them in your google document. Debate is welcome on this one. 
 
 
-3. Case Study 4.  This will be sent out in canvas via direct message. When you are ready, send me a direct message in canvas.   When you have finished the case, share this work in the [Week-9 discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/376143?module_item_id=1812096){target='_blank'}
+3. Case Study 4.  This will be sent out in canvas via direct message. When you are ready, send me a direct message in canvas.   
+
+
+4.  Artificial Intelligence in work and relationships
+
+I'd like to hear your thoughts on how LLM's like Gpt are changing how you work.  I'm thinking of 3-4 paragraphs on LLM's in work and 3-4 paragraphs on relationships. 
+
+Guidelines: I'm honestly not sure; I'm mostly interested in what you've experienced.  Has anyone used gpt to act as an intermediary between you? Are your bosses suggesting to use it? Your parents? What conversations are you having about how this is going to impact your life as you age out of your 20's and into the future? If you are out of your 20's or in a stable career, what questions do you have about AI on human development? 
+
+
+5. When you have finished, share this work in the [Week-9 discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/376143?module_item_id=1812096){target='_blank'}
+
+
 
 # Appendix
 
