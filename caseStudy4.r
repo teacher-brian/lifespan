@@ -10,10 +10,11 @@ getwd()
 #df<-read.csv("./teachstats/Final.txt",sep=",",row.names = NULL,na.strings="")
 #df<-read.csv("I:\\My Data Sources\\classroom stuff\\Final.txt",sep=",",row.names = T,na.strings="")
 
-df <- range_read("https://docs.google.com/spreadsheets/d/1A5c3qo2oRGWPE3ZIZxJ78dWpiX8Xdehx1EThqlbrhQY/edit#gid=0",range='A1:H331')
+df <- range_read("https://docs.google.com/spreadsheets/d/1A5c3qo2oRGWPE3ZIZxJ78dWpiX8Xdehx1EThqlbrhQY/edit#gid=0")
 
 
 df <- df %>%
+  filter(!is.na(name)) %>%
   filter(prenp != is.na(prenp)) %>%
   mutate(legacy_code_yr = gsub("(.)(.)(.)(.)",'\\1\\.\\2\\.\\3\\.\\4',legacy_code_yr)) %>%
 separate(col = legacy_code_yr,
@@ -33,6 +34,7 @@ separate(col = legacy_code_yr,
   )) %>%
   mutate (Date = ymd(paste0(year,'-',month,'-','01'))) %>%
   mutate(quarter = factor(quarter),
+         Version =  factor(tolower(Version)),
          gender = factor(tolower(gender)),
          Sex = factor(tolower(gender)),
          Version =  factor(Version),
