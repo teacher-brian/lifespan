@@ -16,7 +16,7 @@ So, I started tracking the results.
 
 # First, here is how your class responded:
 
-```{r,echo=F,message=F}
+```{r class resonses,echo=F,message=F}
 knitr::opts_chunk$set(echo = FALSE,message = F,warning = F)
 library(lubridate)
 library(tidyverse)
@@ -27,7 +27,8 @@ df<- readRDS("caseStudy4.RDS")
 
 
 ```{r,echo=F}
-df %>% filter(quarter == 'C233') %>% 
+df %>% 
+  #filter(quarter == 'C233') %>% 
   group_by(Version,prenp,gender) %>% 
   summarise(n=n()) %>% 
     ggplot(aes(x=Version,y=n,group=prenp,color=prenp,label=n)) +
@@ -108,7 +109,7 @@ We can, howeve, create a ratio which makes it a bit easier to see:
 
 
 
-```{r}
+```{r, group by date/version}
  df %>%
     group_by(Date,Version,quarter,prenp) %>%
     summarise(n=n()) %>%
@@ -116,7 +117,7 @@ We can, howeve, create a ratio which makes it a bit easier to see:
   mutate(prop_yes = Yes/(No+neither)) %>%
 
     ggplot(aes(x =Date, y=prop_yes,color=Version))+
-    geom_point()+geom_line()+
-  scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
+    geom_point()#+#geom_line()+
+  # scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
 
 ```
