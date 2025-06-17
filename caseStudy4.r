@@ -13,7 +13,8 @@ getwd()
 df <- range_read("https://docs.google.com/spreadsheets/d/1A5c3qo2oRGWPE3ZIZxJ78dWpiX8Xdehx1EThqlbrhQY/edit#gid=0")
 
 
-df <- df %>%
+ df <-
+  df %>%
   filter(!is.na(name)) %>%
   filter(prenp != is.na(prenp)) %>%
   mutate(legacy_code_yr = gsub("(.)(.)(.)(.)",'\\1\\.\\2\\.\\3\\.\\4',legacy_code_yr)) %>%
@@ -32,13 +33,25 @@ separate(col = legacy_code_yr,
       quart == 3 ~ 01,
       quart == 4 ~ 04
   )) %>%
-  mutate (Date = ymd(paste0(year,'-',month,'-','01'))) %>%
+  mutate (date = ymd(paste0(year,'-',month,'-','01'))) %>%
   mutate(quarter = factor(quarter),
-         Version =  factor(tolower(Version)),
+         Version =  tolower(Version),
+         # prenp =  tolower(prenp),
+         gender=case_when(gender== 'f'~"Female",
+                          gender== 'm'~"Male",
+                          .default = gender),
          gender = factor(tolower(gender)),
          Sex = factor(tolower(gender)),
          Version =  factor(Version),
+         prenp=case_when(prenp=='y'~"Yes",
+                         prenp=='n'~"No",
+                          .default = prenp),
          prenp = factor(prenp,levels = c("Yes","No","neither")))
+
+str(df)
+
+
+
 saveRDS(df,"caseStudy4.RDS")
 
 df<- readRDS("caseStudy4.RDS")
@@ -54,7 +67,7 @@ df %>%
   ggplot(aes(x =Date, y=prop_yes,color=Version))+
   geom_point()+geom_line()+
   facet_grid(~Sex)+
-  ggtitle("Proportion of students saying yes to prenup/n a '1.0' proportion means equal between No and Yes.\n Bigger than 1 means many more Yes while Less than 1 means more no's")
+  ggtitle("Proportion of students saying yes to prenup\n a '1.0' proportion means equal between No and Yes.\n Bigger than 1 means many more Yes while Less than 1 means more no's")
 
 # Date quarter prenup...combine the rest
 df %>%
@@ -65,7 +78,7 @@ df %>%
   mutate(prop_yes = Yes/No) %>%
 
   ggplot(aes(x =Date, y=prop_yes))+
-  geom_point()+geom_line()
+  geom_point()+geom_line()+
   ggtitle("Proportion of students saying yes to prenup/n a '1.0' proportion means equal between No and Yes.\n Bigger than 1 means many more Yes while Less than 1 means more no's")
 
 
@@ -90,7 +103,7 @@ df %>%
   geom_point()+
   geom_line()+
   labs(title="Should a Prenup be signed?")+
-    geom_text(aes(y = n + 2))
+    geom_text(aes(y = n - 10))
 
 
 prenupVersiondf<-table(df$Version,df$prenp)
@@ -102,13 +115,13 @@ as.data.frame(prenupVersiondf) %>%
   geom_point()+
   geom_line()+
   labs(title="Should a Prenup be signed, by version") +
-    geom_text(aes(y = Freq + 2))
+    geom_text(aes(y = Freq + 5))
 
 as.data.frame(prenupVersiondf) %>%
   rename(Version=Var1,prenp=Var2) %>%
   ggplot(aes(x=prenp,y=Freq,label=Freq,group=Version))+geom_line() +
   geom_point()+facet_wrap(~Version)+
-    geom_text(aes(y = Freq + 2))
+    geom_text(aes(y = Freq -5))
 
 
 genPrenupVerdf<-table(df$Version,df$prenp,df$gender)
@@ -135,7 +148,7 @@ as.data.frame(genPrenupVerdf) %>%
   geom_line()+
   labs(title="Should a Prenup be signed, by version and gender") +
   scale_y_continuous(limits = c(0, 75))+
-  geom_text(aes(y = Freq + 3))+
+  geom_text(aes(y = Freq -5))+
   facet_wrap(~gender)
 
 
