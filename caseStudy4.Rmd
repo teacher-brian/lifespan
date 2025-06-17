@@ -117,7 +117,7 @@ We can, howeve, create a ratio which makes it a bit easier to see:
   mutate(prop_yes = Yes/(No+neither)) %>%
 
     ggplot(aes(x =Date, y=prop_yes,color=Version))+
-    geom_point()#+#geom_line()+
-  # scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
+    geom_point()+geom_line()+
+   scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
 
 ```
