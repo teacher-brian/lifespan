@@ -14,20 +14,24 @@ So, I started tracking the results.
 
 
 
-# First, here is how your class responded:
 
-```{r,echo=F,message=F}
-knitr::opts_chunk$set(echo = FALSE,message = F,warning = F)
+```{r, class responses,echo=F,message=F,warning=F}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE,error = F)
+
 library(lubridate)
 library(tidyverse)
 ```
+
+# First, here is how your class responded:
+
 ```{r,echo=F}
 df<- readRDS("caseStudy4.RDS")
 ```
 
 
 ```{r,echo=F}
-df %>% filter(quarter == 'C233') %>% 
+df %>% 
+  filter(Date >= "2025-05-01" ) %>% 
   group_by(Version,prenp,gender) %>% 
   summarise(n=n()) %>% 
     ggplot(aes(x=Version,y=n,group=prenp,color=prenp,label=n)) +
@@ -43,9 +47,7 @@ df %>% filter(quarter == 'C233') %>%
 # all data
 
 
-
-
-# Version and prenup
+## Version and prenup
 
 ```{r,echo=FALSE}
 df %>% 
@@ -66,7 +68,7 @@ df %>%
 
 #  Version and Sex
 
-```{r,echo=FALSE}
+```{r,echo=FALSE,error=F}
 df %>% 
   group_by(Version,Sex,prenp) %>% 
   summarise(n=n()) %>% 
@@ -74,10 +76,10 @@ df %>%
   geom_point()+
   geom_line() +
   facet_wrap(~Sex)+
-        geom_text(aes(y = n + 4,label=n),show.legend = F)+
+        geom_text(aes(y = n -4,label=n),show.legend = F)+
   labs(y="count",
        x= "Version; \nA=Man owns house\nB = Woman owns house")+
-  ggtitle("Count of male and female students \nanswering yes/no to the question \n'should they sign a prenup' ")
+  ggtitle("Count of male and female students \nanswering yes/no to the question \n'should they sign a prenup' ")+
   scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
 ```
 
@@ -89,26 +91,40 @@ So, it's hard to show counts over time.  Creates messy graphs.  Maybe a cumulati
 Here is a line chart
 
 ```{r}
-df %>% 
+df %>%
+  filter(!is.na(prenp)) %>% 
   group_by(Version,Sex,prenp,Date,quarter) %>%
   arrange(Date) %>% 
   summarise(n=n()) %>% 
   ggplot(aes(x=Date,y=n,color=prenp))+
   geom_line()+
+  #geom_smooth()+
   scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))+
   facet_wrap(~prenp)
+
+df %>%
+  filter(!is.na(prenp)) %>% 
+  group_by(Version,Sex,prenp,Date,quarter) %>%
+  arrange(Date) %>% 
+  summarise(n=n()) %>% 
+  ggplot(aes(x=Date,y=n,color=prenp))+
+#  geom_line()+
+  geom_smooth()+
+  scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))+
+  facet_wrap(~prenp)
+
 
 ```
 
 # ratio of yes to other choices
 
 
-We can, howeve, create a ratio which makes it a bit easier to see:
+We can, however, create a ratio which makes it a bit easier to see:
 
 
 
 
-```{r}
+```{r, group by date/version}
  df %>%
     group_by(Date,Version,quarter,prenp) %>%
     summarise(n=n()) %>%
@@ -117,6 +133,30 @@ We can, howeve, create a ratio which makes it a bit easier to see:
 
     ggplot(aes(x =Date, y=prop_yes,color=Version))+
     geom_point()+geom_line()+
-  scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
+   scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
+
+
+```
+
+
+# smoothed ratio of yes to other choices
+
+
+Even that is a bit hard to see.  I can use a regression function to make it smooted out a bit:
+
+
+
+
+```{r date version smooth}
+ df %>%
+    group_by(Date,Version,quarter,prenp) %>%
+    summarise(n=n()) %>%
+    pivot_wider(names_from =  prenp, values_from = n,values_fill = 0) %>% 
+  mutate(prop_yes = Yes/(No+neither)) %>%
+
+    ggplot(aes(x =Date, y=prop_yes,color=Version))+
+    geom_point()+geom_smooth(se=F,method="lm",formula = y ~ x + I(x^2))+
+   scale_color_manual(values=c('cornflowerblue','darkred','darkgreen'))
+
 
 ```
