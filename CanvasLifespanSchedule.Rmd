@@ -26,6 +26,9 @@ bibliography: Lifespan.bib
 biblio-style: apalike
 ---
 
+[syllabus](https://docs.google.com/document/d/1hHGE7PPBB5xDwvGxhtKinwrFJeie9Ab5Ex2W1Advm1E/edit?usp=sharing)
+
+
 # Week 2 April 14 {#Week2}
 ## Orientation
 
@@ -100,6 +103,8 @@ See canvas for study guides
 
 
 ## Read some stuff
+
+[New TEXTBOOK ](https://openstax.org/books/lifespan-development/pages/1-what-does-psychology-say)
 
 1. Read  [Textbook, chapter 3: Infancy and toddlers](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/03%3A_Infancy_and_Toddlerhood){target="_blank"}
 
