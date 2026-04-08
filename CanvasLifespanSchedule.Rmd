@@ -29,7 +29,7 @@ biblio-style: apalike
 [syllabus](https://docs.google.com/document/d/1hHGE7PPBB5xDwvGxhtKinwrFJeie9Ab5Ex2W1Advm1E/edit?usp=sharing)
 
 
-# Week 2 April 14 {#Week2}
+
 ## Orientation
 
 There are several things to think about this week. And I'm probably giving you too much to do so I want you to be thoughtful about your limits and to focus on the things that interest you.
@@ -50,34 +50,41 @@ Because this is a psychology class I prefer to spend time thinking about psychol
 
 I actually think that a lot of the biological influences on human behavior, though important, are really secondary to how complex humans are when it comes to their language and cognitive abilities. But that's my perspective.
 
-This week we sprint through a few chapters and think about prenatal, infants, and toddlers.  
+This week we sprint through a few chapters and think about prenatal, infants, and toddlers. 
+
+# Week 1 April 6 {#Week1}
 
 ## Supporting materials
 
 ### Chapter 1 & 2 Learning Objectives
-Go to our canvas shell for these
+
 
 ## Read/watch some stuff
 
-1. [Watch video on writing guide](https://youtu.be/ytWuC6tns_w){target="_blank"}
+<!-- 1. [Watch video on writing guide](https://youtu.be/ytWuC6tns_w){target="_blank"} -->
 
-2. Read/skim @schwartzImportanceStupidityScientific2008.  Take notes on more then just the content.  Note your emotional reactions and where your mind goes. Added 1/9/23:  Here is the direct link to the article (so you don't have to jump to the bottom of this document to get it): [Importance of Stupidity, Schwartz 2008](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research){target="_blank"}
+1. Read/skim @schwartzImportanceStupidityScientific2008.  Take notes on more then just the content.  Note your emotional reactions and where your mind goes.  Here is the direct link to the article (so you don't have to jump to the bottom of this document to get it): [Importance of Stupidity, Schwartz 2008](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research){target="_blank"}
 
 ```{block,type='blueBackground'}
 A few things:
 
-a) note that the link inside the 2008 for the Schwartz article doesn't take you to the article; it takes you to the references in the schedule.  There, you will sometimes find the link to the actual article; other times you may have to use our library's database. I've added a direct, though, in that paragraph above.
-
-b) If you've taken one of my classes in the recent few years you have read The Schwartz article and so I'm sorry that you get to read it again. However, there's a good reason to review it, and another reason for me assigning it is that not everybody who is in this life span class has had my other classes. 
+a) If you've taken one of my classes in the recent few years you have read The Schwartz article and so I'm sorry that you get to read it again. However, there's a good reason to review it, and another reason for me assigning it is that not everybody who is in this life span class has had my other classes. 
 ```
 
 <br>
 <br>
-3. Read [William perry developmental stages as summarized by William Rappaport](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'} @rappaportWILLIAMPERRYSCHEME2018
+2. Read [William perry developmental stages as summarized by William Rappaport](https://cse.buffalo.edu/~rapaport/perry.positions.html){target='_blank'} @rappaportWILLIAMPERRYSCHEME2018
+
+3. [Skim textbook chapters 1 and 2](https://openstax.org/books/lifespan-development/pages/1-what-does-psychology-say){target='_blank'}
 
 ## Do some stuff
 
-A. Synthesize those readings above: @rappaportWILLIAMPERRYSCHEME2018, @schwartzImportanceStupidityScientific2008, in your google document.
+
+1. Create a Google doc--just one document that you'll use over and over for the whole quarter, and give edit access to bholt@northseattle.edu, and then you will need to change the share settings so that anyone with the link can 'comment'. I'll need to explain this more in class. 
+
+2. On this google document, title it, and do the following:.  
+
+    A. Synthesize those readings above: @rappaportWILLIAMPERRYSCHEME2018, @schwartzImportanceStupidityScientific2008, in your google document.
 
 
 ```{block, type='blueBackground'}
@@ -91,11 +98,17 @@ Please do not summarize these articles.  Synthesize.  Use the lecture just below
   * [Quick 6 min intro on critical thinking](https://www.youtube.com/watch?v=3CkLAMLTkmI&feature=youtu.be){target='_blank'}
 
 
-B.  In your one document to rule them all, write 3 questions you have about each of the first 2 chapters in your textbook. You don't need to share the google doc again, but pick 1 question from the list you generated, and post it in the [#student-generated-question discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/360693){target='_blank'}.
+3.  In your one document to rule them all, write 3 questions you have about each of the first 2 chapters in your textbook. You don't need to share the google doc again, but pick 1 question from the list you generated, and post it in the [#student-generated-question discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/360693){target='_blank'}.
 
-C. When you have finished week 2's work and have put your writings into your google doc, copy your google doc's link and share it to [#week-2 Discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/360695){target='_blank'}
+4. When you have finished week 1's work and have put your writings into your google doc, copy your google doc's link and share it to When you are done, post to the [Assignment 1 channel](https://lifespanspring2026.slack.com/archives/C0ASGBX8RH6){target="_blank"}.
 
 
+5. Introduce yourself the [Slack Introductions channel](https://lifespanspring2026.slack.com/archives/C0AR6KPJCEB){target="_blank"}
+
+
+6. Read a few other students and make some comments on their post.   Use google docs to make these comments.  Highlight any part of their document and you can insert a comment. you can click and use the menu, or you can use the keyboard shortcut 'ctrl + alt +m'
+
+# Week 2 April 14 {#Week2}
 
 # Week 3 Apri 21 {#Week3}
 
