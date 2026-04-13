@@ -141,6 +141,25 @@ Please do not summarize these articles.  Synthesize.  Use the lecture just below
 
 5. When you have finished Week 2 and have put your writings into your google doc, copy your google doc's link and share it to [#case study 1](https://lifespanspring2026.slack.com/archives/C0AR4DQMKJA){target='_blank'}
 
+<!-- library(clipr) -->
+<!-- ha_raw<- read_clip_tbl() -->
+<!-- ha <- ha_raw -->
+<!-- ha[6,1] <- 71 -->
+
+
+<!-- hist(ha$age.in.years,breaks = 3) -->
+<!-- hist(ha$height.in.inches,breaks=8) -->
+
+<!-- mean(ha$height.in.inches) -->
+<!-- abline(v=mean(ha$height.in.inches),col='blue') -->
+<!-- abline(v=median(ha$height.in.inches),col='orange') -->
+<!-- median(ha$height.in.inches) -->
+
+<!-- sort(ha$height.in.inches) -->
+<!-- quantile(ha$height.in.inches) -->
+
+
+
 # Week 3 Apri 21 {#Week3}
 
 <!-- # Week 4 April 28 {#week4} -->
