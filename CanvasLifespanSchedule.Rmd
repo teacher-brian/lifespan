@@ -127,7 +127,7 @@ See canvas for study guides
 ## Do some stuff
 
 
-1. [Do this case study about a 9 month old](https://docs.google.com/document/d/1Rv6Ll4eyxhb58BbklUuBKXgUo_3lsPtWKWBoiiusxdg/edit?usp=sharing){target='_blank'}
+1. [Do this case study about a 9 month old](https://docs.google.com/document/d/1Rv6Ll4eyxhb58BbklUuBKXgUo_3lsPtWKWBoiiusxdg/edit?usp=sharing){target='_blank'} and add it to the one google document you've been using so far. 
 
 2. What are the differences between the following (there can also be overlap):
 
@@ -140,11 +140,11 @@ See canvas for study guides
 3. How can you tell whether a 1 year old is doing one or the other of these?  This is a very challenging question, likely too challenging for our level.  But how would you approach organizing some ideas, questions, readings?  Don't try to come to a concrete answer...you don't have time. 
 
 
-4.  In your one document to rule them all, write 3 questions you have about  chapters 3 and 4 in your textbook. You don't need to share the google doc again, but pick 1 question from the list you generated, and post it in the [Student generated questions](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/368958){target='_blank'}.
+4.  In your one document to rule them all, write 3 questions you have about  chapters 3 and 4 in your textbook. You don't need to share the google doc again, but pick 1 question from the list you generated, and post it in the [#student-generated-questions-chs-3-and-4](https://lifespanspring2026.slack.com/archives/C0AQTR936UT){target='_blank'}.
 
-5. When you have finished Week 3and have put your writings into your google doc, copy your google doc's link and share it to [#week-3 Discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/368957?module_item_id=1787793){target='_blank'}
+5. When you have finished Week 2 and have put your writings into your google doc, copy your google doc's link and share it to [#case study 1](https://lifespanspring2026.slack.com/archives/C0AR4DQMKJA){target='_blank'}
 
-<!-- # Week 3 Apri 21 {#Week3} -->
+# Week 3 Apri 21 {#Week3}
 
 <!-- # Week 4 April 28 {#week4} -->
 
