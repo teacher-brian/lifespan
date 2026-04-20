@@ -183,6 +183,8 @@ Read the titles within each volume. I have the book and will give you the full c
 
 2. Pick a chapter from one of the 4 volumes of the [Handbook of Developmental Psychology https://www.wiley.com/en-us/Handbook+of+Child+Psychology+and+Developmental+Science%2C+Volume+2%2C+Cognitive+Processes%2C+7th+Edition-p-9781118136782](https://www.wiley.com/en-us/Handbook+of+Child+Psychology+and+Developmental+Science%2C+Volume+2%2C+Cognitive+Processes%2C+7th+Edition-p-9781118136782){target='_blank'}
 
+Due Sunday April 26
+
 <br/>
 
 ```{block, type='blueBackground'}
@@ -227,6 +229,8 @@ You'll need to skim all of those table of contents to find something interesting
 
 
 5. Post your work to [#Case study 2](httpshttps://lifespanspring2026.slack.com/archives/C0ATUHL3KMK){target='_blank'} .
+
+Due Monday april 27 11am
 
 <!-- # Week 4 April 28 {#week4} -->
 <!-- # Week 5 May 5 {#week5} -->
