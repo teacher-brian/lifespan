@@ -243,9 +243,13 @@ Here are some examples:
 
 <p style = 'text-decoration: underline'>Claim:</p>
 
-  >In addition to dopamine, the adolescent brain is affected by oxytocin which facilitates bonding and makes social connections more rewarding.
+  >The pubertal changes of adolescence have many effects, including increasing the relevance of the hormone oxytocin, a chemical messenger that contributes to the formation of attachment and social relationships. (Chapter 9)
+  
+  There is no reference here, and that violates a general rule that all claims should have a reference.  To be fair, the next line says: 
+  
+  >Oxytocin is linked to fostering peer interactions and social support among teenagers. Higher levels of oxytocin have been associated with greater trust, cooperation, and prosocial behavior toward peers (He et al., 2018)..  
 
-No reference though.  Possibly connects to Dobbs listed just above.  My quick check on that resource goes to a national geographic article.  That's weird.  And my knowledge of these sorts of claims comes from my experience that most of those research claims are hypothetical, or based on other mammals.
+The textbook doesn't actually have "He et al. 2018" in the reference section below. I'm unable to find that reference because 1) the surname "He" is also a pronoun in English, and 2) there are no other authors to search because of 'et al.".  Also, if I search for for "he 2018 puberty oxtocin" I only find rodent research.  
 
 I worry that this bit about oxytocin is overgeneralized (cf [replication crisis](https://www.vox.com/science-and-health/2019/2/13/18221876/oxytocin-morality-valentines){target='_blank'})
 
@@ -257,8 +261,12 @@ As you read the textbook, keep track of its claims that either don't have refere
 
 ## Read some stuff
 
+1. [Read Chapter 7, Physical and cognitve 7 to 12 yrs](https://openstax.org/books/lifespan-development/pages/7-what-does-psychology-say){target='_blank'}
 
-1. [Read Chapter 6, Adolescence](https://socialsci.libretexts.org/Bookshelves/Human_Development/Book%3A_Lifespan_Development_-_A_Psychological_Perspective_(Lally_and_Valentine-French)/06%3A_Adolescence){target='_blank'}
+<br/>
+
+
+2. [Read Chapter 8, Social and Emotional 7 to 12 yrs](https://openstax.org/books/lifespan-development/pages/8-what-does-psychology-say){target='_blank'}
 
    * While reading, take some notes regarding textbook claims that might sounds too simple.  Keep track of their locations.
 
@@ -269,7 +277,7 @@ As you read the textbook, keep track of its claims that either don't have refere
 
 A. Write a summary..yes, a summary of what you read from your chosen chapter/section from the Developmental Handbook [@lernerHandbookChildPsychology2015] that you asked for in week 5.  The goal is to write for your understanding, which means you may want to write a bit about questions you have, connections to your work/childhood/relevant stuff to you.
 
-B. I want you to have questions about this article you read.  So, please list at least 3. Post 1 in the [student generated Q discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/372033){target='_blank'}
+B. I want you to have questions about this article you read.  So, please list at least 3. Post 1 in the [student generated Q discussion](https://lifespanspring2026.slack.com/archives/C0AQTR936UT){target='_blank'}
 
 C. How, go to chat gpt: https://chat.openai.com/
 
@@ -285,7 +293,7 @@ D. Share your notes/questions in from #1 above regarding textbook claims that ar
 
 E. You might want to use chat gpt to justify/critically analyze the textbook.
 
-F. Share your work in the [#week 5 discussion](https://canvas.seattlecolleges.edu/courses/32787/discussion_topics/372013?module_item_id=1797542){target='_blank'}
+F. Share your work in the [#week 4 gpt discussion](https://lifespanspring2026.slack.com/archives/C0B05Q1FBKL){target='_blank'} Finish by May 4th before class
 
 <!-- # Week 5 May 5 {#week5} -->
 
