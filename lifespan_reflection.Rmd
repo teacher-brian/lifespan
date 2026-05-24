@@ -2,7 +2,28 @@
 title: "LifespanReflection"
 author: "Brian C. Holt, MA"
 date: "2026-05-24"
-output: html_document
+output:
+  html_document:
+    config:
+      search: yes
+      toc:
+        after: |
+          <!-- <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li> -->
+        before: |
+          <li><a href="./">Lifespan Psychology Spring 2026 reflection</a></li>
+        scroll_highlight: yes
+      toolbar:
+        position: fixed
+    css: "style.css"
+    number_sections: no
+    toc: yes
+    toc_depth: 6
+    toc_float: yes
+description: This is a minimal example of using the rmarkdown package for Lifespan
+  psychology
+link-citations: yes
+bibliography: Lifespan.bib
+biblio-style: apalike
 ---
 
 # Purpose
