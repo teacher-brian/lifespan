@@ -1,0 +1,159 @@
+---
+title: "LifespanReflection"
+author: "Brian C. Holt, MA"
+date: "2026-05-24"
+output: html_document
+---
+
+# Purpose
+
+The purpose of this assignment is to review your work across the course, evaluate strengths and weaknesses, identify changes in your thinking, and demonstrate evidence of learning.
+
+This assignment asks you to synthesize and evaluate your work across the semester.
+
+# Important Rule: Portfolio Evidence Cutoff
+
+Only assignments submitted on or before **[insert cutoff date]** may be used as portfolio evidence.
+
+Assignments submitted after this date may still matter for the course, depending on course policy, but they may not be used as evidence in this portfolio reflection.
+
+# Part 0: Course Progress Audit
+
+List your major course assignments.
+
+| Assignment | Status | Date submitted | Eligible for portfolio evidence? |
+|:---|:---|:---|:---|
+| Assignment 1 | On time / Late / Missing |  | Yes / No |
+| Assignment 2 | On time / Late / Missing |  | Yes / No |
+| Assignment 3 | On time / Late / Missing |  | Yes / No |
+| Assignment 4 | On time / Late / Missing |  | Yes / No |
+
+Then respond:
+
+- Which assignments were completed on time?
+- Which assignments were late or missing?
+- What patterns do you notice in your course progress?
+- What would help you improve your workflow in the future?
+
+# Part 1: Artifact Selection (20%)
+
+From assignments eligible for portfolio evidence, select:
+
+- **2 assignments you consider strongest**
+- **1 assignment needing improvement**
+- **1 assignment that changed your thinking**
+
+For each provide:
+
+- Assignment title
+- Approximate submission date
+- 1-2 sentence summary
+- Reason for selection
+
+# Part 2: Evidence-Based Evaluation (30%)
+
+Evaluate your work using the intellectual standards:
+
+- Clear
+- Accurate
+- Precise
+- Relevant
+- Depth
+- Breadth
+- Logic
+- Significance
+- Fairness
+
+For **at least 5 standards**, provide:
+
+- Standard
+- Assignment used
+- Quoted sentence from original work
+- Why it demonstrates or fails to demonstrate this standard
+- Possible revision
+
+# Part 3: Revision Exercise (20%)
+
+Choose **one sentence or paragraph** from earlier eligible work.
+
+Provide:
+
+- Original text
+- Revised text
+- Explanation of change
+
+Possible prompts:
+
+- Did your evidence improve?
+- Did your thinking become more precise?
+- Did you become more skeptical?
+- Did course material alter your interpretation?
+
+# Part 4: Growth Despite Incomplete Work
+
+If you have missing or late assignments, respond to the following:
+
+- Identify one assignment that was missing or late.
+- What made that assignment difficult to complete on time?
+- What learning, practice, or feedback did you miss by not completing it on time?
+- What would you do differently in a future course?
+
+If you do not have missing or late assignments, respond to this instead:
+
+- What helped you stay current with the work?
+- What habit or strategy would you recommend to another student?
+
+# Part 5: Reflection and Growth (20%)
+
+Respond to the following:
+
+## Question 1
+
+What idea from the course most changed your thinking?
+
+## Question 2
+
+What misconception did you have earlier in the semester?
+
+## Question 3
+
+Which assignment best represents your learning?
+
+## Question 4
+
+What would you improve if you repeated the course?
+
+# Part 6: AI Statement (10%)
+
+AI use is permitted.
+
+If AI tools were used, describe:
+
+- Where used
+- Purpose
+- Whether helpful
+- Limitations encountered
+
+If AI tools were not used:
+
+- State that no AI tools were used
+
+# Evaluation Rubric
+
+| Category | Points |
+|:---|---:|
+| Course progress audit | 10 |
+| Artifact selection quality | 15 |
+| Evidence use | 25 |
+| Revision quality | 20 |
+| Reflection depth | 20 |
+| AI disclosure | 10 |
+| **Total** | **100** |
+
+# Notes
+
+- Students are encouraged to reuse prior eligible work.
+- No new outside research is required.
+- The goal is synthesis, evaluation, and reflection rather than creating a new research paper.
+- Late or missing work should be discussed honestly as part of the learning process.
+
