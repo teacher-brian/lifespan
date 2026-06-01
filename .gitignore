@@ -1,6 +1,7 @@
 .Rhistory
 life.Rproj
 Lifespan.Rproj
+.gitignore
 
 # History files
 .Rhistory
@@ -41,3 +42,4 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+.positai
