@@ -1,0 +1,153 @@
+---
+title: "LifespanReflection"
+author: "Brian C. Holt, MA"
+date: "2026-05-24"
+output:
+  html_document:
+    config:
+      search: yes
+      toc:
+        after: |
+          <!-- <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li> -->
+        before: |
+          <li><a href="./">Lifespan Psychology Spring 2026 reflection</a></li>
+        scroll_highlight: yes
+      toolbar:
+        position: fixed
+    css: "style.css"
+    number_sections: no
+    toc: yes
+    toc_depth: 6
+    toc_float: yes
+description: This is a minimal example of using the rmarkdown package for Lifespan
+  psychology
+link-citations: yes
+bibliography: Lifespan.bib
+biblio-style: apalike
+---
+
+# Big idea
+
+The purpose of this assignment is to review your work across the course, evaluate strengths and weaknesses, identify changes in your thinking, and demonstrate evidence of learning.
+
+This assignment asks you to synthesize and evaluate your work across the quarter.
+
+You will continue to use your google document. So, at the bottom of your google doc, enter a new heading/title for this assignment. 
+
+# Important Rule: Portfolio Evidence Cutoff
+
+Only assignments submitted on or before May 25th, 2026 may be used as portfolio evidence.
+
+Assignments submitted after this date are still important, but they may not be used as evidence in this portfolio reflection.
+
+
+# Part 1: Artifact ("assignment") Selection (20%)
+
+From your one google document, select:
+
+- **2 assignments you consider strongest**
+- **1 assignment needing improvement**
+- **1 assignment that changed your thinking**
+
+For each provide:
+
+- Assignment title
+- Approximate submission date
+- Basic and abbreviated reason for selection; if a strong example, what made it strong? If weak, why weak? 
+
+
+# Part 2: Critical thinking Evaluation (20%)
+
+Evaluate each of your 4 choices using some of the 9 the Critical thinking standards:
+
+- Clear
+- Accurate
+- Precise
+- Relevant
+- Depth
+- Breadth
+- Logic
+- Significance
+- Fairness
+
+[A rubric can be found here](https://docs.google.com/document/d/1DRobbPDaLLLg-kSpeh95spS8tBoPvlK7lBFqvfrzHEk/edit?tab=t.0){target='_blank'}
+
+For each of your 4 artifacts, I want you to provide the following for 2 critical thinking standards--but please mix them up; don't just do clarity over and over, for example:
+
+- Standard
+- Assignment used
+- Quoted sentence from original work
+- Why it demonstrates or fails to demonstrate this standard
+
+# Part 3: Revision Exercise (20%)
+
+Choose **one sentence or paragraph** from one of your "needs work" assignments.
+
+Provide:
+
+- Original text
+- Revised text
+- Explanation of change in the context of critical thinking
+
+
+# Part 4: Growth Despite Incomplete Work (10%)
+
+If you have missing or late assignments, respond to the following:
+
+- Identify one assignment that was missing or late.
+- What made that assignment difficult to complete on time?
+- What learning, practice, or feedback did you miss by not completing it on time?
+- What would you do differently in a future course?
+
+If you do not have missing or late assignments, respond to this instead:
+
+- What helped you stay current with the work?
+- What habit or strategy would you recommend to another student?
+
+# Part 5: Reflection and Growth (20%)
+
+Respond to the following:
+
+## Question 1
+
+What idea from the course most changed your thinking?
+
+## Question 2
+
+What misconception did you have earlier in the quarter?
+
+## Question 3
+
+Which assignment best represents your learning?
+
+## Question 4
+
+What would you improve if you repeated the course?
+
+# Part 6: AI Statement (10%)
+
+AI use is permitted, but not to launder writing.  So, as explained in the syllabus, you need to be doing the writing.   Large copy/pastes is proof of cheating (with the exceptions that we already discussed). 
+
+If AI tools were used, describe:
+
+- Where used
+- Purpose
+- Whether helpful
+- Limitations encountered
+
+If AI tools were not used:
+
+- State that no AI tools were used
+
+# Points
+
+| Category | Points |
+|:---|---:|
+| Part 1 | 20 |
+| Part 2 | 20 |
+| Part 3 | 20 |
+| Part 4 | 10 |
+| part 5 | 20 |
+| part 6 | 10 |
+| **Total** | **100** |
+
