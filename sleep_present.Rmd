@@ -1,0 +1,583 @@
+---
+title: "Sleep_presentation"
+author: "Brian Holt"
+date: "`r Sys.Date()`"
+output: 
+  slidy_presentation:
+    widescreen: true
+---
+
+# Big Question
+
+Why do organisms spend so much of life asleep?
+
+And what happens when sleep goes wrong?
+
+Sleep is not simply "shutting down."
+
+Sleep is an active biological process involving:
+
+- Brain activity
+- Memory processing
+- Hormonal regulation
+- Immune function
+- Emotional regulation
+- Waste clearance
+
+# Why Study Sleep in Lifespan Psychology?
+
+Sleep changes across the lifespan.
+
+Infants, children, adolescents, adults, and older adults do not sleep in exactly the same way.
+
+Sleep affects:
+
+- Learning
+- Attention
+- Memory
+- Mood
+- Physical health
+- Cognitive aging
+- Risk for accidents
+
+# How Do Scientists Measure Sleep?
+
+Sleep researchers often use polysomnography.
+
+Polysomnography combines several measures:
+
+- EEG: brain electrical activity
+- EOG: eye movement
+- EMG: muscle activity
+- Heart rate
+- Breathing
+- Oxygen level
+
+# EEG: Measuring Brain Activity
+
+Electroencephalography, or EEG, measures electrical activity from the scalp.
+
+EEG does not directly measure thoughts.
+
+It measures patterns of electrical activity produced by groups of neurons.
+
+Different states are associated with different wave patterns.
+
+# Common Brain Wave Patterns
+
+| Wave | Pattern | Associated state |
+|---|---|---|
+| Beta | Fast | Alert thinking |
+| Alpha | Moderate | Relaxed wakefulness |
+| Theta | Slower | Light sleep |
+| Delta | Slowest | Deep sleep |
+
+# Other Sleep Measures
+
+EOG measures eye movement.
+
+This helps identify REM sleep.
+
+EMG measures muscle activity.
+
+This is important because muscle tone decreases strongly during REM sleep.
+
+Together, these measures help researchers identify sleep stages.
+
+# Sleep Stages
+
+Sleep is usually divided into:
+
+- NREM Stage 1
+- NREM Stage 2
+- NREM Stage 3
+- REM sleep
+
+NREM means non-rapid eye movement sleep.
+
+REM means rapid eye movement sleep.
+
+# NREM Stage 1
+
+NREM Stage 1 is light sleep.
+
+It is the transition between wakefulness and sleep.
+
+Common features:
+
+- Theta waves
+- Easy to awaken
+- Drifting sensations
+- Hypnic jerks
+
+A hypnic jerk is the sudden muscle twitch that can happen when falling asleep.
+
+# NREM Stage 2
+
+NREM Stage 2 is a deeper form of light sleep.
+
+Common features:
+
+- Sleep spindles
+- K-complexes
+- Reduced awareness of surroundings
+
+Most adult sleep occurs in Stage 2.
+
+# NREM Stage 3
+
+NREM Stage 3 is deep sleep.
+
+It is also called slow-wave sleep.
+
+Common features:
+
+- Delta waves
+- Harder to awaken
+- Physical restoration
+- Growth hormone release
+- Immune system support
+
+# REM Sleep
+
+REM sleep is rapid eye movement sleep.
+
+Common features:
+
+- Vivid dreaming
+- Active brain
+- Rapid eye movements
+- Reduced muscle tone
+- Temporary paralysis of most skeletal muscles
+
+REM is sometimes called paradoxical sleep.
+
+The brain looks active, but the body is largely still.
+
+# Sleep Cycles
+
+Sleep does not happen in one block.
+
+A typical cycle is about 90 minutes.
+
+A simplified pattern:
+
+Wake -> N1 -> N2 -> N3 -> REM
+
+This cycle repeats several times across the night.
+
+# Sleep Changes Across the Night
+
+Early in the night:
+
+- More deep sleep
+- More NREM Stage 3
+
+Later in the night:
+
+- More REM sleep
+- Longer dreams
+
+Question for students:
+
+If someone sleeps only four hours, what part of sleep might they lose most?
+
+# Why Do We Sleep?
+
+There is no single accepted answer.
+
+Sleep probably serves several functions.
+
+Major theories include:
+
+- Restoration theory
+- Energy conservation theory
+- Evolutionary/adaptive theory
+- Memory and learning theory
+- Synaptic homeostasis theory
+- Brain maintenance/waste clearance theory
+
+# Restoration Theory
+
+Basic idea:
+
+Sleep helps repair and restore the body.
+
+Evidence:
+
+- Growth hormone release during deep sleep
+- Tissue repair
+- Immune system support
+- Recovery from physical stress
+
+Limitation:
+
+This theory does not fully explain dreaming or REM sleep.
+
+# Energy Conservation Theory
+
+Basic idea:
+
+Sleep reduces energy use.
+
+During sleep:
+
+- Metabolism decreases
+- Body temperature may drop
+- Physical activity decreases
+
+Question:
+
+If the goal is only energy conservation, why not simply rest quietly while awake?
+
+# Evolutionary / Adaptive Theory
+
+Basic idea:
+
+Sleep may have evolved because being inactive at certain times improved survival.
+
+For some animals, nighttime activity may have increased risk from:
+
+- Predators
+- Falls
+- Injury
+- Environmental danger
+
+Sleep may help organisms stay inactive when activity would be risky.
+
+# Memory and Learning Theory
+
+Basic idea:
+
+Sleep helps the brain process learning.
+
+Sleep is involved in:
+
+- Memory consolidation
+- Skill learning
+- Emotional learning
+- Problem solving
+
+This theory is especially relevant for students.
+
+Studying matters, but sleep helps stabilize what was learned.
+
+# Synaptic Homeostasis Theory
+
+Basic idea:
+
+Waking life strengthens many neural connections.
+
+Sleep helps recalibrate the system.
+
+During waking:
+
+- The brain takes in information
+- Synapses strengthen
+- Energy demands increase
+
+During sleep:
+
+- Some connections are downscaled
+- Important patterns may be preserved
+- The brain becomes more efficient
+
+# Brain Maintenance / Waste Clearance Theory
+
+Newer sleep research suggests that sleep may help the brain clear waste.
+
+This is often connected to the glymphatic system.
+
+The glymphatic system refers to fluid movement through the brain that may help remove metabolic waste.
+
+Popular headlines sometimes describe this as the brain's "cleaning crew."
+
+# The Glymphatic System
+
+The term combines:
+
+- Glial cells
+- Lymphatic-like clearance
+
+The basic idea:
+
+1. Cerebrospinal fluid moves through brain tissue.
+2. Fluid exchanges with fluid around neurons.
+3. Waste products are carried away.
+
+This process appears to be more active during sleep, especially deep sleep.
+
+# What Gets Cleared?
+
+Researchers are especially interested in proteins linked to neurodegenerative disease.
+
+Examples:
+
+- Beta-amyloid
+- Tau
+
+These proteins are associated with Alzheimer's disease and related disorders.
+
+The important idea is not that sleep magically prevents disease.
+
+The better claim is that sleep may be part of the brain's maintenance system.
+
+# Naps and Brain Cleaning
+
+Headlines about naps can be exaggerated.
+
+A short nap may improve alertness and mood.
+
+But the strongest evidence for glymphatic clearance is connected to deeper sleep.
+
+A 20-minute nap may not produce the same effects as a full night of sleep.
+
+A longer nap that includes deeper sleep may be more relevant.
+
+# Lifespan Connection: Sleep and Aging
+
+Older adults often experience:
+
+- Less deep sleep
+- More awakenings
+- Earlier sleep and wake times
+- More fragmented sleep
+
+This matters because deep sleep may be important for brain maintenance.
+
+A major research question:
+
+Does poor sleep contribute to cognitive decline, or does early cognitive decline disrupt sleep?
+
+The answer may be both.
+
+# Circadian Rhythms
+
+A circadian rhythm is an approximately 24-hour biological cycle.
+
+The sleep-wake cycle is regulated by:
+
+- Light exposure
+- Biological clocks
+- Hormones
+- Daily routines
+
+The main biological clock is the suprachiasmatic nucleus, or SCN.
+
+# The SCN and Melatonin
+
+The SCN is located in the hypothalamus.
+
+It responds to light information from the eyes.
+
+Melatonin is produced by the pineal gland.
+
+Darkness increases melatonin.
+
+Light suppresses melatonin.
+
+This is why bright light at night can delay sleep.
+
+# Sleep Across the Lifespan
+
+Sleep changes with age.
+
+The big developmental pattern:
+
+- Infants sleep the most
+- Children gradually sleep less
+- Adolescents shift later
+- Adults often lose sleep because of obligations
+- Older adults often have more fragmented sleep
+
+# Infancy
+
+Infants sleep many hours per day.
+
+Infant sleep includes a large proportion of REM-like sleep.
+
+Possible importance:
+
+- Brain development
+- Sensory processing
+- Neural growth
+- Learning
+
+# Childhood
+
+During childhood:
+
+- Sleep becomes more consolidated at night
+- Total sleep time decreases
+- Naps gradually disappear
+- Routines become important
+
+Sleep supports attention, learning, and emotion regulation.
+
+# Adolescence
+
+Adolescents often experience a circadian phase delay.
+
+This means they naturally become sleepy later and wake later.
+
+This creates conflict with early school start times.
+
+Important point:
+
+Teen sleepiness is not simply laziness.
+
+It has a biological component.
+
+# Adulthood
+
+Adult sleep is often shaped by:
+
+- Work
+- Parenting
+- Stress
+- Technology
+- Health
+- Substance use
+- Social demands
+
+Many adults sacrifice sleep even though sleep is important for functioning.
+
+# Older Adulthood
+
+Older adults still need sleep.
+
+But sleep often becomes:
+
+- Lighter
+- Shorter at night
+- More fragmented
+- Shifted earlier
+
+Older adults may also nap more often.
+
+The problem is not always less need for sleep.
+
+The problem may be difficulty getting stable sleep.
+
+# Sleep Disorders
+
+Sleep disorders show what happens when sleep systems break down.
+
+Common examples:
+
+- Insomnia
+- Sleep apnea
+- Narcolepsy
+- REM sleep behavior disorder
+- Night terrors
+- Nightmares
+
+# Insomnia
+
+Insomnia involves difficulty:
+
+- Falling asleep
+- Staying asleep
+- Returning to sleep
+- Feeling rested after sleep
+
+Insomnia can be linked to:
+
+- Stress
+- Anxiety
+- Depression
+- Pain
+- Poor sleep habits
+- Medical conditions
+
+# Sleep Apnea
+
+Sleep apnea involves repeated interruptions in breathing during sleep.
+
+Common signs:
+
+- Loud snoring
+- Gasping during sleep
+- Daytime fatigue
+- Morning headaches
+
+Sleep apnea can reduce oxygen levels and fragment sleep.
+
+Treatment may include CPAP.
+
+# Narcolepsy
+
+Narcolepsy involves sudden episodes of sleepiness.
+
+Some people also experience cataplexy.
+
+Cataplexy is a sudden loss of muscle tone.
+
+Narcolepsy is linked to disruption of orexin, also called hypocretin, a system involved in wakefulness.
+
+# REM Sleep Behavior Disorder
+
+During normal REM sleep, the body is mostly paralyzed.
+
+In REM sleep behavior disorder, this paralysis is incomplete.
+
+People may act out dreams.
+
+This can be dangerous.
+
+In some cases, it can be an early sign of neurodegenerative disease.
+
+# Night Terrors and Nightmares
+
+Night terrors:
+
+- Often occur during deep NREM sleep
+- More common in children
+- Person may scream or appear terrified
+- Often little memory afterward
+
+Nightmares:
+
+- Usually occur during REM sleep
+- More likely to be remembered
+- Often involve vivid frightening dreams
+
+# Sleep Deprivation
+
+Sleep deprivation affects:
+
+- Attention
+- Memory
+- Reaction time
+- Mood
+- Judgment
+- Immune function
+
+Sleep loss can increase risk for accidents.
+
+It can also make emotional regulation harder.
+
+# Big Takeaways
+
+Sleep is active, not passive.
+
+Sleep serves multiple functions.
+
+Sleep changes across development.
+
+Deep sleep may help restore the body and maintain the brain.
+
+REM sleep is important for dreaming, emotion, and memory.
+
+Sleep disorders can seriously affect health and development.
+
+# Final Discussion Questions
+
+Why do so many people sacrifice sleep if sleep is so important?
+
+Should schools start later for adolescents?
+
+Should naps be treated as laziness, self-care, or biological regulation?
+
+What would count as good evidence that sleep helps protect the aging brain?
+
