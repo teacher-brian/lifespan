@@ -1,0 +1,453 @@
+---
+title: "Hormonal Changes Across Adulthood (25–65)"
+subtitle: "Lifespan Psychology"
+format:
+  revealjs:
+    slide-number: true
+    theme: simple
+    transition: fade
+    smaller: true
+---
+
+# Hormonal Changes Across Adulthood
+
+## Ages 25–65
+
+### Lifespan Psychology
+
+::: notes
+Today we will examine how hormones continue to change throughout adulthood.
+
+Many students associate hormones primarily with puberty and adolescence. However, hormonal systems remain active throughout life and influence stress, health, reproduction, sleep, energy, and aging.
+:::
+
+---
+
+# Learning Objectives
+
+By the end of today's lecture, you should be able to:
+
+- Describe major hormonal changes between ages 25 and 65
+- Explain the role of cortisol in stress and health
+- Discuss hormonal transitions associated with menopause
+- Describe age-related hormonal changes in men
+- Evaluate hormones within a biopsychosocial framework
+
+::: notes
+Students should leave understanding that hormones are one factor among many influencing adult development.
+
+Biology influences behavior, but it does not determine it.
+:::
+
+---
+
+# Opening Question
+
+When people hear the word **hormones**, what comes to mind?
+
+Possible responses:
+
+- Teenagers
+- Puberty
+- Mood swings
+- Testosterone
+- Estrogen
+
+## Discussion
+
+What hormones continue changing after age 25?
+
+::: notes
+Allow students to brainstorm.
+
+Potential responses include cortisol, thyroid hormones, growth hormone, estrogen, progesterone, testosterone, melatonin, and insulin.
+:::
+
+---
+
+# Why Hormones Matter
+
+Hormones influence:
+
+- Reproduction
+- Mood
+- Energy
+- Sleep
+- Stress responses
+- Bone health
+- Muscle maintenance
+- Cognitive functioning
+
+## Key Idea
+
+Hormones help coordinate communication throughout the body.
+
+::: notes
+Hormones act as chemical messengers.
+
+They are produced by endocrine glands and travel through the bloodstream to influence target tissues.
+
+Psychologists are interested because hormonal changes often affect behavior, cognition, and emotional functioning.
+:::
+
+---
+
+# Early Adulthood: 25–40
+
+## Relative Hormonal Stability
+
+Many adults are near their biological peak.
+
+### Women
+
+- Typically regular ovarian cycles
+- Stable estrogen and progesterone levels
+- Highest fertility years
+
+### Men
+
+- Relatively stable testosterone
+- Peak muscle-building capacity
+- Peak sperm production
+
+::: notes
+Emphasize the word "relative."
+
+Hormonal levels fluctuate daily and monthly, but compared with later adulthood, the overall system is relatively stable.
+
+There is substantial individual variation.
+:::
+
+---
+
+# Hormones and Everyday Life
+
+Hormones can influence:
+
+- Motivation
+- Sexual desire
+- Sleep quality
+- Energy levels
+- Recovery from exercise
+- Emotional experiences
+
+## Important Reminder
+
+Hormones influence behavior.
+
+They do not fully determine behavior.
+
+::: notes
+Students often overestimate hormonal explanations.
+
+Two individuals with similar hormone levels may behave very differently because of personality, culture, learning history, and social circumstances.
+
+This reinforces biopsychosocial thinking.
+:::
+
+---
+
+# Cortisol: The Stress Hormone
+
+Produced by the adrenal glands.
+
+Functions include:
+
+- Mobilizing energy
+- Increasing alertness
+- Supporting responses to challenges
+- Regulating metabolism
+
+## Helpful During
+
+- Exams
+- Public speaking
+- Emergencies
+
+::: notes
+Introduce cortisol as one of the most important hormones in adulthood.
+
+Stress often becomes more relevant during adulthood than reproductive hormones alone.
+:::
+
+---
+
+# Acute vs. Chronic Stress
+
+## Acute Stress
+
+- Short-term
+- Adaptive
+- Helps performance
+
+## Chronic Stress
+
+- Persistent activation
+- Increased disease risk
+- Sleep disruption
+- Immune suppression
+- Fatigue
+
+::: notes
+Ask students for examples of each.
+
+Acute stress might be giving a presentation.
+
+Chronic stress might be years of financial pressure, caregiving, or workplace stress.
+:::
+
+---
+
+# Allostatic Load
+
+## Definition
+
+The cumulative wear and tear on the body caused by repeated stress exposure.
+
+Contributors include:
+
+- Work demands
+- Financial strain
+- Parenting responsibilities
+- Caregiving
+- Chronic illness
+
+Associated with:
+
+- Cardiovascular disease
+- Depression
+- Cognitive decline
+
+::: notes
+This is one of the most important lifespan concepts.
+
+Repeated activation of stress systems can produce long-term physiological costs.
+
+Researchers often use allostatic load to explain how social experiences become biological outcomes.
+:::
+
+---
+
+# Midlife Hormonal Changes: 40–55
+
+Hormonal changes become more noticeable.
+
+Changes occur in:
+
+- Reproductive systems
+- Metabolism
+- Sleep
+- Stress responses
+
+The pace and experience vary greatly across individuals.
+
+::: notes
+Avoid portraying midlife as decline.
+
+Instead, describe it as a period of biological transition.
+
+Many adults remain healthy, productive, and psychologically resilient.
+:::
+
+---
+
+# Perimenopause
+
+## What Is It?
+
+The transitional period before menopause.
+
+Common features:
+
+- Fluctuating estrogen levels
+- Irregular menstrual cycles
+- Reduced fertility
+
+Possible symptoms:
+
+- Hot flashes
+- Night sweats
+- Sleep disruption
+- Mood changes
+
+::: notes
+Perimenopause may begin years before menopause.
+
+Experiences vary substantially.
+
+Some women report significant symptoms while others report relatively few.
+:::
+
+---
+
+# Menopause
+
+## Definition
+
+Twelve consecutive months without menstruation.
+
+### Hormonal Changes
+
+- Major decline in estrogen
+- Major decline in progesterone
+
+### Common Consequences
+
+- Changes in sleep
+- Bone loss risk
+- Cardiovascular health changes
+- Changes in sexual functioning
+
+::: notes
+Menopause is a biological transition, not a disorder.
+
+Many women continue to function at high levels personally and professionally.
+
+Emphasize normal variation.
+:::
+
+---
+
+# Hormonal Changes in Men
+
+## Gradual Testosterone Decline
+
+Average decline begins during adulthood.
+
+Potential effects:
+
+- Reduced muscle mass
+- Increased body fat
+- Lower libido
+- Reduced energy
+
+## Important
+
+Changes are gradual and highly variable.
+
+::: notes
+Unlike menopause, there is usually no single dramatic transition.
+
+Lifestyle factors often explain more variation than age alone.
+
+Exercise remains particularly important.
+:::
+
+---
+
+# Hormones and Cognition
+
+Questions researchers continue to study:
+
+- Does menopause affect memory?
+- Does testosterone influence cognition?
+- How does stress affect attention?
+
+Current conclusion:
+
+Hormonal effects exist but are usually modest and interact with many other factors.
+
+::: notes
+Students often expect simple answers.
+
+Research findings are usually more nuanced.
+
+Sleep, health, education, stress, and social engagement frequently matter as much or more than hormonal levels.
+:::
+
+---
+
+# A Biopsychosocial Perspective
+
+Hormones interact with:
+
+- Physical health
+- Exercise
+- Sleep
+- Relationships
+- Culture
+- Stress
+- Social support
+
+## Key Principle
+
+Biology influences behavior within larger systems.
+
+::: notes
+This slide helps integrate multiple chapters from lifespan psychology.
+
+It also helps students avoid reductionist thinking.
+:::
+
+---
+
+# Class Activity
+
+Draw arrows between:
+
+- Cortisol
+- Sleep
+- Exercise
+- Depression
+- Social Support
+- Physical Health
+
+Questions:
+
+- Which variables influence others?
+- Which relationships may be bidirectional?
+
+::: notes
+This works well as a mini DAG activity.
+
+Examples:
+
+Poor sleep increases stress. Stress worsens sleep.
+
+Exercise improves sleep and health. Social support buffers stress.
+
+This reinforces causal thinking.
+:::
+
+---
+
+# Key Takeaways
+
+1. Hormonal systems remain active throughout adulthood.
+2. Cortisol and stress are major influences on adult health.
+3. Menopause represents a significant biological transition.
+4. Male hormonal changes are generally more gradual.
+5. Hormones are one part of a larger biopsychosocial system.
+
+::: notes
+End by emphasizing that adulthood is not hormonally static.
+
+At the same time, hormones should not be viewed as destiny.
+
+Behavior emerges from interactions among biological, psychological, and social factors.
+:::
+
+---
+
+# Discussion Question
+
+If hormones influence behavior but do not determine behavior,
+
+## What other factors should psychologists consider?
+
+::: notes
+Use this as a closing discussion.
+
+Expected answers include learning history, culture, personality, relationships, environment, social support, and cognitive interpretations.
+
+This nicely transitions into future lifespan topics.
+:::
+```
+
+Save this as something like:
+
+```r
+hormonal_changes_lifespan.qmd
+```
+
+Then in RStudio, click **Render**.
