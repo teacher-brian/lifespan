@@ -1,6 +1,7 @@
 .Rhistory
 life.Rproj
 Lifespan.Rproj
+.gitignore
 
 # History files
 .Rhistory
