@@ -21,11 +21,10 @@ Today we will examine how hormones continue to change throughout adulthood.
 Many students associate hormones primarily with puberty and adolescence. However, hormonal systems remain active throughout life and influence stress, health, reproduction, sleep, energy, and aging.
 :::
 
----
+
 
 # Learning Objectives
 
-By the end of today's lecture, you should be able to:
 
 - Describe major hormonal changes between ages 25 and 65
 - Explain the role of cortisol in stress and health
@@ -39,7 +38,7 @@ Students should leave understanding that hormones are one factor among many infl
 Biology influences behavior, but it does not determine it.
 :::
 
----
+
 
 # Opening Question
 
@@ -63,7 +62,7 @@ Allow students to brainstorm.
 Potential responses include cortisol, thyroid hormones, growth hormone, estrogen, progesterone, testosterone, melatonin, and insulin.
 :::
 
----
+
 
 # Why Hormones Matter
 
@@ -90,7 +89,7 @@ They are produced by endocrine glands and travel through the bloodstream to infl
 Psychologists are interested because hormonal changes often affect behavior, cognition, and emotional functioning.
 :::
 
----
+
 
 # Early Adulthood: 25–40
 
@@ -118,7 +117,7 @@ Hormonal levels fluctuate daily and monthly, but compared with later adulthood, 
 There is substantial individual variation.
 :::
 
----
+
 
 # Hormones and Everyday Life
 
@@ -145,7 +144,7 @@ Two individuals with similar hormone levels may behave very differently because 
 This reinforces biopsychosocial thinking.
 :::
 
----
+
 
 # Cortisol: The Stress Hormone
 
@@ -170,7 +169,7 @@ Introduce cortisol as one of the most important hormones in adulthood.
 Stress often becomes more relevant during adulthood than reproductive hormones alone.
 :::
 
----
+
 
 # Acute vs. Chronic Stress
 
@@ -196,7 +195,7 @@ Acute stress might be giving a presentation.
 Chronic stress might be years of financial pressure, caregiving, or workplace stress.
 :::
 
----
+
 
 # Allostatic Load
 
@@ -226,7 +225,7 @@ Repeated activation of stress systems can produce long-term physiological costs.
 Researchers often use allostatic load to explain how social experiences become biological outcomes.
 :::
 
----
+
 
 # Midlife Hormonal Changes: 40–55
 
@@ -249,7 +248,7 @@ Instead, describe it as a period of biological transition.
 Many adults remain healthy, productive, and psychologically resilient.
 :::
 
----
+
 
 # Perimenopause
 
@@ -278,7 +277,7 @@ Experiences vary substantially.
 Some women report significant symptoms while others report relatively few.
 :::
 
----
+
 
 # Menopause
 
@@ -306,7 +305,7 @@ Many women continue to function at high levels personally and professionally.
 Emphasize normal variation.
 :::
 
----
+
 
 # Hormonal Changes in Men
 
@@ -333,7 +332,7 @@ Lifestyle factors often explain more variation than age alone.
 Exercise remains particularly important.
 :::
 
----
+
 
 # Hormones and Cognition
 
@@ -355,7 +354,7 @@ Research findings are usually more nuanced.
 Sleep, health, education, stress, and social engagement frequently matter as much or more than hormonal levels.
 :::
 
----
+
 
 # A Biopsychosocial Perspective
 
@@ -379,7 +378,7 @@ This slide helps integrate multiple chapters from lifespan psychology.
 It also helps students avoid reductionist thinking.
 :::
 
----
+
 
 # Class Activity
 
@@ -409,7 +408,7 @@ Exercise improves sleep and health. Social support buffers stress.
 This reinforces causal thinking.
 :::
 
----
+
 
 # Key Takeaways
 
@@ -427,7 +426,7 @@ At the same time, hormones should not be viewed as destiny.
 Behavior emerges from interactions among biological, psychological, and social factors.
 :::
 
----
+
 
 # Discussion Question
 
@@ -442,12 +441,4 @@ Expected answers include learning history, culture, personality, relationships, 
 
 This nicely transitions into future lifespan topics.
 :::
-```
 
-Save this as something like:
-
-```r
-hormonal_changes_lifespan.qmd
-```
-
-Then in RStudio, click **Render**.
